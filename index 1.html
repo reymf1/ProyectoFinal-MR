@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="icon" href="../Imágenes/LogoYoga3.png" type="image/png"><!-- "favicon" -->
+
+  <!--Montserrat-->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  
+  <!--Playfair display-->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+  <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-thin-straight/css/uicons-thin-straight.css'>
+
+  <link rel="stylesheet" href="style.css">
+  <title>Proyecto Final Front End JS</title>
+</head>
+
+<body>
+  <header id="inicio">
+<!----------BARRA DE NAVEGACIÓN---------->
+    <nav class="header__nav">
+      <div class="header__nav-logo">
+        <a href="index.html#inicio"><img src="./Imágenes/LogoYoga3.png" alt=""></a>
+      </div>
+      <ul class="header__nav-list">
+        <li ><a href="index.html#inicio">INICIO</a></li>
+        <li class="header__nav-item-menu">
+          <a href="index.html#servicios">SERVICIOS<img src="./Imágenes/flechaabajo.png" alt=""></a>     
+          <ul class="header__nav-item-menu-submenu">
+            <li><a href="index.html#formacion">Formación y Aprendizaje</a></li>
+            <li><a href="index.html#yoga">Clases Prácticas de Yoga</a></li>
+            <li><a href="index.html#terapias">Terapias Holísticas</a></li>
+            <li><a href="index.html#espacios">Rituales y Espacios Sagrados</a></li>
+          </ul>
+        </li>
+        <li><a href="index.html#productos">PRODUCTOS</a></li>
+        <li><a href="index 2.html#acercademi">ACERCA DE MÍ</a></li>
+        <li><a href="#contacto">CONTACTO</a></li>
+      </ul>
+      <div class="header__nav-logo-redes">
+        <a href="https://www.facebook.com/sanandomesanandote" target="_blank"><img src="./Imágenes/facebook.png" alt=""></a>
+        <a href="https://www.instagram.com/sanandomesanandote/" target="_blank"><img src="./Imágenes/instagram.png" alt=""></a>
+        <a href="https://www.tiktok.com/@sanadomesanandote" target="_blank"><img src="./Imágenes/tik-tok.png" alt=""></a>
+        <a href="https://wa.me/+5491138013164" target="_blank"><img src="./Imágenes/whatsapp.png" alt=""></a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+
+    <!----------SECTION CONTACTO---------->
+
+    <section id="contacto">
+
+      <div class="estrellas-1">
+        <div class="estrellas-1__contacto">
+          <h1>Contacto</h1>
+          <h2>CENTRO PARA LA VIDA ESPIRITUAL</h2>
+        </div>
+      </div><!--class="estrellas-1"-->
+
+      <div class="contact">
+        <h2>Envíanos tu consulta</h2>
+        <form class="contact__form" action="https://formspree.io/f/manplgwb" method="post">
+          <div class="contact__form-1">
+            <label>Nombre y Apellido
+              <input type="text" name="name" placeholder="Juan Perez" required>
+            </label>
+            <label>Correo electrónico
+             <input type="email" name="email" placeholder="jp@gmail.com" required>
+            </label>
+            <label>Teléfono
+              <input type="tel" name="phone" placeholder="113819387" required>
+            </label>
+          </div><!--class="contact__form-1"-->
+
+          <div class="referencia">
+            <label for="referente">¿Cómo me encontraste?</label>
+            <select id="referente" name="referente">
+              <option value="">-- Seleccioná una opción --</option>
+              <option value="web">Página web</option>
+              <option value="facebook">Facebook</option>
+              <option value="instagram">Instagram</option>
+              <option value="tik-tok">TikTok</option>
+              <option value="conocido">Me recomendó un amigo</option>
+              <option value="otros">Otros</option>
+            </select>
+          </div><!--class="referencia"-->
+          
+          <div class="contact__form-2">
+            <label for="mje">Mensaje</label>
+            <textarea id="mje" name="mensaje" rows="4" cols="50" placeholder="Dejá tu mensaje..."></textarea>
+          </div><!--class="contact__form-2"-->          
+          <button type="submit">ENVIAR</button>
+        </form>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.51563995435!2d-58.481989023502905!3d-34.6164075581699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc9b886add30f%3A0x13ccca6f1dfd4e1a!2zU2Fuw6FuZG9tZSxzYW7DoW5kb3Rl!5e0!3m2!1ses-419!2sar!4v1757680739844!5m2!1ses-419!2sar" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div><!--class="contact""-->
+
+    </section>
+
+<!----------SECTION CONTACTO---------->
+    
+  </main>
+
+  <footer>
+
+    <div class="pie">
+
+      <ul class="pie__list">
+        <li ><a href="index.html#inicio">INICIO</a></li>
+        <li class="pie__list-item-menu">
+          <a href="index.html#servicios">SERVICIOS<img src="./Imágenes/flechaabajo.png" alt=""></i></a>
+          <ul class="pie__list-item-submenu">
+            <li><a href="index.html#formacion">Formación y Aprendizaje</a></li>
+            <li><a href="index.html#yoga">Clases Prácticas de Yoga</a></li>
+            <li><a href="index.html#terapias">Terapias Holísticas</a></li>
+            <li><a href="index.html#espacios">Rituales y Espacios Sagrados</a></li>
+          </ul>
+        </li>
+        <li><a href="index.html#productos">PRODUCTOS</a></li>
+        <li><a href="index 2.html#acercademi">ACERCA DE MÍ</a></li>
+        <li><a href="#contacto">CONTACTO</a></li>
+      </ul>
+
+      <div class="pie__info">
+        <h4>Información de contacto</h4>
+        <div class="pie__info-wp">
+          <img src="./Imágenes/whatsapp-negro-1.png" alt="">
+          <p>+54 911 38013164 </p>
+        </div>
+        <div class="pie__info-correo">
+          <img src="./Imágenes/correo-electronico-1.png" alt="">
+          <div class="pie__info-correo-1">
+            <a href="mailto:vaninapvitale@gmail.com">vaninapvitale@gmail.com</a>
+            <a href="mailto:afumarco@yahoo.com">afumarco@yahoo.com</a>
+          </div>
+        </div>
+        <div class="pie__info-direccion">
+          <img src="./Imágenes/direccion-1.png" alt="">
+          <p>Argerich 1576, Villa del Parque</p>
+        </div>
+      </div><!--class="pie__info"-->
+
+      <div class="pie__redes">
+        <h4>Seguinos en las redes!</h4>
+        <div class="pie__redes-icon">
+          <a href="https://www.facebook.com/sanandomesanandote" target="_blank"><img src="./Imágenes/facebook.png" alt=""></a>
+          <a href="https://www.instagram.com/sanandomesanandote/" target="_blank"><img src="./Imágenes/instagram.png" alt=""></a>
+          <a href="https://www.tiktok.com/@sanadomesanandote" target="_blank"><img src="./Imágenes/tik-tok.png" alt=""></a>
+          <a href="https://wa.me/+5491138013164" target="_blank"><img src="./Imágenes/whatsapp.png" alt=""></a>
+        </div>
+      </div>
+      <div class="pie__logo">
+        <a href="index.html#inicio"><img src="./Imágenes/LogoYoga3.png" alt=""></a>
+      </div>
+    </div><!--class="pie__redes"-->
+
+    <div class="pie-1">
+      <p>Copyright © 2025  |   Aviso legal</p>
+      <div class="pie-1-1">
+        <p>Sitio web creado por</p>
+        <img src="./Imágenes/MR-1.png" alt="">
+      </div>
+    </div><!--class="pie-1"-->
+
+  </footer>
+
+</body>
+</html>
+
+

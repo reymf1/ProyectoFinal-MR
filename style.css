@@ -1,0 +1,1328 @@
+/*----------ESTILOS GENERALES----------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.botones{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1rem;
+}
+.botones button, .botones a {
+  background-color: #cde4f4;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  letter-spacing: 0.0625rem;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  color: #a26eaf;
+  padding: 0.625rem 0px;
+  cursor: pointer;
+  width: 10.625rem;
+}
+.estrellas-1 {
+  background: linear-gradient(rgb(223, 236, 232, 0.9), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(../Imágenes/estrellas2.jpeg) center / cover;
+  height: 18.75rem;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.estrellas-1__contacto {
+  text-align: center;
+}
+.estrellas-1__contacto h1 {
+  padding-top: 6.25rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 3.125rem;
+  letter-spacing: 0.375rem;
+  color: #a26eaf;;
+}
+.estrellas-1__contacto h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 300;
+  font-size: 1.875rem;
+  letter-spacing: 0.18rem;
+  color: #696868;
+  margin-top: 1.25rem;
+}
+.titulo {
+  width: 100vw;
+  height: 11.25rem;
+  background:linear-gradient(to right, rgba(205, 228, 244, 0.8), rgb(215, 200, 240), rgb(215, 200, 250), rgb(215, 200, 240), rgba(205, 228, 244, 0.8));
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.titulo h2 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 3.125rem;
+  color: #a26eaf;
+  letter-spacing: 0.375rem;
+}
+.titulo P {
+  margin-top: 0.94rem;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: #696868;
+}
+
+/*----------FIN ESTILOS GENERALES----------*/
+
+
+/*----------HEADER----------*/
+
+.header__nav {
+  background: linear-gradient(to right, rgba(185, 190, 189, 0.8), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgba(185, 190, 189, 0.8));
+  display: flex;
+	justify-content: space-around;
+	align-items: center;
+  flex-wrap: wrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 20;
+  
+}
+/*.header__nav-logomenu {
+  display: none;
+}*/
+
+/*Efecto de achicar la barra de navegación con el movimiento del scroll*/
+.header__nav-logo img {
+  animation: achicar 1 both;
+  animation-timeline: scroll();
+  animation-range: 0 0.6rem;
+}
+@keyframes achicar {
+  from { width: 6.25rem; }
+  to   { width: 3.75rem; }  /* tamaño reducido */
+}
+
+.header__nav-list {
+    display: flex;
+    flex-wrap: wrap;
+		list-style: none;
+    gap: 2.5rem;
+    justify-content: center;
+}
+.header__nav-list a {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #696868;
+}
+.header__nav-item-menu {
+  position: relative;/*Para posicionar el submenu con position absolute*/
+}
+.header__nav-item-menu img {
+  margin-left: 0.625rem;
+  transition: transform 0.2s ease-in-out;
+}
+.header__nav-item-menu:hover img {
+  transform: rotate(180deg);
+}
+.header__nav-item-menu-submenu {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  min-width: 12.5rem;  /* mínimo ancho legible */
+  width: auto;       /* se adapta al contenido */
+  white-space: nowrap; /* evita salto de línea */
+  list-style: none;
+  border-radius: 0.625rem;
+  background-color: rgb(222, 215, 238);
+  box-shadow: 4px 4px 12px rgba(0,0,0,0.2);
+  display: none;
+}
+.header__nav-item-menu-submenu li {
+  padding: 0.625rem 0.625rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #a26eaf;
+}
+.header__nav-item-menu-submenu a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #a26eaf;
+  margin: 1.25rem 1.875rem 1.25rem 0.625rem;
+}
+.header__nav-item-menu-submenu li:not(:last-child){
+  border-bottom: 1px solid #cac4c4;
+  }
+  .header__nav-item-menu:hover > .header__nav-item-menu-submenu {
+  display: block;
+}
+  .header__nav-item-menu-submenu li:hover {
+  background-color: #ffffff;
+}
+.header__nav-item-menu-submenu li:hover:first-child {
+  background-color: #ffffff;
+  border-radius: 10px 10px 0 0;
+}
+.header__nav-item-menu-submenu li:hover:last-child {
+  background-color: #ffffff;
+  border-radius: 0 0 10px 10px;
+}
+.header__nav-item-menu-submenu li:hover a {
+  color: #d6e4f5;
+  background-color: #ffffff;
+  color: #68a8c4;
+}
+.header__nav-logo-redes {
+  display: flex;
+  gap: 1.25rem;
+}
+.header__nav-logo-redes img {
+  filter: contrast(30%);
+}
+.header__estrellas {
+  background: linear-gradient(rgb(223, 236, 232, 0.9), rgb(223, 236, 232, 0.6), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(../Imágenes/estrellas2.jpeg) center / cover;
+  height: 100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5.5rem;
+}
+.header__titulo {
+  text-align: center;
+}
+.header__titulo h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 4rem;
+  letter-spacing: 0.375rem;
+  color: #696868;
+}
+.header__titulo h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 300;
+  font-size: 2rem;
+  letter-spacing: 0.375rem;
+  color: #696868;
+  margin-top: 2.5rem;
+}
+.header__simbolos{
+  margin-top: 6.25rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6.25rem;
+}
+.header__simbolos-1 {
+  border: 1px solid transparent;
+  border-radius: 50%;
+  padding: 1.125rem;
+  background-color: #e0caf1;
+}
+
+/*----------FIN HEADER----------*/
+
+
+/*----------SECTION SERVICIOS----------*/
+
+#servicios {
+  scroll-margin-top: 3.39rem;/*la barra de navegación mide 54.27px. Este es el espacio que deja para que la sección "servicios" se posicione a continuación del la brra de navegación, ya que al tener position: fixed no ocupa lugar y la sección "servicios" quedaría tapada (el título)*/
+}
+
+/*----------SUB-SECTION FORMACION-----------*/
+
+#formacion {
+  scroll-margin-top: 3.39rem;/*la barra de navegación mide 54.27px. Este es el espacio que deja para que la sección "formacion" se posicione a continuación del la brra de navegación, ya que al tener position: fixed no ocupa lugar y la sección "servicios" quedaría tapada (el título)*/
+}
+.formacion {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(229, 215, 239, 0.5);
+  padding-bottom: 5rem;
+}
+.formacion__logo {
+  margin-top: 3.125rem;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  padding: 1.125rem;
+  background-color: #e7dbf0;
+}
+.formacion h2 {
+  margin-top: 1.875rem;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2.5rem;
+  color: #696868;
+}
+.formacion__descripcion {
+  max-width: 60%;
+}
+.formacion__descripcion h3 {
+  margin-top: 3.125rem;
+  margin-bottom: 1.25rem;
+  text-align: left;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 1.75rem;
+  color: #861aa1;
+}
+.formacion__descripcion p, .formacion__descripcion ul {
+  margin-bottom: 0.94rem;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.56rem;
+  color: #696868;
+}
+.formacion__descripcion span {
+  font-weight: 600;
+}
+.formacion__descripcion .valor {
+  margin: 1.56rem 0;
+  margin-bottom: 1.56rem;
+  text-align: center;
+  padding-bottom: 1.56rem;
+}
+.formacion__descripcion .numero{
+  font-weight: 500;
+}
+.formacion__descripcion .fin{
+  padding-bottom: 1.56rem;
+}
+.formacion__descripcion hr {
+  max-width: 90%;
+  border-top: 2px solid #c5d7e4;
+  margin: 1.875rem 0 0 4.375rem;        
+}
+.formacion__descripcion-training{
+  display: flex;
+  gap: 6.25rem;
+}
+.formacion__descripcion-training--pract1,
+.formacion__descripcion-training--pract2 {
+  flex: 1;
+}
+.formacion__descripcion li {
+  margin-left: 2.5rem;
+  list-style-type: "✓";
+  padding-left: 0.5rem;
+}
+.formacion__testimonios {
+  margin-top: 6.25rem;
+  position: relative;/*Para dar referencia a la position: absolute de las flechas*/
+  width: 80%;
+  max-width: 50rem;
+}
+.formacion__testimonios-carrousel{
+  overflow: hidden;
+}
+.formacion__testimonios-slider {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+.formacion__testimonios-slider-1,
+.formacion__testimonios-slider-2,
+.formacion__testimonios-slider-3 {
+  flex: 0 0 100%;
+  height: 18.75rem;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.formacion__testimonios-slider-1-parrafo,
+.formacion__testimonios-slider-2-parrafo,
+.formacion__testimonios-slider-3-parrafo {
+  width: 46.875rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #696868;
+}
+.formacion__testimonios-slider-1-pie,
+.formacion__testimonios-slider-2-pie,
+.formacion__testimonios-slider-3-pie {
+  margin-top: 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1.25rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+
+input[type="radio"] {
+  display: none;
+}/* Ocultar radios */
+
+.formacion__testimonios-nav{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}/* Flechas base */
+
+.formacion__testimonios-nav-controls img {
+  filter: invert(60%);
+}
+
+.formacion__testimonios-nav-controls {
+  display: none; /* ocultas por defecto */
+}
+.formacion__testimonios-nav-controls .izq {
+  position: absolute;
+  left: -2.5rem;
+}
+.formacion__testimonios-nav-controls .der {
+  position: absolute;
+  right: -2.5rem;
+}
+
+/* Posiciones del carrusel según radio activo */
+#s1:checked ~ .formacion__testimonios-carrousel .formacion__testimonios-slider {
+  transform: translateX(0%);
+}
+#s2:checked ~ .formacion__testimonios-carrousel .formacion__testimonios-slider {
+  transform: translateX(-100%); 
+}
+#s3:checked ~ .formacion__testimonios-carrousel .formacion__testimonios-slider {
+  transform: translateX(-200%);
+}
+
+/* Mostrar el grupo correcto de flechas */
+#s1:checked ~ .formacion__testimonios-nav .formacion__testimonios-nav-controls--c1 { 
+  display: flex;
+}
+#s2:checked ~ .formacion__testimonios-nav .formacion__testimonios-nav-controls--c2 {
+  display: flex;
+}
+#s3:checked ~ .formacion__testimonios-nav .formacion__testimonios-nav-controls--c3 {
+  display: flex;
+}
+
+/*----------FIN SUB-SECTION FORMACION-----------*/
+
+
+/*----------SUB-SECTION YOGA-----------*/
+
+#yoga {
+  scroll-margin-top: 3.39rem;/*la barra de navegación mide 55.89px. Este es el espacio que deja para que la sección "yoga" se posicione a continuación del la brra de navegación, ya que al tener position: fixed no ocupa lugar y la sección "yoga" quedaría tapada (el título)*/
+}
+.yoga {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background:linear-gradient(to right, rgb(215, 200, 250), rgba(205, 228, 244, 0.8), rgba(205, 228, 244, 0.8), rgb(215, 200, 250));
+}
+.yoga__logo {
+  margin: auto;
+  margin-top: 3.125rem;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  padding: 1.125rem;
+  background-color: #e7dbf0;
+}
+.yoga h2 {
+  margin-top: 1.875rem;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2.5rem;
+  color: #696868;
+}
+.fotos {
+  margin-top: 6.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 3.75rem;
+}
+.fotos__1, .fotos__2, .fotos__3 {
+  max-width: 28.125rem;
+  margin-bottom: 3.125rem;
+}
+.fotos__1-imagen, .fotos__2-imagen, .fotos__3-imagen {
+  max-width: 28.125rem;
+  height: 21.875rem;
+}
+.fotos__1 img, .fotos__2 video, .fotos__3 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.fotos__1 h3, .fotos__2 h3, .fotos__3 h3 {
+  margin-top: 0.3125rem;
+  text-align: left;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 1.75rem;
+  color: #861aa1;
+}
+.fotos__1 p, .fotos__2 p, .fotos__3 p {
+  margin-top: 0.3125rem;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+.fotos__1 .modalidad {
+  font-weight:500;
+}
+.fotos__1 .valor, .fotos__2 .valor, .fotos__3 .valor {
+  font-weight: 600;
+  text-align: center;
+  margin-top: 0.94rem;
+}
+.fotos__1 .botones button, .fotos__2 .botones button, .fotos__3 .botones button {
+  margin-top: 0.625rem;
+}
+.fotos__1 .botones a, .fotos__2 .botones a, .fotos__3 .botones a {
+  margin-top: 2.5rem;
+}
+.fotos__1 .numero, .fotos__2 .numero,.fotos__3 .numero {
+  font-weight: 500;
+}
+
+/*----------FIN SUB-SECTION YOGA-----------*/
+
+
+/*----------SUB-SECTION TERAPIAS-----------*/
+
+#terapias {
+  scroll-margin-top: 3.39rem;/*la barra de navegación mide 54.27px. Este es el espacio que deja para que la sección "terapias" se posicione a continuación del la brra de navegación, ya que al tener position: fixed no ocupa lugar y la sección "yoga" quedaría tapada (el título)*/
+}
+.terapias {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background:linear-gradient(to right, rgba(205, 228, 244, 0.8),rgb(215, 200, 250),rgb(215, 200, 250), rgba(205, 228, 244, 0.8));
+}
+.terapias__logo {
+  margin-top: 3.125rem;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  padding: 1.125rem;
+  background-color: #e7dbf0;
+}
+.terapias h2 {
+  margin-top: 1.875rem;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2.5rem;
+  color: #696868;
+}
+.terserv {
+  margin-top: 6.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 3.75rem;
+}
+.terserv__asesorias, .terserv__floral, .terserv__reiki {
+  max-width: 28.125rem;
+  margin-bottom: 3.125rem;
+}
+.terserv__asesorias h3, .terserv__floral h3, .terserv__reiki h3 {
+  text-align: left;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 1.75rem;
+  color: #861aa1;
+}
+.terserv__asesorias p, .terserv__floral p, .terserv__reiki p {
+  margin-top: 0.3125rem;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+.terserv__asesorias .valor, .terserv__floral .valor, .terserv__reiki .valor {
+  font-weight: 600;
+  text-align: center;
+  margin: 0.94rem 0 1.875rem 0;
+}
+
+/*----------FIN SUB-SECTION TERAPIAS-----------*/
+
+
+/*----------SUB-SECTION ESPACIOS-----------*/
+
+#espacios {
+  scroll-margin-top: 3.39rem;/*la barra de navegación mide 54.27px. Este es el espacio que deja para que la sección "espacios" se posicione a continuación del la brra de navegación, ya que al tener position: fixed no ocupa lugar y la sección "yoga" quedaría tapada (el título)*/
+}
+.espacios {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background:linear-gradient(to right, rgb(215, 200, 250), rgba(205, 228, 244, 0.8), rgba(205, 228, 244, 0.8), rgb(215, 200, 250));
+}
+.espacios__logo {
+  margin-top: 3.125rem;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  padding: 1.125rem;
+  background-color: #e7dbf0;
+}
+.espacios h2 {
+  margin-top: 1.875rem;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2.5rem;
+  color: #696868;
+}
+.circsagr {
+  margin-top: 6.25rem;
+  display: flex;
+  justify-content: center;
+  gap: 3.75rem;
+}
+.circsagr__descr {
+  max-width: 28.125rem;
+}
+.circsagr__descr h3 {
+  text-align: left;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 1.75rem;
+  color: #861aa1;
+  margin-bottom: 0.3125rem;
+}
+.circsagr__descr p {
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+.circsagr__descr .botones{
+  margin-top: 0.94rem;
+}
+.circsagr__foto {
+  width: 21.875rem;
+  height: 28.125rem;
+  margin-bottom: 3.125rem;
+}
+.circsagr__foto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/*----------FIN SUB-SECTION ESPACIOS-----------*/
+
+
+/*----------CONTENEDOR TESTIMONIOS-----------*/
+
+.cont-testimonios{
+  padding: 6.25rem 0;
+  background-color: rgb(229, 215, 239, 0.5);
+}
+.testimonios {
+  margin: auto;
+  position: relative;/*Para dar referencia a la position: absolute de las flechas*/
+  width: 80%;
+  max-width: 50rem;
+  background-color: #ffffff;
+}
+.testimonios__carrousel{
+  overflow: hidden;
+}
+.testimonios__slider {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+.testimonios__slider-1,
+.testimonios__slider-2,
+.testimonios__slider-3 {
+  flex: 0 0 100%;
+  height: 18.75rem;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.testimonios__slider-1-parrafo,
+.testimonios__slider-2-parrafo,
+.testimonios__slider-3-parrafo {
+  width: 46.875rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #696868;
+}
+.testimonios__slider-1-pie,
+.testimonios__slider-2-pie,
+.testimonios__slider-3-pie {
+  margin-top: 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  width: 31.25rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1.25rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+.testimonios__nav {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}/* Flechas base */
+.testimonios__nav-controls img {
+  filter: invert(60%);
+}
+.testimonios__nav-controls {
+  display: none; /* ocultas por defecto */
+}
+.testimonios__nav-controls .prev {
+  position: absolute;
+  left: -2.5rem;
+}
+.testimonios__nav-controls .next {
+  position: absolute;
+  right: -2.5rem;
+}
+
+/* Posiciones del carrusel según radio activo */
+#t1:checked ~ .testimonios__carrousel .testimonios__slider {
+  transform: translateX(0%);
+}
+#t2:checked ~ .testimonios__carrousel .testimonios__slider {
+  transform: translateX(-100%); 
+}
+#t3:checked ~ .testimonios__carrousel .testimonios__slider {
+  transform: translateX(-200%);
+}
+
+/* Mostrar el grupo correcto de flechas */
+#t1:checked ~ .testimonios__nav .testimonios__nav-controls--c1 { 
+  display: flex;
+}
+#t2:checked ~ .testimonios__nav .testimonios__nav-controls--c2 {
+  display: flex;
+}
+#t3:checked ~ .testimonios__nav .testimonios__nav-controls--c3 {
+  display: flex;
+}
+
+/*----------FIN CONTENEDOR TESTIMONIOS-----------*/
+
+/*----------FIN SECTION SERVICIOS----------*/
+
+
+/*----------SECTION PRODUCTOS----------*/
+
+#productos {
+  scroll-margin-top: 3.39rem;/*la barra de navegación mide 54.27px. Este es el espacio que deja para que la sección "productos" se posicione a continuación del la brra de navegación, ya que al tener position: fixed no ocupa lugar y la sección "servicios" quedaría tapada (el título)*/
+}
+#productos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: rgb(229, 215, 239, 0.5);
+}
+.producto-1, .producto-2, .producto-3 {
+  margin: 3.125rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 34.375rem;
+  height: 50rem;
+  padding: 1.875rem 1.25rem;
+  background-color: #ffffff;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+}
+.producto-1__img img, .producto-2__img img, .producto-3__img img {
+  margin: auto;
+}
+.producto-1__parrafo, .producto-2__parrafo, .producto-3__parrafo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #696868;
+}
+.producto-1__parrafo h3, .producto-2__parrafo h3, .producto-3__parrafo h3 {
+  margin: auto;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+.precio {
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+.producto-1__parrafo span {
+  font-weight: 600;
+}
+
+/*----------FIN SECTION PRODUCTOS----------*/
+
+
+/*----------SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2.5rem 0 2.5rem 0;
+  background-color: rgb(229, 215, 239, 0.5);
+}
+.contact h2 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2.5rem;
+  color: #696868;
+}
+.contact__form {
+  margin-top: 3.75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 70%;
+}
+.contact__form-1 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 1.875rem;
+}
+.contact__form-2 {
+  margin-top: 1.875rem;
+  width: 100%;
+}
+label {
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+input, textarea {
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+  padding: 0.625rem 0.5rem;
+  border: none;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  color: #696868;
+  resize: none;/*textarea*/
+ }
+::placeholder{
+  color: rgb(105, 104, 104, 0.7);
+}
+.referencia {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.5rem;
+}
+.referencia select {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+  padding: 0.625rem 0.5rem;
+  border: none;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  color: #696868;
+}
+.referencia select option{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.57rem;
+  color: #696868;
+  padding: 0.625rem 0.5rem;
+  border: none;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  color: #696868;
+}
+.contact__form button {
+  margin-top: 1.25rem;
+  margin-bottom: 3.125rem;
+  background-color: #cde4f4;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  letter-spacing: 1px;
+  color: #696868;
+  padding: 0.625rem 0.5rem;
+  border: none;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  color: #a26eaf;
+  padding: 0.625rem 2.5rem;
+  cursor: pointer;
+}
+iframe {
+  width: 60%;
+  height: 28.125rem;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+}
+
+/*----------FIN SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
+
+
+/*----------SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
+
+.acercademi{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  padding: 3.125rem 0;
+  gap: 3.125rem;
+  background-color: rgb(229, 215, 239, 0.5);
+}
+.acercademi__1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3.125rem;
+}
+.acercademi__1-foto, .acercademi__1-video {
+  flex: 0 0 400px;
+  height: 28.125rem;
+}
+.acercademi__1-foto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position:  center top;
+  border-radius: 5px;
+}
+.acercademi__1-video video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position:  center top;
+  border-radius: 5px;
+}
+video::cue {
+  max-width: 21.875rem;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  font-size: 0.75rem;
+  line-height: 0.3125rem;
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.6);
+}
+.acercademi__1-descr, .acercademi__1-descr-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.625;
+  max-width: 37.5rem;
+  height: 28.125rem;
+  border: 0px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 0 0 25px rgba(0,0,0,0.3);
+  border-radius: 12px;
+}
+.acercademi__1-descr h3 {
+  margin-bottom: 0.625rem;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2.19rem;
+  color: #696868;
+}
+.acercademi__1-descr-1 h3 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2.19rem;
+  color: #861aa1;
+}
+.acercademi__1-descr-1 h4 {
+  padding: 0 1.25rem 10px 1.25rem;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+.acercademi__1-descr p, .acercademi__1-descr-1 p {
+  margin-top: 0.3125rem;
+  padding: 0 1.25rem;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+ 
+
+
+/*----------FOOTER----------*/
+
+.pie {
+  padding: 1.875rem 0;
+  background-color:#d7c8e0;
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+  height: auto;
+}
+.pie__list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.875rem;
+		list-style: none;
+}
+.pie__list a {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #696868;
+}
+.pie__list-item-menu {
+  position: relative;/*Para posicionar el submenu con position absolute*/
+}
+.pie__list-item-menu img {
+  margin-left: 0.625rem;
+  transition: transform 0.2s ease-in-out;
+}
+.pie__list-item-menu:hover img {
+  transform: rotate(180deg);
+}
+.pie__list-item-submenu {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  min-width: 12.5rem;  /* mínimo ancho legible */
+  width: auto;       /* se adapta al contenido */
+  white-space: nowrap; /* evita salto de línea */
+  list-style: none;
+  border-radius: 10px;
+  background-color: rgb(222, 215, 238);
+  box-shadow: 4px 4px 12px rgba(0,0,0,0.2);
+  display: none;
+}
+.pie__list-item-submenu li {
+  padding: 0.625rem 0.625rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #a26eaf;
+}
+.pie__list-item-submenu a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #a26eaf;
+  margin: 1.25rem 1.875rem 1.25rem 0.625rem;
+}
+.pie__list-item-submenu li:not(:last-child){
+  border-bottom: 1px solid #cac4c4;
+  }
+  .pie__list-item-menu:hover > .pie__list-item-submenu {
+  display: block;
+}
+  .pie__list-item-submenu li:hover {
+  background-color: #ffffff;
+}
+.pie__list-item-submenu li:hover:first-child {
+  background-color: #ffffff;
+  border-radius: 10px 10px 0 0;
+}
+.pie__list-item-submenu li:hover:last-child {
+  background-color: #ffffff;
+  border-radius: 0 0 10px 10px;
+}
+.pie__list-item-submenu li:hover a {
+  color: #d6e4f5;
+  background-color: #ffffff;
+  color: #68a8c4;
+}
+.pie__info{
+  display: flex;
+  flex-direction: column;
+  gap: 1.875rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #696868;
+}
+.pie__info h4 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.pie__info-wp, .pie__info-correo, .pie__info-direccion {
+  display: flex;
+  gap: 1.25rem;
+}
+.pie__info-correo img {
+  height: 1.875rem;
+}
+.pie__info-correo-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.94rem;
+}
+.pie__info-correo-1 a{
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #696868;
+}
+.pie__redes {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 1.25rem;
+}
+.pie__redes h4{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #696868;
+}
+.pie__redes-icon {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+}
+.pie__redes img {
+  filter: contrast(30%);
+}
+.pie-1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6.06rem;
+  background-color: #000000;
+  color: #ffffff;
+}
+.pie-1 p {
+  margin-left: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.94rem;
+  font-weight: 400px;
+}
+.pie-1-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.625rem;
+}
+.pie-1-1 img {
+  margin-right: 2.5rem;
+}
+
+/*----------FIN FOOTER----------*/
+
+
+/*----------MEDIA QUERIES----------*/
+
+/*@media screen and (max-width: 768px) {
+  /*.header__nav {
+    justify-content: space-around;
+    padding: 0 2rem;
+  }*/
+/*.header__nav-list {
+  margin: 0.5rem 0;
+    flex-direction: column;
+    gap:1.3rem ;
+    align-items: center;
+}
+.header__nav-list a {
+  
+  font-size: 0.75rem;
+ 
+}
+img {
+ transform: scale(0.85);
+}
+.header__nav-logomenu {
+  display: block;
+}
+.header__nav-checkbox:checked ~ .header__nav-list{
+  transform: translateX(0);
+}
+.header__nav-list a {
+  
+  display: block;
+}
+
+
+
+
+/*@media screen and (max-width: 768px) {
+  .header__nav-list {
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;           /* ancho del menú */
+   /* height: 100vh;         /* ocupa toda la altura */
+    /*background: #444;
+    transform: translateX(-100%); /* oculto a la izquierda */
+    /*transition: transform 0.3s ease-in-out;
+    z-index: 10;
+  }
+
+  .header__nav-checkbox:checked ~ .header__nav-list {
+    transform: translateX(0); /* visible al abrir */
+  /*}*/
+
+  /*.header__nav-logo img {
+    transform: scale(0.85);
+  }
+
+  .header__nav-logomenu {
+    display: block; /* icono hamburguesa visible */
+ /* }
+
+  
+}
+
+
+
+
+
+
+
+/*.header__nav-list {
+    display: flex;
+		list-style: none;
+    gap: 2.5rem;
+}
+.header__nav-list a {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #696868;
+}
+.header__nav-item-menu {
+  position: relative;/*Para posicionar el submenu con position absolute*/
+/*}
+.header__nav-item-menu img {
+  margin-left: 0.625rem;
+  transition: transform 0.2s ease-in-out;
+}
+.header__nav-item-menu:hover img {
+  transform: rotate(180deg);
+}
+.header__nav-item-menu-submenu {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  min-width: 12.5rem;  /* mínimo ancho legible */
+  /*width: auto;       /* se adapta al contenido */
+  /*white-space: nowrap; /* evita salto de línea */
+  /*list-style: none;
+  border-radius: 0.625rem;
+  background-color: rgb(222, 215, 238);
+  box-shadow: 4px 4px 12px rgba(0,0,0,0.2);
+  display: none;
+}
+.header__nav-item-menu-submenu li {
+  padding: 0.625rem 0.625rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #a26eaf;
+}
+.header__nav-item-menu-submenu a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #a26eaf;
+  margin: 1.25rem 1.875rem 1.25rem 0.625rem;
+}
+.header__nav-item-menu-submenu li:not(:last-child){
+  border-bottom: 1px solid #cac4c4;
+  }
+  .header__nav-item-menu:hover > .header__nav-item-menu-submenu {
+  display: block;
+}
+  .header__nav-item-menu-submenu li:hover {
+  background-color: #ffffff;
+}
+.header__nav-item-menu-submenu li:hover:first-child {
+  background-color: #ffffff;
+  border-radius: 10px 10px 0 0;
+}
+.header__nav-item-menu-submenu li:hover:last-child {
+  background-color: #ffffff;
+  border-radius: 0 0 10px 10px;
+}
+.header__nav-item-menu-submenu li:hover a {
+  color: #d6e4f5;
+  background-color: #ffffff;
+  color: #68a8c4;
+}
+}
+

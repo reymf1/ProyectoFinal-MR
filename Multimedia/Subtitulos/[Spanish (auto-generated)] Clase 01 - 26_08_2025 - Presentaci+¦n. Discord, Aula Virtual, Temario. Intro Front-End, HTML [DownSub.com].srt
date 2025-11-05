@@ -1,0 +1,9147 @@
+1
+00:00:05,400 --> 00:00:09,040
+Bueno, una duda clásica en los primeros
+
+2
+00:00:09,040 --> 00:00:12,000
+días y que después puede ser que les
+
+3
+00:00:12,000 --> 00:00:15,000
+aparezca como ausente sin querer, es que
+
+4
+00:00:15,000 --> 00:00:18,439
+para que les registre como presente
+
+5
+00:00:18,439 --> 00:00:23,119
+es vital eh entrar a Zoom con un con el
+
+6
+00:00:23,119 --> 00:00:26,039
+email con el que se registraron
+
+7
+00:00:26,039 --> 00:00:28,880
+en el curso, es decir, crean una cuenta
+
+8
+00:00:28,880 --> 00:00:30,039
+de Zoom
+
+9
+00:00:30,039 --> 00:00:32,480
+con el email con el que se registraron
+
+10
+00:00:32,480 --> 00:00:36,320
+el curso. Una vez hecho eso, eh ya
+
+11
+00:00:36,320 --> 00:00:39,480
+entran y va a quedar automáticamente
+
+12
+00:00:39,480 --> 00:00:43,000
+registrado el presente
+
+13
+00:00:43,000 --> 00:00:45,360
+y por supuesto, bueno, estar en en
+
+14
+00:00:45,360 --> 00:00:48,360
+clase,
+
+15
+00:00:48,600 --> 00:00:50,440
+no como entrar y salir porque eso no lo
+
+16
+00:00:50,440 --> 00:00:53,640
+va a tomar.
+
+17
+00:00:54,480 --> 00:00:57,760
+Pueden ver ahí mi nombre es Ah, está.
+
+18
+00:00:57,760 --> 00:00:59,280
+Ah, me salí, estaba grabando.
+
+19
+00:00:59,280 --> 00:01:00,519
+>> Ahí está, ahí está,
+
+20
+00:01:00,519 --> 00:01:03,320
+>> ahí está. Gracias, Santi. Bueno, bueno,
+
+21
+00:01:03,320 --> 00:01:05,680
+buenas tardes, buenas noches.
+
+22
+00:01:05,680 --> 00:01:08,320
+Eh, como ven ahí, mi nombre es Norberto
+
+23
+00:01:08,320 --> 00:01:10,040
+Yopis.
+
+24
+00:01:10,040 --> 00:01:13,799
+Este, acá con Santi vamos a estar a
+
+25
+00:01:13,799 --> 00:01:18,640
+cargo de este curso de frontend.
+
+26
+00:01:18,640 --> 00:01:20,560
+E
+
+27
+00:01:20,560 --> 00:01:22,680
+les cuento
+
+28
+00:01:22,680 --> 00:01:28,200
+un poquito de mí. Eh, tengo 53,
+
+29
+00:01:28,200 --> 00:01:30,159
+este, aunque parezca mucho más joven,
+
+30
+00:01:30,159 --> 00:01:32,000
+por supuesto.
+
+31
+00:01:32,000 --> 00:01:36,399
+Eh, soy de Mendoza, vivo en Mendoza.
+
+32
+00:01:36,399 --> 00:01:38,799
+Eh, ustedes
+
+33
+00:01:38,799 --> 00:01:41,320
+este son todos de Buenos Aires, de
+
+34
+00:01:41,320 --> 00:01:42,880
+Lamba,
+
+35
+00:01:42,880 --> 00:01:45,360
+pero bueno, les ha tocado un profe de de
+
+36
+00:01:45,360 --> 00:01:47,520
+del exterior
+
+37
+00:01:47,520 --> 00:01:49,200
+este,
+
+38
+00:01:49,200 --> 00:01:53,119
+así que bueno, tengo una hija de 22,
+
+39
+00:01:53,119 --> 00:01:56,079
+este, estoy en pareja
+
+40
+00:01:56,079 --> 00:01:58,119
+e
+
+41
+00:01:58,119 --> 00:02:01,280
+soy licenciado en sistemas, estudié allá
+
+42
+00:02:01,280 --> 00:02:03,600
+por los 90,
+
+43
+00:02:03,600 --> 00:02:06,680
+así que este, todo lo que estudié en
+
+44
+00:02:06,680 --> 00:02:09,959
+aquella época que quedó obsoleto.
+
+45
+00:02:09,959 --> 00:02:11,560
+E
+
+46
+00:02:11,560 --> 00:02:13,440
+y bueno, he seguido estudiando, me gusta
+
+47
+00:02:13,440 --> 00:02:20,120
+mucho aprender, eh, ir actualizándome y
+
+48
+00:02:20,120 --> 00:02:23,680
+y bueno, por fines de los 90 me tocó
+
+49
+00:02:23,680 --> 00:02:26,760
+entrar en la docencia por
+
+50
+00:02:26,760 --> 00:02:30,879
+pura casualidad. Este
+
+51
+00:02:30,879 --> 00:02:33,800
+eh la directora de la escuela donde yo
+
+52
+00:02:33,800 --> 00:02:35,800
+estudié, la secundaria me llamó para
+
+53
+00:02:35,800 --> 00:02:38,239
+para ser preceptor en el colegio donde
+
+54
+00:02:38,239 --> 00:02:41,120
+yo estudié. Así que empecé a poquito a
+
+55
+00:02:41,120 --> 00:02:42,920
+entrar en la docencia y después como
+
+56
+00:02:42,920 --> 00:02:45,800
+estudiaba informática, empecé a ser
+
+57
+00:02:45,800 --> 00:02:48,280
+profe de de de informática reemplazando
+
+58
+00:02:48,280 --> 00:02:52,319
+a al profe que estaba y ya después
+
+59
+00:02:52,319 --> 00:02:54,400
+renunció, se fue. Así que bueno, empecé
+
+60
+00:02:54,400 --> 00:02:57,239
+yo con horas de informática
+
+61
+00:02:57,239 --> 00:03:02,680
+este en la secundaria. Después, este,
+
+62
+00:03:02,760 --> 00:03:07,080
+empecé a dar cursos de Excel eh en una
+
+63
+00:03:07,080 --> 00:03:09,760
+extensión universitaria,
+
+64
+00:03:09,760 --> 00:03:11,280
+así que bueno, he sido profe de Excel
+
+65
+00:03:11,280 --> 00:03:15,200
+mucho tiempo hasta que bueno,
+
+66
+00:03:15,200 --> 00:03:19,920
+trabajé muchos años en
+
+67
+00:03:19,920 --> 00:03:23,080
+aparte este trabajaba yo en informática
+
+68
+00:03:23,080 --> 00:03:25,400
+en más estaba más en la parte de
+
+69
+00:03:25,400 --> 00:03:28,760
+administración de servidores y
+
+70
+00:03:28,760 --> 00:03:31,239
+nunca nunca me pude dedicar a la
+
+71
+00:03:31,239 --> 00:03:33,680
+programación, que era lo que a mí me
+
+72
+00:03:33,680 --> 00:03:36,000
+gustaba. Pero bueno, vieron que uno
+
+73
+00:03:36,000 --> 00:03:37,760
+cuando empieza a buscar trabajo que se
+
+74
+00:03:37,760 --> 00:03:40,040
+recibe, este, encuentra, va agarrando lo
+
+75
+00:03:40,040 --> 00:03:42,080
+que sale y bueno, el trabajo me llevó
+
+76
+00:03:42,080 --> 00:03:46,400
+por otro lado. Y hace algunos años,
+
+77
+00:03:46,400 --> 00:03:49,519
+ya van a ser como 10 años, este, me
+
+78
+00:03:49,519 --> 00:03:55,599
+empecé a meter en la programación web y
+
+79
+00:03:55,599 --> 00:03:58,239
+bueno, hice hice un montón de cursos,
+
+80
+00:03:58,239 --> 00:04:02,599
+estudié por mi cuenta hasta que llegué a
+
+81
+00:04:02,599 --> 00:04:04,959
+a Codo a Codo, que se llamaba en aquella
+
+82
+00:04:04,959 --> 00:04:08,079
+época, ahora se llama Talento Tech, y
+
+83
+00:04:08,079 --> 00:04:11,799
+hice mi curso de programación con web,
+
+84
+00:04:11,799 --> 00:04:18,120
+con PHP en codo a codo. y justo este
+
+85
+00:04:18,120 --> 00:04:21,400
+salió una convocatoria para dar clases
+
+86
+00:04:21,400 --> 00:04:26,479
+por acá, así que bueno, me me postulé y
+
+87
+00:04:26,479 --> 00:04:31,160
+bueno, desde el 2020 estoy como profe
+
+88
+00:04:31,160 --> 00:04:34,360
+acá en en Talento Tech.
+
+89
+00:04:34,360 --> 00:04:36,840
+He dado cursos de
+
+90
+00:04:36,840 --> 00:04:39,800
+introducción con Python, di un curso de
+
+91
+00:04:39,800 --> 00:04:43,360
+introducción con Java también y y bueno,
+
+92
+00:04:43,360 --> 00:04:46,280
+y hace ya un par de años que estoy con
+
+93
+00:04:46,280 --> 00:04:48,880
+>> con este curso de
+
+94
+00:04:48,880 --> 00:04:51,680
+frontend con JavaScript.
+
+95
+00:04:51,680 --> 00:04:53,720
+Así que bueno, muy contento, muy
+
+96
+00:04:53,720 --> 00:04:56,720
+entusiasmado este de empezar este curso
+
+97
+00:04:56,720 --> 00:04:58,600
+con ustedes. Quería contarles un poquito
+
+98
+00:04:58,600 --> 00:05:01,120
+de mí para que
+
+99
+00:05:01,120 --> 00:05:04,759
+para que sepan este quién es el que va a
+
+100
+00:05:04,759 --> 00:05:06,800
+estar acá con ustedes todo este tiempo
+
+101
+00:05:06,800 --> 00:05:10,160
+hasta que hasta que terminemos.
+
+102
+00:05:10,160 --> 00:05:13,160
+Este
+
+103
+00:05:13,360 --> 00:05:16,440
+me me
+
+104
+00:05:16,880 --> 00:05:22,039
+gusta mucho compartir los conocimientos.
+
+105
+00:05:22,039 --> 00:05:23,520
+Como yo les decía, me gusta mucho
+
+106
+00:05:23,520 --> 00:05:26,560
+aprender, este, pero además me gusta
+
+107
+00:05:26,560 --> 00:05:28,720
+poder compartir lo que lo que voy
+
+108
+00:05:28,720 --> 00:05:31,240
+aprendiendo y por eso me he dedicado a
+
+109
+00:05:31,240 --> 00:05:34,400
+la a la docencia, ¿no? Y me gusta mucho
+
+110
+00:05:34,400 --> 00:05:39,000
+también aprender, sí, aprender con
+
+111
+00:05:39,000 --> 00:05:40,600
+ustedes,
+
+112
+00:05:40,600 --> 00:05:42,160
+eh,
+
+113
+00:05:42,160 --> 00:05:45,560
+así que va a ser muy importante, ¿sí?,
+
+114
+00:05:45,560 --> 00:05:48,199
+en este curso el rol que tengan ustedes
+
+115
+00:05:48,199 --> 00:05:50,680
+como como estudiantes.
+
+116
+00:05:50,680 --> 00:05:53,039
+E
+
+117
+00:05:53,039 --> 00:05:54,960
+esto no es como la escuela, ¿no? Vieron
+
+118
+00:05:54,960 --> 00:05:58,039
+que nosotros venimos de la escuela
+
+119
+00:05:58,039 --> 00:06:02,160
+tradicional donde bueno, para
+
+120
+00:06:02,160 --> 00:06:04,720
+lo importante son las notas y aprobar.
+
+121
+00:06:04,720 --> 00:06:06,919
+Sí. Acá lo importante es lo que vamos a
+
+122
+00:06:06,919 --> 00:06:09,000
+ir haciendo.
+
+123
+00:06:09,000 --> 00:06:12,759
+Sí. Lo importante es eh que ustedes
+
+124
+00:06:12,759 --> 00:06:15,319
+puedan involucrarse, ¿sí?, en este
+
+125
+00:06:15,319 --> 00:06:18,319
+proceso de de aprendizaje,
+
+126
+00:06:18,319 --> 00:06:19,960
+eh
+
+127
+00:06:19,960 --> 00:06:22,919
+yo les voy a poner a disposición todo
+
+128
+00:06:22,919 --> 00:06:24,599
+todos los conocimientos, toda la
+
+129
+00:06:24,599 --> 00:06:26,800
+experiencia,
+
+130
+00:06:26,800 --> 00:06:29,120
+pero esa es la mitad del del
+
+131
+00:06:29,120 --> 00:06:30,960
+aprendizaje. Sí, la otra mitad va a
+
+132
+00:06:30,960 --> 00:06:34,479
+depender de ustedes, de de las ganas que
+
+133
+00:06:34,479 --> 00:06:39,240
+le pongan, que seguro las tienen, eh, y
+
+134
+00:06:39,240 --> 00:06:42,520
+del compromiso, sí, de de de ponerse a
+
+135
+00:06:42,520 --> 00:06:44,520
+leer el material.
+
+136
+00:06:44,520 --> 00:06:47,880
+de estar atentos en la clase para no
+
+137
+00:06:47,880 --> 00:06:49,759
+perderse. Sí, las clases en vivo por ahí
+
+138
+00:06:49,759 --> 00:06:51,919
+son muy importantes para que ustedes
+
+139
+00:06:51,919 --> 00:06:56,319
+puedan hacer sus preguntas. Sí, porque
+
+140
+00:06:56,319 --> 00:06:59,120
+si no les diría hay buenísimos cursos en
+
+141
+00:06:59,120 --> 00:07:01,000
+YouTube, o sea, si no les interesa
+
+142
+00:07:01,000 --> 00:07:02,599
+preguntar,
+
+143
+00:07:02,599 --> 00:07:04,560
+este, bueno, en YouTube hay un montón de
+
+144
+00:07:04,560 --> 00:07:06,440
+cursos donde ustedes pueden aprender,
+
+145
+00:07:06,440 --> 00:07:09,639
+pero no tienen a quien preguntarle. Sí,
+
+146
+00:07:09,639 --> 00:07:12,160
+acá la idea es que ustedes puedan
+
+147
+00:07:12,160 --> 00:07:15,440
+preguntar y sacarse sus dudas.
+
+148
+00:07:15,440 --> 00:07:20,759
+Eh, yo siempre les digo que si termina
+
+149
+00:07:20,759 --> 00:07:22,599
+la clase y ustedes se han quedado con
+
+150
+00:07:22,599 --> 00:07:26,360
+dudas, eh, discúlpenme la palabra,
+
+151
+00:07:26,360 --> 00:07:30,080
+códanse. Sí, por no preguntar.
+
+152
+00:07:30,080 --> 00:07:31,960
+tienen que preguntar y tienen que
+
+153
+00:07:31,960 --> 00:07:36,160
+sacarse las dudas porque la clase de los
+
+154
+00:07:36,160 --> 00:07:38,560
+lunes, de los martes, perdón, y el
+
+155
+00:07:38,560 --> 00:07:41,440
+afterclass de los miércoles
+
+156
+00:07:41,440 --> 00:07:43,960
+van a ser momentos donde van a poder
+
+157
+00:07:43,960 --> 00:07:45,960
+preguntar. Sí.
+
+158
+00:07:45,960 --> 00:07:47,560
+E
+
+159
+00:07:47,560 --> 00:07:51,879
+así que bueno, eh ahí sí nos vamos a a
+
+160
+00:07:51,879 --> 00:07:55,639
+manejar siempre con mucho respeto. Sí, a
+
+161
+00:07:55,639 --> 00:07:57,680
+mí me interesa poder escucharlos para
+
+162
+00:07:57,680 --> 00:08:00,120
+que ustedes pregunten,
+
+163
+00:08:00,120 --> 00:08:03,240
+pero si preguntan todos juntos no los
+
+164
+00:08:03,240 --> 00:08:05,800
+voy a poder escuchar. Entonces lo que
+
+165
+00:08:05,800 --> 00:08:09,360
+vamos a hacer es siempre como como están
+
+166
+00:08:09,360 --> 00:08:11,440
+ahora siempre arrancar con el micrófono
+
+167
+00:08:11,440 --> 00:08:13,240
+en silencio.
+
+168
+00:08:13,240 --> 00:08:16,240
+Siempre cuando inicien,
+
+169
+00:08:16,240 --> 00:08:18,199
+asegúrense de que el micrófono esté en
+
+170
+00:08:18,199 --> 00:08:20,199
+silencio para que no hayan ruidos que
+
+171
+00:08:20,199 --> 00:08:24,599
+que molesten durante la clase y en algún
+
+172
+00:08:24,599 --> 00:08:27,120
+momento yo le voy a decir, "Bueno,
+
+173
+00:08:27,120 --> 00:08:30,199
+preguntas, consultas, dudas." Y entonces
+
+174
+00:08:30,199 --> 00:08:33,640
+ahí ustedes levantan la mano,
+
+175
+00:08:33,640 --> 00:08:37,200
+¿sí? está el el botoncito para levantar
+
+176
+00:08:37,200 --> 00:08:40,320
+la mano. Este,
+
+177
+00:08:40,320 --> 00:08:44,399
+y entonces eh ahí hacemos una lista y
+
+178
+00:08:44,399 --> 00:08:46,360
+vamos por orden. Sí, yo les voy a ir
+
+179
+00:08:46,360 --> 00:08:48,200
+dando la palabra, ustedes habilitan su
+
+180
+00:08:48,200 --> 00:08:50,120
+micrófono
+
+181
+00:08:50,120 --> 00:08:53,279
+o pueden hacer este. Ah, estab Mati, lo
+
+182
+00:08:53,279 --> 00:08:56,360
+de eh perdón, está Santi, lo de las
+
+183
+00:08:56,360 --> 00:08:57,880
+preguntas
+
+184
+00:08:57,880 --> 00:09:00,560
+eh por Zoom. Ahí ya. Bueno, Mati les va
+
+185
+00:09:00,560 --> 00:09:03,160
+a explicar eh Mati, la tengo con Mati,
+
+186
+00:09:03,160 --> 00:09:06,640
+perdón. Santi. E ahí Santi les va a
+
+187
+00:09:06,640 --> 00:09:08,279
+explicar cómo cómo nos vamos a manejar
+
+188
+00:09:08,279 --> 00:09:10,240
+con las preguntas
+
+189
+00:09:10,240 --> 00:09:15,360
+eh a través de Zoom. Y bueno, la idea es
+
+190
+00:09:15,360 --> 00:09:17,560
+que eso que siempre con mucho respeto
+
+191
+00:09:17,560 --> 00:09:19,680
+nos vamos a manejar siempre con mucha
+
+192
+00:09:19,680 --> 00:09:22,959
+humildad. Sí, acá estamos todos para
+
+193
+00:09:22,959 --> 00:09:24,880
+aprender.
+
+194
+00:09:24,880 --> 00:09:26,959
+Entonces también pedirles a los que ya
+
+195
+00:09:26,959 --> 00:09:29,720
+tienen un poco de conocimiento,
+
+196
+00:09:29,720 --> 00:09:31,920
+eh, que tengan un poquito de paciencia.
+
+197
+00:09:31,920 --> 00:09:33,279
+Sí.
+
+198
+00:09:33,279 --> 00:09:34,920
+Eh,
+
+199
+00:09:34,920 --> 00:09:38,160
+a los que vienen de cero, que no tengan
+
+200
+00:09:38,160 --> 00:09:39,720
+ningún conocimiento, que se queden
+
+201
+00:09:39,720 --> 00:09:42,480
+tranquilos, que este vamos a ir
+
+202
+00:09:42,480 --> 00:09:45,440
+avanzando desde cero.
+
+203
+00:09:45,440 --> 00:09:48,760
+Eh, y
+
+204
+00:09:48,760 --> 00:09:50,320
+la idea es que no tengan miedo a
+
+205
+00:09:50,320 --> 00:09:52,240
+preguntar, ¿sí?
+
+206
+00:09:52,240 --> 00:09:55,320
+Eh, estamos todos en un ámbito de
+
+207
+00:09:55,320 --> 00:09:58,360
+aprendizaje, estamos todos con ganas de
+
+208
+00:09:58,360 --> 00:10:00,880
+aprender. Entonces,
+
+209
+00:10:00,880 --> 00:10:02,680
+lo importante es que se animen a
+
+210
+00:10:02,680 --> 00:10:05,079
+preguntar y no tengan miedo porque nadie
+
+211
+00:10:05,079 --> 00:10:07,560
+los va a juzgar, nadie va a decir, "Uy,
+
+212
+00:10:07,560 --> 00:10:09,760
+qué pregunta tonta que que ha hecho tal
+
+213
+00:10:09,760 --> 00:10:11,959
+o cual." No, eso no va a pasar nunca de
+
+214
+00:10:11,959 --> 00:10:13,600
+nuestra parte.
+
+215
+00:10:13,600 --> 00:10:15,560
+Todas las preguntas son importantes, así
+
+216
+00:10:15,560 --> 00:10:17,160
+que
+
+217
+00:10:17,160 --> 00:10:21,680
+es este. Los invito a que se animen a a
+
+218
+00:10:21,680 --> 00:10:25,680
+preguntar y no se queden con dudas.
+
+219
+00:10:25,680 --> 00:10:28,440
+E
+
+220
+00:10:28,440 --> 00:10:33,120
+Santi, si querés presentarte, por favor.
+
+221
+00:10:34,079 --> 00:10:39,120
+Bueno, luego de que Norbert eh contó un
+
+222
+00:10:39,120 --> 00:10:42,320
+poco de dónde viene y y comentó todas
+
+223
+00:10:42,320 --> 00:10:45,079
+estas cosas también interesantes de el
+
+224
+00:10:45,079 --> 00:10:47,680
+tema de el aprendizaje, cómo lo vamos a
+
+225
+00:10:47,680 --> 00:10:49,959
+ir construyendo entre todos, que seamos
+
+226
+00:10:49,959 --> 00:10:51,760
+una comunidad.
+
+227
+00:10:51,760 --> 00:10:55,519
+Así que bueno, eh primero me presento.
+
+228
+00:10:55,519 --> 00:10:57,360
+Yo toda la vida trabajé como
+
+229
+00:10:57,360 --> 00:11:01,079
+desarrollador web desde prácticamente
+
+230
+00:11:01,079 --> 00:11:03,399
+desde que salí el secundario.
+
+231
+00:11:03,399 --> 00:11:05,120
+Eh,
+
+232
+00:11:05,120 --> 00:11:09,320
+y hasta el 2017 me dediqué a eso. Estuve
+
+233
+00:11:09,320 --> 00:11:12,959
+en empresas como Mercadolibbre y Lenovo.
+
+234
+00:11:12,959 --> 00:11:15,040
+después algunas agencias
+
+235
+00:11:15,040 --> 00:11:20,480
+y y bueno, desde el 2017 eh comencé con
+
+236
+00:11:20,480 --> 00:11:21,880
+la experiencia docente en aprender
+
+237
+00:11:21,880 --> 00:11:25,639
+programando, por lo cual entonces me me
+
+238
+00:11:25,639 --> 00:11:27,360
+dediqué a estudiar esa carrera, me
+
+239
+00:11:27,360 --> 00:11:30,800
+recibí, soy profesor de informática,
+
+240
+00:11:30,800 --> 00:11:34,920
+eh trabajo en en colegios y y ahora,
+
+241
+00:11:34,920 --> 00:11:36,800
+bueno, también para Talentotec, que
+
+242
+00:11:36,800 --> 00:11:39,480
+antes era codo a codo.
+
+243
+00:11:39,480 --> 00:11:42,120
+Yo estaba desde aprender, estaba desde
+
+244
+00:11:42,120 --> 00:11:44,600
+aprender programando, pasé a codo a codo
+
+245
+00:11:44,600 --> 00:11:48,920
+y ahora Talentotec reunió todo.
+
+246
+00:11:48,920 --> 00:11:52,079
+y comentarles que también trabajo a
+
+247
+00:11:52,079 --> 00:11:55,399
+veces para instituciones privadas dando
+
+248
+00:11:55,399 --> 00:11:59,279
+dando clases, así que así que bueno, así
+
+249
+00:11:59,279 --> 00:12:03,160
+es la docencia, un poco de tomar horas
+
+250
+00:12:03,160 --> 00:12:05,560
+de varios lugares y son varios lugares
+
+251
+00:12:05,560 --> 00:12:09,600
+en donde uno termina trabajando,
+
+252
+00:12:09,600 --> 00:12:13,560
+así que pero bueno, feliz porque es esto
+
+253
+00:12:13,560 --> 00:12:17,079
+de la vocación docente de ayudar a los
+
+254
+00:12:17,079 --> 00:12:19,519
+demás los servicios y aparte, bueno,
+
+255
+00:12:19,519 --> 00:12:23,760
+desde el lado de la informática
+
+256
+00:12:23,760 --> 00:12:27,959
+contarles que vivo acá en Capital en en
+
+257
+00:12:27,959 --> 00:12:30,120
+Cava.
+
+258
+00:12:30,120 --> 00:12:32,959
+Eh, hay un micrófono abierto silencio a
+
+259
+00:12:32,959 --> 00:12:35,959
+todos.
+
+260
+00:12:36,000 --> 00:12:39,120
+Ahí está. Bien.
+
+261
+00:12:39,120 --> 00:12:41,240
+Em,
+
+262
+00:12:41,240 --> 00:12:45,079
+y después que bueno que
+
+263
+00:12:45,079 --> 00:12:47,800
+vivo en un lindo barrio, tal vez eh
+
+264
+00:12:47,800 --> 00:12:52,240
+Villorquisa y tengo un hijo de 3 años.
+
+265
+00:12:52,240 --> 00:12:54,639
+Eh, después tengo también una perrita,
+
+266
+00:12:54,639 --> 00:12:59,040
+una salchicha, que ya tiene 5 años y y
+
+267
+00:12:59,040 --> 00:13:01,000
+me gusta un tengo unos hobbies que lo
+
+268
+00:13:01,000 --> 00:13:02,560
+tengo miedos abandonados porque no tengo
+
+269
+00:13:02,560 --> 00:13:07,000
+tiempo entre la paternidad y y los
+
+270
+00:13:07,000 --> 00:13:09,639
+trabajos. Eh, pero bueno, esos hobbies
+
+271
+00:13:09,639 --> 00:13:12,880
+son la fotografía y y la arquería, no
+
+272
+00:13:12,880 --> 00:13:16,160
+arco de de de fútbol, sino de arco y
+
+273
+00:13:16,160 --> 00:13:19,519
+flecha. Así que bueno, un poco resumen
+
+274
+00:13:19,519 --> 00:13:22,839
+de mi persona, así que le doy nuevamente
+
+275
+00:13:22,839 --> 00:13:26,560
+la palabra a Norbert.
+
+276
+00:13:36,480 --> 00:13:38,320
+Te quedó silenciado, Norber, porque
+
+277
+00:13:38,320 --> 00:13:41,000
+había puesto silenciado a todos.
+
+278
+00:13:41,000 --> 00:13:44,040
+>> Ah, estamos, estamos. Gracias, gracias.
+
+279
+00:13:44,040 --> 00:13:46,959
+Bueno, e
+
+280
+00:13:46,959 --> 00:13:49,279
+primera semana, sabemos que que están
+
+281
+00:13:49,279 --> 00:13:53,560
+todos muy ansiosos por comenzar. Este,
+
+282
+00:13:53,560 --> 00:13:56,160
+les vamos a pedir que tengan un poquito
+
+283
+00:13:56,160 --> 00:13:58,920
+de paciencia. Siempre en la primer
+
+284
+00:13:58,920 --> 00:14:01,240
+semana vamos armando el tema del aula
+
+285
+00:14:01,240 --> 00:14:05,199
+virtual, eh,
+
+286
+00:14:05,199 --> 00:14:07,160
+bueno, todo lo que tiene que ver con con
+
+287
+00:14:07,160 --> 00:14:10,079
+el curso. Entonces, bueno, hasta que se
+
+288
+00:14:10,079 --> 00:14:13,920
+ponen a punto, ¿sí? Este, es posible que
+
+289
+00:14:13,920 --> 00:14:17,320
+eh algunos de ustedes todavía no puedan
+
+290
+00:14:17,320 --> 00:14:20,759
+ingresar al aula virtual porque no los
+
+291
+00:14:20,759 --> 00:14:23,000
+no les han dado el alta, porque es un
+
+292
+00:14:23,000 --> 00:14:25,880
+proceso que se va haciendo, ¿sí? Este se
+
+293
+00:14:25,880 --> 00:14:28,880
+va haciendo en tandas. por días.
+
+294
+00:14:28,880 --> 00:14:30,480
+Este,
+
+295
+00:14:30,480 --> 00:14:33,199
+así que bueno, si alguno
+
+296
+00:14:33,199 --> 00:14:35,199
+al día de hoy no puede entrar al aula
+
+297
+00:14:35,199 --> 00:14:38,480
+virtual, no se preocupe. Sí, esta semana
+
+298
+00:14:38,480 --> 00:14:42,839
+vamos a ir este de a poco poniendo todo
+
+299
+00:14:42,839 --> 00:14:45,480
+a punto. Si no pueden acceder al
+
+300
+00:14:45,480 --> 00:14:47,560
+material, yo les voy a pasar después por
+
+301
+00:14:47,560 --> 00:14:49,399
+el Discord,
+
+302
+00:14:49,399 --> 00:14:51,639
+les voy a pasar un PDF con el material
+
+303
+00:14:51,639 --> 00:14:54,240
+que tenemos que ver esta semana. Sí,
+
+304
+00:14:54,240 --> 00:14:56,800
+para aquellos que no puedan acceder
+
+305
+00:14:56,800 --> 00:14:59,360
+todavía al aula virtual. Y bueno,
+
+306
+00:14:59,360 --> 00:15:02,759
+hablando de Discord, eh
+
+307
+00:15:02,759 --> 00:15:07,160
+importantísimo, sí, que se sumen todos a
+
+308
+00:15:07,160 --> 00:15:10,160
+al servidor de Discord que tienen ahí
+
+309
+00:15:10,160 --> 00:15:13,160
+ustedes el link para acceder.
+
+310
+00:15:13,160 --> 00:15:16,040
+Em
+
+311
+00:15:16,040 --> 00:15:19,880
+contarles este me pasó en un curso del
+
+312
+00:15:19,880 --> 00:15:24,680
+año pasado este una alumna que me dijo,
+
+313
+00:15:24,680 --> 00:15:27,160
+"Mira, profe, este
+
+314
+00:15:27,160 --> 00:15:29,959
+yo no voy a entrar a Discord.
+
+315
+00:15:29,959 --> 00:15:31,920
+Discúlpame la sinceridad, pero no voy a
+
+316
+00:15:31,920 --> 00:15:33,600
+entrar a Discord porque ya tengo
+
+317
+00:15:33,600 --> 00:15:36,519
+WhatsApp y no sé qué otra cosa más y
+
+318
+00:15:36,519 --> 00:15:39,720
+este entonces no me quiero llenar de de
+
+319
+00:15:39,720 --> 00:15:43,480
+cosas y no voy a entrar a Discord.
+
+320
+00:15:43,480 --> 00:15:47,600
+Bueno, eh, por favor, no hagan eso
+
+321
+00:15:47,600 --> 00:15:50,360
+porque se van a perder, se van a perder
+
+322
+00:15:50,360 --> 00:15:55,079
+de un montón de cosas, ¿sí? Porque este
+
+323
+00:15:55,079 --> 00:15:57,720
+no solamente avisos que que podamos
+
+324
+00:15:57,720 --> 00:15:59,560
+poner de la cursada, les vamos a ir
+
+325
+00:15:59,560 --> 00:16:03,319
+pasando material este
+
+326
+00:16:03,319 --> 00:16:05,759
+material que puede ser complementario a
+
+327
+00:16:05,759 --> 00:16:08,720
+lo que está en el a en el aula virtual.
+
+328
+00:16:08,720 --> 00:16:10,440
+Este, por ahí, qué sé yo, me gusta
+
+329
+00:16:10,440 --> 00:16:12,560
+pasarles a lo mejor otros materiales que
+
+330
+00:16:12,560 --> 00:16:17,120
+tengan que ver con este relacionado al
+
+331
+00:16:17,120 --> 00:16:19,519
+temario que estamos estudiando, pero que
+
+332
+00:16:19,519 --> 00:16:22,079
+les puede servir, sí, como complemento
+
+333
+00:16:22,079 --> 00:16:24,199
+también
+
+334
+00:16:24,199 --> 00:16:27,920
+este para que nos vayamos conociendo.
+
+335
+00:16:27,920 --> 00:16:30,199
+Sí, ahí les voy a pedir, así como
+
+336
+00:16:30,199 --> 00:16:31,920
+nosotros nos hemos presentado, a mí me
+
+337
+00:16:31,920 --> 00:16:33,959
+encantaría que todos ustedes se pudieran
+
+338
+00:16:33,959 --> 00:16:35,759
+presentar,
+
+339
+00:16:35,759 --> 00:16:37,360
+pero
+
+340
+00:16:37,360 --> 00:16:44,040
+este a a a este momento son 116 y se
+
+341
+00:16:44,040 --> 00:16:45,959
+necesitaríamos varias clases para que
+
+342
+00:16:45,959 --> 00:16:48,759
+todos pudiera presentarse, cada uno
+
+343
+00:16:48,759 --> 00:16:51,600
+individualmente por así este como lo
+
+344
+00:16:51,600 --> 00:16:54,600
+hemos hecho nosotros. Sí. Entonces, les
+
+345
+00:16:54,600 --> 00:16:57,160
+voy a pedir, sí, que ustedes se puedan
+
+346
+00:16:57,160 --> 00:16:59,959
+presentar, sí, en Discord. Sí, en
+
+347
+00:16:59,959 --> 00:17:03,240
+Discord tenemos un canal que dice
+
+348
+00:17:03,240 --> 00:17:07,439
+preséntate. Entonces yo ahí les pido
+
+349
+00:17:07,439 --> 00:17:10,120
+este que ustedes puedan presentarse,
+
+350
+00:17:10,120 --> 00:17:14,079
+decir sí, de dónde vienen, qué hacen y
+
+351
+00:17:14,079 --> 00:17:16,640
+sobre todo un un detalle les quiero
+
+352
+00:17:16,640 --> 00:17:19,760
+pedir, sí, en Discord, en presentate,
+
+353
+00:17:19,760 --> 00:17:21,640
+que pongan
+
+354
+00:17:21,640 --> 00:17:25,720
+por qué hacen el curso. Sí,
+
+355
+00:17:25,720 --> 00:17:28,480
+me parece que
+
+356
+00:17:28,480 --> 00:17:31,919
+vieron cuando cuando uno se pone un
+
+357
+00:17:31,919 --> 00:17:34,039
+propósito, ¿sí?
+
+358
+00:17:34,039 --> 00:17:38,039
+Eh, está bueno escribir los propósitos
+
+359
+00:17:38,039 --> 00:17:42,039
+que uno tiene. Entonces, me parece que
+
+360
+00:17:42,039 --> 00:17:46,520
+eh a nosotros nos sirve leer este por
+
+361
+00:17:46,520 --> 00:17:50,120
+qué ustedes quieren hacer el curso.
+
+362
+00:17:50,120 --> 00:17:53,000
+Eso también nos nos motiva a nosotros,
+
+363
+00:17:53,000 --> 00:17:57,200
+¿sí? A que a que podamos este tratar de
+
+364
+00:17:57,200 --> 00:18:00,000
+cumplir con todos sus objetivos, ¿sí?,
+
+365
+00:18:00,000 --> 00:18:02,200
+con con todas sus expectativas, digamos,
+
+366
+00:18:02,200 --> 00:18:07,320
+más allá de eh creo que cada uno tiene
+
+367
+00:18:07,320 --> 00:18:10,400
+sus expectativas, cada uno es único. Sí.
+
+368
+00:18:10,400 --> 00:18:12,960
+Entonces, que ustedes puedan poner,
+
+369
+00:18:12,960 --> 00:18:15,840
+¿sí?, ¿por qué hacen el curso? Y que
+
+370
+00:18:15,840 --> 00:18:19,280
+cada tanto puedan volver a eso, ¿sí?
+
+371
+00:18:19,280 --> 00:18:22,200
+volver a ese propósito, porque
+
+372
+00:18:22,200 --> 00:18:24,280
+seguramente
+
+373
+00:18:24,280 --> 00:18:26,799
+eh como siempre sí hay momentos más
+
+374
+00:18:26,799 --> 00:18:30,440
+complicados donde se nos
+
+375
+00:18:30,440 --> 00:18:32,840
+eh
+
+376
+00:18:32,840 --> 00:18:35,600
+se se nos llena de de actividades la
+
+377
+00:18:35,600 --> 00:18:40,360
+agenda este o no sé, suceden cosas en
+
+378
+00:18:40,360 --> 00:18:45,159
+nuestra vida que a veces hacen que e por
+
+379
+00:18:45,159 --> 00:18:48,039
+ahí no no le dediquemos el tiempo que el
+
+380
+00:18:48,039 --> 00:18:50,679
+curso necesita. Sí,
+
+381
+00:18:50,679 --> 00:18:52,720
+a veces que pensemos hasta en dejarlo.
+
+382
+00:18:52,720 --> 00:18:55,280
+Sí, bueno, para qué voy a seguir con
+
+383
+00:18:55,280 --> 00:18:58,200
+esto. Y ahí es donde está bueno que
+
+384
+00:18:58,200 --> 00:19:00,200
+ustedes puedan volver, ¿sí? A este
+
+385
+00:19:00,200 --> 00:19:01,720
+momento, decir, bueno, ¿por qué estoy
+
+386
+00:19:01,720 --> 00:19:04,640
+acá? ¿Por qué estoy haciendo este curso?
+
+387
+00:19:04,640 --> 00:19:06,679
+Eh,
+
+388
+00:19:06,679 --> 00:19:09,559
+nos interesa mucho que
+
+389
+00:19:09,559 --> 00:19:11,919
+que valoren esta oportunidad que tienen.
+
+390
+00:19:11,919 --> 00:19:15,960
+Sí, estos cursos son gratuitos y y
+
+391
+00:19:15,960 --> 00:19:18,640
+son son de de muy buena calidad. Sí. Hay
+
+392
+00:19:18,640 --> 00:19:21,480
+mucha gente detrás del curso que que
+
+393
+00:19:21,480 --> 00:19:23,840
+arma arma los programas, arma los
+
+394
+00:19:23,840 --> 00:19:25,919
+materiales,
+
+395
+00:19:25,919 --> 00:19:28,919
+este y y
+
+396
+00:19:28,919 --> 00:19:31,480
+son son cursos que yo les decía, he
+
+397
+00:19:31,480 --> 00:19:34,919
+visto muchos cursos en YouTube, hecho
+
+398
+00:19:34,919 --> 00:19:39,440
+cursos en en distintos lados y y
+
+399
+00:19:39,440 --> 00:19:41,760
+la verdad que los cursos que damos en
+
+400
+00:19:41,760 --> 00:19:45,360
+Talento Tech este están a la altura de
+
+401
+00:19:45,360 --> 00:19:49,880
+de cursos que salen muy caros. Sí. y que
+
+402
+00:19:49,880 --> 00:19:51,679
+y que no tenemos nada que envidiarles.
+
+403
+00:19:51,679 --> 00:19:54,320
+Sí. Y estamos estamos compitiendo ahí
+
+404
+00:19:54,320 --> 00:19:56,159
+este
+
+405
+00:19:56,159 --> 00:19:57,799
+eh
+
+406
+00:19:57,799 --> 00:20:00,000
+porque tenemos muy buen material y son
+
+407
+00:20:00,000 --> 00:20:01,640
+de buena calidad nuestros cursos.
+
+408
+00:20:01,640 --> 00:20:04,360
+Entonces, ya que ustedes están acá, que
+
+409
+00:20:04,360 --> 00:20:06,039
+tienen esta posibilidad de hacer este
+
+410
+00:20:06,039 --> 00:20:09,000
+curso, que han accedido a estas vacantes
+
+411
+00:20:09,000 --> 00:20:11,280
+que son gratuitas,
+
+412
+00:20:11,280 --> 00:20:14,520
+este, que aprovechen, aprovechen esta
+
+413
+00:20:14,520 --> 00:20:17,679
+oportunidad. Eh, por algo están acá. por
+
+414
+00:20:17,679 --> 00:20:19,559
+algo se anotaron, por algo quisieron
+
+415
+00:20:19,559 --> 00:20:23,760
+venir a este curso y
+
+416
+00:20:23,760 --> 00:20:27,039
+que puedan este, bueno, sostener esto en
+
+417
+00:20:27,039 --> 00:20:29,159
+el tiempo, ¿sí? Y eso va a depender de
+
+418
+00:20:29,159 --> 00:20:30,799
+ustedes. Nosotros vamos a estar acá
+
+419
+00:20:30,799 --> 00:20:33,120
+todos los los martes, vamos a estar acá
+
+420
+00:20:33,120 --> 00:20:36,039
+los miércoles, eh, los martes y los
+
+421
+00:20:36,039 --> 00:20:37,840
+jueves, ¿sí?
+
+422
+00:20:37,840 --> 00:20:41,440
+de aquí hasta el 16 de diciembre, más o
+
+423
+00:20:41,440 --> 00:20:43,440
+menos, esa semana que va a terminar el
+
+424
+00:20:43,440 --> 00:20:45,960
+curso.
+
+425
+00:20:45,960 --> 00:20:47,960
+Espero yo que ustedes puedan estar acá.
+
+426
+00:20:47,960 --> 00:20:50,360
+Sí, obviamente si algún día faltan,
+
+427
+00:20:50,360 --> 00:20:52,679
+bueno, está la clase grabada, ¿sí? Se
+
+428
+00:20:52,679 --> 00:20:55,200
+van al link de YouTube, buscan la
+
+429
+00:20:55,200 --> 00:20:56,960
+grabación de que la clase que se
+
+430
+00:20:56,960 --> 00:20:59,840
+perdieron. Este,
+
+431
+00:20:59,840 --> 00:21:02,880
+véanla, le ponen la le la ponen en
+
+432
+00:21:02,880 --> 00:21:06,039
+velocidad en 1,5 para que pase más
+
+433
+00:21:06,039 --> 00:21:09,679
+rápido este si necesitan el tiempo, pero
+
+434
+00:21:09,679 --> 00:21:11,679
+no dejen de ver las clases grabadas
+
+435
+00:21:11,679 --> 00:21:15,039
+cuando no pueden venir porque también
+
+436
+00:21:15,039 --> 00:21:17,360
+además de lo que podamos ver de
+
+437
+00:21:17,360 --> 00:21:23,279
+contenido, hay avisos, este, hay este
+
+438
+00:21:23,279 --> 00:21:25,919
+alguna indicación, che, vamos a hacer
+
+439
+00:21:25,919 --> 00:21:28,080
+tal ejercicio que les dejo. o en el
+
+440
+00:21:28,080 --> 00:21:30,279
+Discord o
+
+441
+00:21:30,279 --> 00:21:32,679
+entonces si ustedes faltaron
+
+442
+00:21:32,679 --> 00:21:36,080
+eh si no ven la clase grabada se pierden
+
+443
+00:21:36,080 --> 00:21:37,799
+también indicaciones y cosas, aunque
+
+444
+00:21:37,799 --> 00:21:39,840
+bueno, todo lo vamos a poner en el
+
+445
+00:21:39,840 --> 00:21:43,960
+Discord, así que quédense tranquilos.
+
+446
+00:21:43,960 --> 00:21:48,400
+E bueno, le tienen que poner
+
+447
+00:21:48,400 --> 00:21:50,159
+eh
+
+448
+00:21:50,159 --> 00:21:52,600
+un poquito de compromiso, ¿sí?, al
+
+449
+00:21:52,600 --> 00:21:54,880
+curso, o sea, le tienen que dedicar
+
+450
+00:21:54,880 --> 00:21:56,480
+tiempo.
+
+451
+00:21:56,480 --> 00:21:58,640
+Además de esta hora, de estas dos horas
+
+452
+00:21:58,640 --> 00:22:02,080
+que vamos a estar acá, agéndense, ¿sí?
+
+453
+00:22:02,080 --> 00:22:06,080
+Que van a necesitar unas cuatro
+
+454
+00:22:06,080 --> 00:22:08,400
+por lo menos unas cuatro horitas por
+
+455
+00:22:08,400 --> 00:22:13,039
+semana, ¿sí? Por lo menos para practicar
+
+456
+00:22:13,039 --> 00:22:16,480
+lo que vamos viendo en el curso. Sí. Si
+
+457
+00:22:16,480 --> 00:22:19,400
+ustedes no practican
+
+458
+00:22:19,400 --> 00:22:22,880
+lo que vamos viendo en clase, lo que ven
+
+459
+00:22:22,880 --> 00:22:25,919
+en el aula virtual,
+
+460
+00:22:25,919 --> 00:22:29,279
+eh no van a aprender nada, este o van a
+
+461
+00:22:29,279 --> 00:22:32,240
+aprender muy poco y no le van a sacar el
+
+462
+00:22:32,240 --> 00:22:35,120
+jugo al curso. Sí.
+
+463
+00:22:35,120 --> 00:22:36,640
+Entonces,
+
+464
+00:22:36,640 --> 00:22:38,159
+eh
+
+465
+00:22:38,159 --> 00:22:40,159
+importante, sí, que se hagan un
+
+466
+00:22:40,159 --> 00:22:42,559
+lugarcito en la semana.
+
+467
+00:22:42,559 --> 00:22:45,960
+Este, lo ven ustedes media hora por día,
+
+468
+00:22:45,960 --> 00:22:49,159
+este, qué sé yo, una hora cada día por
+
+469
+00:22:49,159 --> 00:22:51,520
+medio, este, el fin de semana, a lo
+
+470
+00:22:51,520 --> 00:22:54,480
+mejor si tienen alguna horita más.
+
+471
+00:22:54,480 --> 00:22:57,320
+Importante practicar, ¿sí?
+
+472
+00:22:57,320 --> 00:23:03,120
+Eh, si no practican, insisto, este,
+
+473
+00:23:03,120 --> 00:23:05,400
+les va a costar mucho avanzar en el
+
+474
+00:23:05,400 --> 00:23:08,919
+curso y va a llegar un momento.
+
+475
+00:23:08,919 --> 00:23:10,840
+Sí, el curso tiene tres partes. Vamos a
+
+476
+00:23:10,840 --> 00:23:13,799
+ver la primera parte de HTML,
+
+477
+00:23:13,799 --> 00:23:16,720
+la segunda parte de CSS.
+
+478
+00:23:16,720 --> 00:23:22,960
+Estas dos primeras partes en general son
+
+479
+00:23:23,679 --> 00:23:26,760
+más livianas quizás.
+
+480
+00:23:26,760 --> 00:23:28,440
+Pero después viene la tercera parte que
+
+481
+00:23:28,440 --> 00:23:30,480
+es JavaScript. Ahí se pone un poco más
+
+482
+00:23:30,480 --> 00:23:33,600
+áspero el curso.
+
+483
+00:23:33,600 --> 00:23:35,760
+Entonces, si llegamos a la tercera parte
+
+484
+00:23:35,760 --> 00:23:42,159
+y y ustedes no vienen con sí con este e
+
+485
+00:23:42,880 --> 00:23:45,000
+hábito, digamos, este hábito de decir,
+
+486
+00:23:45,000 --> 00:23:46,840
+bueno, le dedico un par de horitas al
+
+487
+00:23:46,840 --> 00:23:49,960
+curso. Este, cuando llegamos ahí a esa
+
+488
+00:23:49,960 --> 00:23:53,440
+parte que se pone un poquito más áspero,
+
+489
+00:23:53,440 --> 00:23:55,840
+este,
+
+490
+00:23:55,840 --> 00:23:58,120
+se van a querer bajar. Sí. Y ahí es
+
+491
+00:23:58,120 --> 00:24:00,279
+donde
+
+492
+00:24:00,279 --> 00:24:03,799
+este yo quiero que todos sí los 121 que
+
+493
+00:24:03,799 --> 00:24:07,640
+estamos acá hoy, 119 este queremos que
+
+494
+00:24:07,640 --> 00:24:10,000
+que todos terminen. Sí, los vamos a
+
+495
+00:24:10,000 --> 00:24:13,600
+acompañar, los vamos a a estar mandando
+
+496
+00:24:13,600 --> 00:24:16,960
+mails, los vamos a estar este
+
+497
+00:24:16,960 --> 00:24:19,440
+acompañando y conteniendo para que
+
+498
+00:24:19,440 --> 00:24:21,559
+terminen el curso. Sí, nosotros queremos
+
+499
+00:24:21,559 --> 00:24:23,919
+eso, pero bueno,
+
+500
+00:24:23,919 --> 00:24:26,399
+este necesitamos de su compromiso, de su
+
+501
+00:24:26,399 --> 00:24:28,720
+constancia.
+
+502
+00:24:28,720 --> 00:24:33,000
+este para llegar todos todos juntos al
+
+503
+00:24:33,000 --> 00:24:36,000
+final.
+
+504
+00:24:36,000 --> 00:24:38,080
+Bueno,
+
+505
+00:24:38,080 --> 00:24:40,039
+basta
+
+506
+00:24:40,039 --> 00:24:43,279
+de cháchara.
+
+507
+00:24:45,120 --> 00:24:49,000
+Se me cayeron ahí la
+
+508
+00:24:49,080 --> 00:24:51,520
+me delató la edad. ¿Se acuerdan quién
+
+509
+00:24:51,520 --> 00:24:55,399
+decía basta de cháccha?
+
+510
+00:24:57,120 --> 00:25:02,640
+Bueno, eh, comparto pantalla.
+
+511
+00:25:03,760 --> 00:25:07,919
+Ah, eh, y lo último, perdón, eh, por ahí
+
+512
+00:25:07,919 --> 00:25:10,600
+está bueno en los momentos de consulta,
+
+513
+00:25:10,600 --> 00:25:12,320
+así cuando yo le diga, "Bueno, este,
+
+514
+00:25:12,320 --> 00:25:15,480
+hacemos, hagan sus preguntas, más si
+
+515
+00:25:15,480 --> 00:25:18,039
+quieren prender la cámara
+
+516
+00:25:18,039 --> 00:25:21,840
+en esos momentos, este, eh, está bueno,
+
+517
+00:25:21,840 --> 00:25:24,399
+sí, para que
+
+518
+00:25:24,399 --> 00:25:27,520
+este a mí me me gusta poder verlos
+
+519
+00:25:27,520 --> 00:25:29,640
+aunque sea un ratito en vivo, ¿sí? para
+
+520
+00:25:29,640 --> 00:25:31,440
+para
+
+521
+00:25:31,440 --> 00:25:33,480
+conocerlos un poquito más. Y esto de la
+
+522
+00:25:33,480 --> 00:25:36,799
+virtualidad es bastante difícil, pero
+
+523
+00:25:36,799 --> 00:25:41,080
+poder verlos un poquito en vivo este
+
+524
+00:25:41,080 --> 00:25:42,720
+hace que no qué sé yo, que sea un poco
+
+525
+00:25:42,720 --> 00:25:47,399
+más cercano, sí, este contacto.
+
+526
+00:25:47,399 --> 00:25:53,640
+Así que bueno, ahí comparto pantalla.
+
+527
+00:25:54,600 --> 00:25:57,600
+Espérenme
+
+528
+00:25:58,520 --> 00:26:03,360
+que acomodo el zoom
+
+529
+00:26:04,360 --> 00:26:08,559
+en el chat, lo mando para acá.
+
+530
+00:26:08,559 --> 00:26:12,279
+Bueno, e
+
+531
+00:26:14,840 --> 00:26:18,440
+se ve se ve la pantalla.
+
+532
+00:26:18,440 --> 00:26:21,440
+Okay.
+
+533
+00:26:29,960 --> 00:26:33,799
+Ah, antes que me olvide, bueno, a todos
+
+534
+00:26:33,799 --> 00:26:35,679
+les llegó
+
+535
+00:26:35,679 --> 00:26:38,480
+este archivo.
+
+536
+00:26:38,480 --> 00:26:40,880
+A todos les llegó en los mails que
+
+537
+00:26:40,880 --> 00:26:42,600
+recibieron,
+
+538
+00:26:42,600 --> 00:26:46,080
+¿sí? E
+
+539
+00:26:46,080 --> 00:26:49,279
+un link. Sí, con para acceder a este
+
+540
+00:26:49,279 --> 00:26:51,640
+archivo. Sí, información importante para
+
+541
+00:26:51,640 --> 00:26:54,399
+la cursada. Bueno, esto ténganlo a mano.
+
+542
+00:26:54,399 --> 00:26:56,279
+Sí,
+
+543
+00:26:56,279 --> 00:27:00,440
+acá tienen todos los datos que necesitan
+
+544
+00:27:00,440 --> 00:27:03,960
+para llevar adelante el curso.
+
+545
+00:27:03,960 --> 00:27:07,440
+Primero que nada, sí tienen eh nuestros
+
+546
+00:27:07,440 --> 00:27:11,320
+contactos, ¿sí? Si necesitan
+
+547
+00:27:11,320 --> 00:27:13,960
+este
+
+548
+00:27:13,960 --> 00:27:16,559
+por la cuestión que necesiten, ¿sí? que
+
+549
+00:27:16,559 --> 00:27:20,080
+tenga que ver con el curso. Eh, acá
+
+550
+00:27:20,080 --> 00:27:22,039
+tienen nuestros correos, sí nos
+
+551
+00:27:22,039 --> 00:27:24,880
+escriben.
+
+552
+00:27:24,880 --> 00:27:27,880
+Eh,
+
+553
+00:27:29,200 --> 00:27:31,919
+acá, bueno, esto después Santi les va a
+
+554
+00:27:31,919 --> 00:27:34,799
+hablar sobre el presentismo, ¿sí? Para
+
+555
+00:27:34,799 --> 00:27:38,039
+que ustedes puedan ver su asistencia.
+
+556
+00:27:38,039 --> 00:27:44,080
+Eh, el link para los miércoles. Sí.
+
+557
+00:27:44,080 --> 00:27:49,760
+Ah, el link para entrar al aula virtual
+
+558
+00:27:50,519 --> 00:27:53,120
+y después el link para las clases
+
+559
+00:27:53,120 --> 00:27:55,159
+grabadas. Esto que les comentaba recién,
+
+560
+00:27:55,159 --> 00:27:56,360
+¿sí?
+
+561
+00:27:56,360 --> 00:27:58,039
+Eh,
+
+562
+00:27:58,039 --> 00:28:02,279
+en este link sí ustedes van a ver
+
+563
+00:28:02,279 --> 00:28:06,000
+algo como esto
+
+564
+00:28:06,200 --> 00:28:09,679
+que ahora está vacío. Sí, pero este es
+
+565
+00:28:09,679 --> 00:28:11,720
+el
+
+566
+00:28:11,720 --> 00:28:15,360
+la playlist. Sí, ustedes acuérdense que
+
+567
+00:28:15,360 --> 00:28:20,080
+nuestra comisión tiene este número.
+
+568
+00:28:20,279 --> 00:28:22,760
+Entonces, eh acá van a empezar a
+
+569
+00:28:22,760 --> 00:28:26,440
+aparecer los videos, ¿sí?, de las clases
+
+570
+00:28:26,440 --> 00:28:28,360
+van a estar grabadas las clases de los
+
+571
+00:28:28,360 --> 00:28:30,279
+martes y las clases de los jueves
+
+572
+00:28:30,279 --> 00:28:33,679
+también sí van a aparecer acá. Si por
+
+573
+00:28:33,679 --> 00:28:37,320
+alguna razón este, no sé, ustedes ven
+
+574
+00:28:37,320 --> 00:28:41,960
+que faltó el video de la clase anterior,
+
+575
+00:28:41,960 --> 00:28:45,519
+este me mandan un correo. Sí, profe, o
+
+576
+00:28:45,519 --> 00:28:48,919
+por Discord. Este, no está el video. Sí,
+
+577
+00:28:48,919 --> 00:28:55,080
+todo puede pasar, ¿no? A veces este
+
+578
+00:28:55,200 --> 00:28:58,120
+pasan cosas y bueno, capaz que no sé, me
+
+579
+00:28:58,120 --> 00:29:00,440
+olvidé yo de subirlo, lo tengo listo el
+
+580
+00:29:00,440 --> 00:29:02,080
+video, pero me olvidé de subirlo.
+
+581
+00:29:02,080 --> 00:29:03,919
+Entonces, bueno, nos mandan un
+
+582
+00:29:03,919 --> 00:29:08,120
+mensajito. Sí, este,
+
+583
+00:29:08,120 --> 00:29:09,840
+pero acá tienen que estar todos los
+
+584
+00:29:09,840 --> 00:29:13,679
+videos de las clases grabadas.
+
+585
+00:29:13,679 --> 00:29:16,679
+E
+
+586
+00:29:16,799 --> 00:29:19,799
+bueno, y acá tienen, sí, para ingresar a
+
+587
+00:29:19,799 --> 00:29:23,200
+Discord tienen este link también
+
+588
+00:29:23,200 --> 00:29:26,440
+que es el link de la invitación al
+
+589
+00:29:26,440 --> 00:29:29,840
+servidor de Discord.
+
+590
+00:29:29,840 --> 00:29:32,039
+Entonces,
+
+591
+00:29:32,039 --> 00:29:35,120
+les muestro Discord también. Bueno, en
+
+592
+00:29:35,120 --> 00:29:40,480
+Discord sí ustedes van a ver este
+
+593
+00:29:40,480 --> 00:29:44,320
+loguito así en
+
+594
+00:29:44,320 --> 00:29:46,440
+Ah, por si alguno todavía no ingresó a
+
+595
+00:29:46,440 --> 00:29:48,720
+Discord, sí, se tienen que crear una
+
+596
+00:29:48,720 --> 00:29:51,159
+cuenta primero.
+
+597
+00:29:51,159 --> 00:29:53,440
+Este, o sea, cuando ingresen a Discord,
+
+598
+00:29:53,440 --> 00:29:55,279
+si no han ingresado nunca, les va a
+
+599
+00:29:55,279 --> 00:29:56,640
+decir, "Bueno, tenés que crearte una
+
+600
+00:29:56,640 --> 00:29:59,480
+cuenta." se crean la cuenta y una vez
+
+601
+00:29:59,480 --> 00:30:01,240
+que ingresan
+
+602
+00:30:01,240 --> 00:30:03,039
+este
+
+603
+00:30:03,039 --> 00:30:08,679
+van a ver eh a ver,
+
+604
+00:30:11,880 --> 00:30:15,600
+bueno, eh,
+
+605
+00:30:15,720 --> 00:30:18,519
+van a ver entonces este este iconito que
+
+606
+00:30:18,519 --> 00:30:22,960
+se ve acá de color azul, ¿sí? Que tiene,
+
+607
+00:30:22,960 --> 00:30:26,440
+¿ven? El número de comisión 25 231
+
+608
+00:30:26,440 --> 00:30:29,360
+fronter.
+
+609
+00:30:29,360 --> 00:30:32,919
+Bien, acá en Discord
+
+610
+00:30:32,919 --> 00:30:35,440
+eh esto es lo que se llama un servidor
+
+611
+00:30:35,440 --> 00:30:40,159
+que tiene Sí, tiene varios canales.
+
+612
+00:30:40,159 --> 00:30:43,279
+Entonces, eh acá este que dice
+
+613
+00:30:43,279 --> 00:30:46,039
+preséntate, sí, es donde yo les decía
+
+614
+00:30:46,039 --> 00:30:49,799
+que ustedes, como ya hay varios y les
+
+615
+00:30:49,799 --> 00:30:52,880
+agradezco un montón, este, ya se han
+
+616
+00:30:52,880 --> 00:30:56,159
+estado presentando. Sí.
+
+617
+00:30:56,159 --> 00:30:57,960
+Bueno, acuérdense,
+
+618
+00:30:57,960 --> 00:31:01,880
+aunque ya se hayan presentado, sí, si
+
+619
+00:31:01,880 --> 00:31:03,760
+cuando tengan un ratito, no hace falta
+
+620
+00:31:03,760 --> 00:31:06,960
+que lo hagan ahora. Sí, sí, estaría
+
+621
+00:31:06,960 --> 00:31:10,679
+bueno que pongan este por qué, por qué
+
+622
+00:31:10,679 --> 00:31:12,200
+están acá, por qué están haciendo este
+
+623
+00:31:12,200 --> 00:31:16,240
+curso, ¿sí? Para que no perdamos ese
+
+624
+00:31:16,240 --> 00:31:18,840
+objetivo y podamos
+
+625
+00:31:18,840 --> 00:31:22,159
+llegar al final todos juntos. Sí. Bueno,
+
+626
+00:31:22,159 --> 00:31:24,679
+acá hay un canal que se llama Sala de
+
+627
+00:31:24,679 --> 00:31:27,240
+espera,
+
+628
+00:31:27,240 --> 00:31:32,080
+que tiene una cara así de qué pasa acá,
+
+629
+00:31:32,760 --> 00:31:35,320
+eh,
+
+630
+00:31:35,320 --> 00:31:38,760
+¿para qué sirve este canal? Acá es como
+
+631
+00:31:38,760 --> 00:31:41,960
+un canal, a ver, eh, de castigo, no, no
+
+632
+00:31:41,960 --> 00:31:45,799
+sería de castigo, pero más o menos
+
+633
+00:31:45,799 --> 00:31:49,279
+vieron que eh nosotros les pedimos
+
+634
+00:31:49,279 --> 00:31:51,720
+siempre que ustedes se identifiquen con
+
+635
+00:31:51,720 --> 00:31:54,519
+su apellido y nombre o nombre y
+
+636
+00:31:54,519 --> 00:31:56,679
+apellido.
+
+637
+00:31:56,679 --> 00:31:58,880
+Lo necesitamos para tomar la asistencia
+
+638
+00:31:58,880 --> 00:32:01,399
+en el Zoom. Sí.
+
+639
+00:32:01,399 --> 00:32:05,120
+Aparte porque por ahí va a pasar este
+
+640
+00:32:05,120 --> 00:32:08,279
+que supónganse ustedes se ponen tienen
+
+641
+00:32:08,279 --> 00:32:12,799
+un apodo, ¿sí? No sé este Pepito o
+
+642
+00:32:12,799 --> 00:32:15,519
+Pepita, ¿sí? Entonces ustedes hacen una
+
+643
+00:32:15,519 --> 00:32:18,120
+pregunta y cuando yo les conteste, yo
+
+644
+00:32:18,120 --> 00:32:21,240
+voy a decir, "A ver, hola Pepita."
+
+645
+00:32:21,240 --> 00:32:23,960
+Y y me gustaría poder llamarlos por su
+
+646
+00:32:23,960 --> 00:32:26,360
+nombre. Sí, algunos tienen a veces un
+
+647
+00:32:26,360 --> 00:32:28,600
+nombre comercial.
+
+648
+00:32:28,600 --> 00:32:32,279
+Este, entonces es como que eh está
+
+649
+00:32:32,279 --> 00:32:34,120
+complicado que yo me dirija a ustedes
+
+650
+00:32:34,120 --> 00:32:36,919
+por su nombre comercial. Sí. Así que
+
+651
+00:32:36,919 --> 00:32:40,120
+bueno, importante
+
+652
+00:32:40,120 --> 00:32:42,159
+que acá en Discord también se puedan
+
+653
+00:32:42,159 --> 00:32:46,120
+identificar con su nombre y apellido.
+
+654
+00:32:46,120 --> 00:32:48,360
+Por ejemplo,
+
+655
+00:32:48,360 --> 00:32:51,880
+fíjense, eh,
+
+656
+00:32:51,880 --> 00:32:54,240
+a veces en Discord sí uno se pone un
+
+657
+00:32:54,240 --> 00:32:56,360
+nombre
+
+658
+00:32:56,360 --> 00:32:58,240
+e
+
+659
+00:32:58,240 --> 00:33:02,080
+un nombre de usuario, ¿sí? Entonces, eh,
+
+660
+00:33:02,080 --> 00:33:05,120
+por ejemplo, sí, este usuario tiene el
+
+661
+00:33:05,120 --> 00:33:09,360
+nombre EDFX, ¿sí? Entonces, yo con ese
+
+662
+00:33:09,360 --> 00:33:10,720
+nombre de usuario no puedo
+
+663
+00:33:10,720 --> 00:33:13,399
+identificarlos a ustedes, ¿sí? No tengo
+
+664
+00:33:13,399 --> 00:33:17,880
+forma. Entonces, ¿qué les voy a pedir?
+
+665
+00:33:17,880 --> 00:33:20,840
+Que se cambien, eh, que se pongan un
+
+666
+00:33:20,840 --> 00:33:24,120
+apodo acá. No, me no es cuestión, no les
+
+667
+00:33:24,120 --> 00:33:27,279
+pedimos que se cambien su su usuario,
+
+668
+00:33:27,279 --> 00:33:29,399
+sino que se agreguen un apodo, que eso
+
+669
+00:33:29,399 --> 00:33:31,840
+se puede hacer por cada servidor de
+
+670
+00:33:31,840 --> 00:33:36,039
+Discord. ¿Sí? Entonces ustedes vienen al
+
+671
+00:33:36,039 --> 00:33:37,799
+icono del servidor que está a la
+
+672
+00:33:37,799 --> 00:33:40,840
+izquierda acá arriba
+
+673
+00:33:40,840 --> 00:33:43,279
+y se hacen un clic derecho. Sí, aparece
+
+674
+00:33:43,279 --> 00:33:45,600
+este menú
+
+675
+00:33:45,600 --> 00:33:49,480
+y hay una opción que se llama editar
+
+676
+00:33:49,480 --> 00:33:53,240
+perfil por servidor. ¿Sí? Entonces
+
+677
+00:33:53,240 --> 00:33:57,000
+ustedes entran acá,
+
+678
+00:33:57,760 --> 00:34:00,679
+¿sí? Acá les aparecen sus datos. Ven que
+
+679
+00:34:00,679 --> 00:34:04,600
+aparece en este caso mi foto, mi nombre.
+
+680
+00:34:04,600 --> 00:34:06,639
+Acá dice el servidor en el que ustedes
+
+681
+00:34:06,639 --> 00:34:09,679
+están. Sí, en este momento. Y entonces
+
+682
+00:34:09,679 --> 00:34:13,720
+acá donde dice apodo del servidor,
+
+683
+00:34:13,720 --> 00:34:20,599
+ustedes ponen su nombre y apellido. Sí,
+
+684
+00:34:20,800 --> 00:34:22,960
+si quieren poner nombre y apellido, si
+
+685
+00:34:22,960 --> 00:34:25,440
+quieren poner apellido y nombre.
+
+686
+00:34:25,440 --> 00:34:29,119
+Entonces, de esta manera, eh me ayudan
+
+687
+00:34:29,119 --> 00:34:31,480
+primero a identificarlos
+
+688
+00:34:31,480 --> 00:34:34,879
+y después a este
+
+689
+00:34:34,879 --> 00:34:37,000
+eh poder, por ejemplo, hacer un control
+
+690
+00:34:37,000 --> 00:34:39,000
+de que ustedes han ingresado a Discord.
+
+691
+00:34:39,000 --> 00:34:41,280
+Sí. Y si no han ingresado les va a
+
+692
+00:34:41,280 --> 00:34:43,839
+llegar un correo mío, "Che, no has
+
+693
+00:34:43,839 --> 00:34:46,359
+ingresado a Discord. Ponete las pilas,
+
+694
+00:34:46,359 --> 00:34:48,079
+metete a Discord, te estás perdiendo un
+
+695
+00:34:48,079 --> 00:34:50,520
+montón de información."
+
+696
+00:34:50,520 --> 00:34:52,560
+Sí.
+
+697
+00:34:52,560 --> 00:34:54,720
+Entonces
+
+698
+00:34:54,720 --> 00:34:56,839
+sí ustedes ponen acá en apodo del
+
+699
+00:34:56,839 --> 00:34:59,320
+servidor ponen nombre y apellido y le
+
+700
+00:34:59,320 --> 00:35:03,119
+ponen acá guardar cambios.
+
+701
+00:35:03,119 --> 00:35:06,800
+Entonces ahí yo los voy a poder
+
+702
+00:35:06,800 --> 00:35:11,800
+este identificar. Sí.
+
+703
+00:35:11,800 --> 00:35:14,960
+Bueno, ¿qué va a pasar con aquellos que
+
+704
+00:35:14,960 --> 00:35:18,359
+no pueda identificar? Sí.
+
+705
+00:35:18,359 --> 00:35:22,880
+Eh, a veces eh se agregan al Discord, se
+
+706
+00:35:22,880 --> 00:35:26,520
+agrega gente de otras comisiones, ¿sí?
+
+707
+00:35:26,520 --> 00:35:28,640
+Porque son curiosos, porque qué sé yo,
+
+708
+00:35:28,640 --> 00:35:31,960
+porque un amigo les pasó el link, eh,
+
+709
+00:35:31,960 --> 00:35:34,119
+pero este canal es para nosotros, sí, es
+
+710
+00:35:34,119 --> 00:35:38,240
+un canal privado de esta comisión nada
+
+711
+00:35:38,240 --> 00:35:41,800
+más. Entonces, aquellas personas que yo
+
+712
+00:35:41,800 --> 00:35:44,760
+no las pueda identificar, gracias, Max.
+
+713
+00:35:44,760 --> 00:35:47,599
+Ahí, mira, Max, un capo ya se cambió.
+
+714
+00:35:47,599 --> 00:35:49,839
+El te estaba usando de ejemplo, Max, eh,
+
+715
+00:35:49,839 --> 00:35:52,599
+nada más. Pero bueno, Max, ahí ya se
+
+716
+00:35:52,599 --> 00:35:57,599
+cambió. Entonces, eh,
+
+717
+00:35:57,599 --> 00:35:59,440
+si yo no los puedo identificar con su
+
+718
+00:35:59,440 --> 00:36:02,160
+apellido y nombre, lo que voy a hacer es
+
+719
+00:36:02,160 --> 00:36:04,680
+asignarles un rol que va a ser de no
+
+720
+00:36:04,680 --> 00:36:06,400
+verificado.
+
+721
+00:36:06,400 --> 00:36:08,400
+Y eso lo que va a hacer es que ustedes
+
+722
+00:36:08,400 --> 00:36:11,680
+solamente puedan ver la sala de espera.
+
+723
+00:36:11,680 --> 00:36:13,760
+¿Sí?
+
+724
+00:36:13,760 --> 00:36:16,839
+Entonces, si alguien entra a Discord y
+
+725
+00:36:16,839 --> 00:36:19,599
+solamente puede ver la sala de espera y
+
+726
+00:36:19,599 --> 00:36:22,040
+no puede ver los otros canales, es
+
+727
+00:36:22,040 --> 00:36:25,400
+porque le faltó sí, cambiarse su apodo y
+
+728
+00:36:25,400 --> 00:36:30,440
+ponerse apellido y nombre. Sí. Entonces,
+
+729
+00:36:30,440 --> 00:36:32,839
+eh si están en la sala de espera, pueden
+
+730
+00:36:32,839 --> 00:36:34,960
+poner acá un mensajito.
+
+731
+00:36:34,960 --> 00:36:39,720
+Este me ponen este profe o
+
+732
+00:36:39,720 --> 00:36:42,480
+o Norberto, Santi, quien quieran. Sí,
+
+733
+00:36:42,480 --> 00:36:45,560
+este, ya me cambié el Yo igual lo voy a
+
+734
+00:36:45,560 --> 00:36:47,960
+ir controlando, pero cuando ustedes ya
+
+735
+00:36:47,960 --> 00:36:50,319
+se cambien y se pongan el apodo con su
+
+736
+00:36:50,319 --> 00:36:53,119
+nombre y apellido, me avisan por acá, me
+
+737
+00:36:53,119 --> 00:36:56,640
+mandan un correo como quieran, así los
+
+738
+00:36:56,640 --> 00:37:00,720
+puedo sacar de la sala de espera.
+
+739
+00:37:00,720 --> 00:37:03,160
+Bueno, la idea es que acá hay un canal
+
+740
+00:37:03,160 --> 00:37:06,640
+de anuncios. Sí, fíjense acá ya
+
+741
+00:37:06,640 --> 00:37:10,400
+hemos puesto la misma información que
+
+742
+00:37:10,400 --> 00:37:12,680
+está en el archivo que les mostraba
+
+743
+00:37:12,680 --> 00:37:14,960
+recién, ¿sí?
+
+744
+00:37:14,960 --> 00:37:18,440
+Todos los datos de la cursada,
+
+745
+00:37:18,440 --> 00:37:20,920
+un canal de consultas, ¿sí? para que
+
+746
+00:37:20,920 --> 00:37:25,520
+ustedes puedan ir eh haciendo las
+
+747
+00:37:25,520 --> 00:37:28,520
+preguntas que, por ejemplo, terminó la
+
+748
+00:37:28,520 --> 00:37:31,520
+clase, al otro día, se ponen a practicar
+
+749
+00:37:31,520 --> 00:37:34,520
+este ejercicio no me sale, no hay forma,
+
+750
+00:37:34,520 --> 00:37:36,000
+le doy vuelta, no me sale. Entonces,
+
+751
+00:37:36,000 --> 00:37:38,960
+bueno, me vengo a Discord y escribo acá
+
+752
+00:37:38,960 --> 00:37:40,680
+mi pregunta.
+
+753
+00:37:40,680 --> 00:37:42,560
+La idea es que en Discord nos ayudemos
+
+754
+00:37:42,560 --> 00:37:45,560
+entre todos. Sí. Entonces, seguramente
+
+755
+00:37:45,560 --> 00:37:47,200
+así como a mí hoy no me salió este
+
+756
+00:37:47,200 --> 00:37:49,319
+ejercicio, a un compañero o a una
+
+757
+00:37:49,319 --> 00:37:51,680
+compañera le salió el ejercicio.
+
+758
+00:37:51,680 --> 00:37:55,400
+Entonces, che, eh, no me sale eh el
+
+759
+00:37:55,400 --> 00:37:59,480
+ejercicio tal, ¿sí? y le doy enter y
+
+760
+00:37:59,480 --> 00:38:01,400
+dejo esa pregunta ahí en el Discord y
+
+761
+00:38:01,400 --> 00:38:03,599
+seguramente algún compañero, alguna
+
+762
+00:38:03,599 --> 00:38:05,960
+compañera me va a contestar, "Che, mira,
+
+763
+00:38:05,960 --> 00:38:08,440
+hacelo de esta manera
+
+764
+00:38:08,440 --> 00:38:12,319
+este o qué sé yo, te faltó un punto y
+
+765
+00:38:12,319 --> 00:38:15,400
+coma o mira, este, esto lo pusiste de
+
+766
+00:38:15,400 --> 00:38:18,400
+más, ¿sí? y que entre todos sí nos
+
+767
+00:38:18,400 --> 00:38:22,400
+vayamos ayudando a sacar adelante el
+
+768
+00:38:22,400 --> 00:38:24,280
+curso.
+
+769
+00:38:24,280 --> 00:38:27,160
+Eh,
+
+770
+00:38:27,160 --> 00:38:29,280
+preguntas de lo que quieran pueden poner
+
+771
+00:38:29,280 --> 00:38:31,960
+acá. Sí.
+
+772
+00:38:31,960 --> 00:38:33,880
+Y todas las consultas las vamos a
+
+773
+00:38:33,880 --> 00:38:36,480
+canalizar. Sí, solo en este canal, ¿sí?
+
+774
+00:38:36,480 --> 00:38:38,319
+En el canal de consultas. Preguntas. Eh,
+
+775
+00:38:38,319 --> 00:38:40,359
+no sé, no puedo entrar al aula virtual,
+
+776
+00:38:40,359 --> 00:38:44,359
+¿cómo hago? Este, ayer no pude ir a la
+
+777
+00:38:44,359 --> 00:38:46,920
+clase, no sé. Sí. Las consultas que
+
+778
+00:38:46,920 --> 00:38:49,760
+necesiten hacernos también las pueden
+
+779
+00:38:49,760 --> 00:38:52,960
+canalizar por acá.
+
+780
+00:38:52,960 --> 00:38:56,599
+Eh, un canal de recursos donde vamos a
+
+781
+00:38:56,599 --> 00:39:00,200
+ir compartiendo. Sí, qué sé yo. Encontré
+
+782
+00:39:00,200 --> 00:39:02,079
+una página que está muy buena porque
+
+783
+00:39:02,079 --> 00:39:06,960
+tiene este cosas interesantes sobre CSS.
+
+784
+00:39:06,960 --> 00:39:11,560
+Bueno, tac, la comparto por acá. Sí.
+
+785
+00:39:11,560 --> 00:39:13,359
+Eh,
+
+786
+00:39:13,359 --> 00:39:15,880
+y después un canal donde, qué sé yo,
+
+787
+00:39:15,880 --> 00:39:17,480
+queremos compartir un meme que
+
+788
+00:39:17,480 --> 00:39:19,920
+encontramos muy gracioso, p, lo
+
+789
+00:39:19,920 --> 00:39:23,960
+mandamos, lo compartimos ahí por ahí.
+
+790
+00:39:23,960 --> 00:39:27,359
+Bueno, y hay un canal de voz este que es
+
+791
+00:39:27,359 --> 00:39:29,720
+para que ustedes puedan hacer reuniones,
+
+792
+00:39:29,720 --> 00:39:34,000
+¿sí? ¿Qué sé yo, tienen que hacer eh
+
+793
+00:39:34,000 --> 00:39:35,599
+resolver un ejercicio, está medio
+
+794
+00:39:35,599 --> 00:39:37,680
+complicado, che. Alguno se puede juntar
+
+795
+00:39:37,680 --> 00:39:41,920
+y nos y hacemos una reunión eh a través
+
+796
+00:39:41,920 --> 00:39:44,480
+de este canal de voz. Si ustedes
+
+797
+00:39:44,480 --> 00:39:47,400
+entraron y no saben cómo salir, sí
+
+798
+00:39:47,400 --> 00:39:51,319
+tienen que hacer clic en el
+
+799
+00:39:51,319 --> 00:39:53,119
+iconito este que aparece acá abajo de un
+
+800
+00:39:53,119 --> 00:39:54,760
+teléfono.
+
+801
+00:39:54,760 --> 00:40:00,640
+Hacen clic ahí y salen del canal de voz.
+
+802
+00:40:02,280 --> 00:40:08,079
+Bien. Bueno, esto es Discord. Sí. Este,
+
+803
+00:40:08,079 --> 00:40:11,160
+no dejen de participar en Discord, por
+
+804
+00:40:11,160 --> 00:40:14,160
+favor.
+
+805
+00:40:15,359 --> 00:40:22,160
+Bueno, eh, ¿qué más? E aula virtual.
+
+806
+00:40:23,599 --> 00:40:27,640
+Si no pueden acceder esta semana al aula
+
+807
+00:40:27,640 --> 00:40:32,440
+virtual, sí nos avisan.
+
+808
+00:40:32,440 --> 00:40:35,440
+Eh,
+
+809
+00:40:35,720 --> 00:40:40,560
+normalmente eh es el número de DNI, ¿sí?
+
+810
+00:40:40,560 --> 00:40:44,160
+Y una clave que siempre,
+
+811
+00:40:44,160 --> 00:40:47,240
+bueno, ahora no sé si si se ha cambiado,
+
+812
+00:40:47,240 --> 00:40:50,200
+pero antes siempre la clave para iniciar
+
+813
+00:40:50,200 --> 00:40:53,720
+era este prueba
+
+814
+00:40:53,720 --> 00:40:56,960
+signo de admiración 1 2 3.
+
+815
+00:40:56,960 --> 00:40:59,480
+Por si no se acordaban, a lo mejor con
+
+816
+00:40:59,480 --> 00:41:03,720
+esta clave pueden acceder. Si no, bueno,
+
+817
+00:41:03,720 --> 00:41:06,680
+eh los que no han tenido usuario en el
+
+818
+00:41:06,680 --> 00:41:08,520
+en el aula virtual les ha llegado un
+
+819
+00:41:08,520 --> 00:41:10,079
+correo
+
+820
+00:41:10,079 --> 00:41:11,880
+y los que sí tenían usuario de otro
+
+821
+00:41:11,880 --> 00:41:14,560
+curso anterior usan el mismo usuario.
+
+822
+00:41:14,560 --> 00:41:16,359
+Sí,
+
+823
+00:41:16,359 --> 00:41:20,720
+el mismo usuario y clave.
+
+824
+00:41:25,800 --> 00:41:30,079
+Eh, Santi, no sé si querés agregar algo
+
+825
+00:41:30,079 --> 00:41:32,359
+sobre
+
+826
+00:41:32,359 --> 00:41:34,079
+o querés comentar el tema del
+
+827
+00:41:34,079 --> 00:41:35,680
+presentismo
+
+828
+00:41:35,680 --> 00:41:37,960
+o no sé lo que quieras. Bueno, repito,
+
+829
+00:41:37,960 --> 00:41:41,280
+el tema del presentismo es que tienen
+
+830
+00:41:41,280 --> 00:41:43,040
+que tener una cuenta de Zoom con el
+
+831
+00:41:43,040 --> 00:41:44,560
+email con el que se registraron el
+
+832
+00:41:44,560 --> 00:41:47,760
+curso. De esa forma automáticamente les
+
+833
+00:41:47,760 --> 00:41:50,280
+va a tomar la asistencia cuando entren.
+
+834
+00:41:50,280 --> 00:41:51,839
+Y por supuesto también pongan el nombre
+
+835
+00:41:51,839 --> 00:41:54,520
+y apellido por si las dudas también haya
+
+836
+00:41:54,520 --> 00:41:56,599
+que chequear
+
+837
+00:41:56,599 --> 00:41:58,960
+en caso de que les aparezca ausente. Ha
+
+838
+00:41:58,960 --> 00:42:01,040
+pasado de che, yo estuve presente y
+
+839
+00:42:01,040 --> 00:42:03,720
+quizás están con un nombre y apellido,
+
+840
+00:42:03,720 --> 00:42:06,119
+otra cosa y con otro mail. Entonces, tal
+
+841
+00:42:06,119 --> 00:42:08,359
+vez puede pasar que entren con otro
+
+842
+00:42:08,359 --> 00:42:11,000
+mail, los toma ausente, pero al ver el
+
+843
+00:42:11,000 --> 00:42:12,960
+nombre y apellido se los registra
+
+844
+00:42:12,960 --> 00:42:16,839
+después como presente. Eso después eh me
+
+845
+00:42:16,839 --> 00:42:19,520
+manda el mail y lo voy poniendo como
+
+846
+00:42:19,520 --> 00:42:23,000
+presente. Pero pero bueno, tengan en
+
+847
+00:42:23,000 --> 00:42:25,559
+cuenta eso de entrar con una cuenta de
+
+848
+00:42:25,559 --> 00:42:27,000
+Zoom con el mail con el que se
+
+849
+00:42:27,000 --> 00:42:29,280
+registraron el curso. Por otro lado,
+
+850
+00:42:29,280 --> 00:42:33,400
+fíjense en la barra de
+
+851
+00:42:33,400 --> 00:42:35,359
+opciones de Zoom.
+
+852
+00:42:35,359 --> 00:42:37,800
+Si no aparece un signo que se llama
+
+853
+00:42:37,800 --> 00:42:39,800
+preguntas y respuestas, que es un icono
+
+854
+00:42:39,800 --> 00:42:42,640
+con el signo de pregunta, está en los
+
+855
+00:42:42,640 --> 00:42:44,480
+tres puntitos.
+
+856
+00:42:44,480 --> 00:42:49,040
+Eso eh les va a permitir poder dejar las
+
+857
+00:42:49,040 --> 00:42:53,880
+preguntas. A ver si puedo copiar y pegar
+
+858
+00:42:54,079 --> 00:42:58,520
+el acá en el chat.
+
+859
+00:42:59,440 --> 00:43:00,319
+Deja,
+
+860
+00:43:00,319 --> 00:43:02,119
+>> mira, ahí yo lo estoy mostrando en
+
+861
+00:43:02,119 --> 00:43:05,119
+pantalla.
+
+862
+00:43:05,720 --> 00:43:07,520
+están los tres puntitos.
+
+863
+00:43:07,520 --> 00:43:09,359
+>> Ahí va bien. Es
+
+864
+00:43:09,359 --> 00:43:13,359
+>> Y ahí la opción preguntas y respuestas,
+
+865
+00:43:13,359 --> 00:43:15,720
+>> ¿correcto? Entonces ahí cuando haga clic
+
+866
+00:43:15,720 --> 00:43:17,720
+Norbert
+
+867
+00:43:17,720 --> 00:43:21,280
+aparece una pantallita con las preguntas
+
+868
+00:43:21,280 --> 00:43:23,040
+que han hecho ustedes. Por ahora ven, no
+
+869
+00:43:23,040 --> 00:43:24,240
+hay preguntas pendientes porque no han
+
+870
+00:43:24,240 --> 00:43:26,359
+hecho ni una pregunta
+
+871
+00:43:26,359 --> 00:43:28,359
+y entonces después en respondida pueden
+
+872
+00:43:28,359 --> 00:43:30,559
+ir viendo todo lo que se fue fue
+
+873
+00:43:30,559 --> 00:43:32,839
+respondiendo normal. Entonces ahí pueden
+
+874
+00:43:32,839 --> 00:43:34,520
+concentrar todo lo que son todas las
+
+875
+00:43:34,520 --> 00:43:36,920
+preguntas, lo que son las técnicas,
+
+876
+00:43:36,920 --> 00:43:40,440
+eh, y entonces Norbert va ir chequeando
+
+877
+00:43:40,440 --> 00:43:42,319
+cuando tiene un poquito de tiempo y
+
+878
+00:43:42,319 --> 00:43:44,119
+respondiendo esas consultas y yo todo lo
+
+879
+00:43:44,119 --> 00:43:47,599
+que sea eh preguntas administrativas los
+
+880
+00:43:47,599 --> 00:43:49,640
+voy respondiendo a través del chat y
+
+881
+00:43:49,640 --> 00:43:51,359
+aparte en el chat por si quieren generar
+
+882
+00:43:51,359 --> 00:43:54,599
+algú alg una conversación.
+
+883
+00:43:54,599 --> 00:43:57,119
+Eh, ah, preguntan en Norbert del aula
+
+884
+00:43:57,119 --> 00:43:59,000
+virtual el tema de que todavía no pueden
+
+885
+00:43:59,000 --> 00:44:01,040
+acceder a clase uno.
+
+886
+00:44:01,040 --> 00:44:03,160
+>> Bien. tienen que hacer el el
+
+887
+00:44:03,160 --> 00:44:05,119
+cuestionario
+
+888
+00:44:05,119 --> 00:44:07,800
+inicial para eso. Entonces,
+
+889
+00:44:07,800 --> 00:44:08,319
+>> exacto.
+
+890
+00:44:08,319 --> 00:44:09,520
+>> Ahí ahí lo va a mostrar Norber un
+
+891
+00:44:09,520 --> 00:44:13,040
+poquito sobre eso.
+
+892
+00:44:15,440 --> 00:44:19,160
+>> Eh, Priscila, escribime por mail y los
+
+893
+00:44:19,160 --> 00:44:23,599
+días del after son los jueves de 19 a
+
+894
+00:44:23,599 --> 00:44:26,599
+20.
+
+895
+00:44:33,760 --> 00:44:35,839
+Okay.
+
+896
+00:44:35,839 --> 00:44:39,160
+Bueno, eh
+
+897
+00:44:39,160 --> 00:44:43,200
+vemos el aula virtual rápidamente
+
+898
+00:44:43,200 --> 00:44:46,240
+le hacemos un pantallazo por si hay
+
+899
+00:44:46,240 --> 00:44:48,680
+alguien que todavía no puede entrar, no
+
+900
+00:44:48,680 --> 00:44:51,119
+se haga problema.
+
+901
+00:44:51,119 --> 00:44:52,839
+A ver, cuando ustedes ingresan al aula
+
+902
+00:44:52,839 --> 00:44:57,319
+virtual, sí tienen esta opción, ¿sí? Mis
+
+903
+00:44:57,319 --> 00:45:00,319
+cursos.
+
+904
+00:45:00,920 --> 00:45:04,200
+Entonces, hacen clic en mis cursos, ¿sí?
+
+905
+00:45:04,200 --> 00:45:06,480
+y les tiene que aparecer
+
+906
+00:45:06,480 --> 00:45:10,440
+eh algo parecido a esto.
+
+907
+00:45:10,440 --> 00:45:12,280
+Eh, fíjense, acá hay un botoncito que
+
+908
+00:45:12,280 --> 00:45:14,559
+dice lista,
+
+909
+00:45:14,559 --> 00:45:17,160
+puede ser tarjeta. Sí, esto es cómo cómo
+
+910
+00:45:17,160 --> 00:45:19,280
+presentar, cómo mostrar los cursos que
+
+911
+00:45:19,280 --> 00:45:22,720
+yo tengo habilitados.
+
+912
+00:45:23,280 --> 00:45:26,559
+Entonces, eh tal vez les aparezca como
+
+913
+00:45:26,559 --> 00:45:28,440
+tarjeta, a lo mejor yo creo que lo había
+
+914
+00:45:28,440 --> 00:45:33,000
+puesto como lista.
+
+915
+00:45:33,079 --> 00:45:36,800
+Y eh tienen que tener dos cursos, ¿sí?
+
+916
+00:45:36,800 --> 00:45:39,559
+El curso de frontend, que es el en el
+
+917
+00:45:39,559 --> 00:45:41,960
+que ustedes se anotaron y acá les va a
+
+918
+00:45:41,960 --> 00:45:44,079
+aparecer un curso de introducción a la
+
+919
+00:45:44,079 --> 00:45:48,720
+IA. Sí, a partir de este cuatrimestre,
+
+920
+00:45:48,720 --> 00:45:51,760
+¿sí? Ustedes son los los
+
+921
+00:45:51,760 --> 00:45:53,760
+conejitos de India de este cuatrimestre
+
+922
+00:45:53,760 --> 00:45:57,359
+que vamos a empezar a a trabajar con la
+
+923
+00:45:57,359 --> 00:46:00,760
+IA. Sí, vamos a incorporar al curso,
+
+924
+00:46:00,760 --> 00:46:03,359
+¿sí? Material de la inteligencia
+
+925
+00:46:03,359 --> 00:46:06,599
+artificial. Sí, vamos a ver cómo cómo
+
+926
+00:46:06,599 --> 00:46:08,920
+usar la inteligencia artificial, ¿sí? De
+
+927
+00:46:08,920 --> 00:46:10,839
+forma
+
+928
+00:46:10,839 --> 00:46:15,079
+este que nos ayude este
+
+929
+00:46:15,079 --> 00:46:17,800
+de forma ética, como se dice también.
+
+930
+00:46:17,800 --> 00:46:20,640
+Sí. Bueno, ahora este curso de
+
+931
+00:46:20,640 --> 00:46:23,400
+introducción a la sí es para que ustedes
+
+932
+00:46:23,400 --> 00:46:27,760
+lo hagan en forma autoasistida, ¿sí? O
+
+933
+00:46:27,760 --> 00:46:30,119
+sea, en este en este curso está
+
+934
+00:46:30,119 --> 00:46:31,880
+solamente el material en el aula
+
+935
+00:46:31,880 --> 00:46:34,880
+virtual, pero no hay una clase en vivo,
+
+936
+00:46:34,880 --> 00:46:37,760
+¿sí?, para ese curso.
+
+937
+00:46:37,760 --> 00:46:40,520
+Así que esto es importante que ustedes
+
+938
+00:46:40,520 --> 00:46:44,400
+lo vayan haciendo de a poquito, ¿sí?
+
+939
+00:46:44,400 --> 00:46:46,480
+Dedíquenle un tiempito porque está
+
+940
+00:46:46,480 --> 00:46:50,119
+bueno. Van a aprender. Para el que no
+
+941
+00:46:50,119 --> 00:46:53,160
+conoce nada de la IA. Sí, está bueno.
+
+942
+00:46:53,160 --> 00:46:57,119
+Para que conoce también está bueno. Eh,
+
+943
+00:46:57,119 --> 00:46:59,160
+un poco de qué se trata la inteligencia
+
+944
+00:46:59,160 --> 00:47:02,520
+artificial, ¿sí? Este
+
+945
+00:47:02,520 --> 00:47:05,839
+conocer un poquito sobre eso nos va a
+
+946
+00:47:05,839 --> 00:47:07,680
+venir bien, nos va a abrir un poco la
+
+947
+00:47:07,680 --> 00:47:13,680
+cabeza, este nos va a poner en tema, eh,
+
+948
+00:47:13,680 --> 00:47:16,559
+y de a poco sí vamos a ir incorporando
+
+949
+00:47:16,559 --> 00:47:19,880
+el uso de la de la IA en algunas clases,
+
+950
+00:47:19,880 --> 00:47:21,800
+¿sí?
+
+951
+00:47:21,800 --> 00:47:24,599
+Así que bueno, esto de a poquito.
+
+952
+00:47:24,599 --> 00:47:27,119
+Eh,
+
+953
+00:47:27,119 --> 00:47:29,319
+curso de frontend. Sí. Vamos a hacer
+
+954
+00:47:29,319 --> 00:47:33,359
+clic para entrar.
+
+955
+00:47:36,000 --> 00:47:39,280
+Bien, acá está la portada del curso, así
+
+956
+00:47:39,280 --> 00:47:44,240
+el nombre. Y tenemos todos estos este
+
+957
+00:47:44,240 --> 00:47:46,480
+recuadritos
+
+958
+00:47:46,480 --> 00:47:49,559
+que eh bueno, yo veo a mí me aparecen
+
+959
+00:47:49,559 --> 00:47:52,839
+algunos más. Esperen que me voy a poner
+
+960
+00:47:52,839 --> 00:47:58,040
+como estudiante. Así ven, vemos lo
+
+961
+00:47:58,040 --> 00:48:00,000
+mismo.
+
+962
+00:48:00,000 --> 00:48:03,079
+Entonces, fíjense, aparecen los primeros
+
+963
+00:48:03,079 --> 00:48:05,839
+tres en azul y el resto están todos
+
+964
+00:48:05,839 --> 00:48:08,319
+deshabilitados.
+
+965
+00:48:08,319 --> 00:48:11,079
+Entonces, de a poco vamos a ir
+
+966
+00:48:11,079 --> 00:48:12,880
+habilitando
+
+967
+00:48:12,880 --> 00:48:17,400
+eh las clases. Sí,
+
+968
+00:48:17,400 --> 00:48:20,200
+bienvenida. Esto lo
+
+969
+00:48:20,200 --> 00:48:23,599
+entren a ustedes investiguen todo. Sí,
+
+970
+00:48:23,599 --> 00:48:27,400
+sean curiosos, sean curiosos.
+
+971
+00:48:27,400 --> 00:48:31,880
+Este es muy bueno, sí, para un proceso
+
+972
+00:48:31,880 --> 00:48:33,839
+de aprendizaje
+
+973
+00:48:33,839 --> 00:48:36,920
+que ustedes sean curiosos. Este,
+
+974
+00:48:36,920 --> 00:48:38,839
+seguramente no se van a acordar de
+
+975
+00:48:38,839 --> 00:48:41,640
+cuando tenían 3 años o cuatro y si se
+
+976
+00:48:41,640 --> 00:48:45,319
+acuerdan, genial. Pero en esa época,
+
+977
+00:48:45,319 --> 00:48:48,000
+cuando ustedes tenían 3 4 años, estaban
+
+978
+00:48:48,000 --> 00:48:49,680
+todo el tiempo preguntando, ¿por qué? ¿Y
+
+979
+00:48:49,680 --> 00:48:51,240
+esto por qué? ¿Y esto por qué? ¿Y
+
+980
+00:48:51,240 --> 00:48:54,119
+aquello? ¿Por qué? Sí, los que son
+
+981
+00:48:54,119 --> 00:48:56,240
+padres seguramente lo tienen un poco más
+
+982
+00:48:56,240 --> 00:48:57,799
+presente,
+
+983
+00:48:57,799 --> 00:49:01,000
+este, pero bueno, pregunten, sáquense
+
+984
+00:49:01,000 --> 00:49:03,200
+las dudas. Sí, si tienen esta
+
+985
+00:49:03,200 --> 00:49:05,760
+herramienta del aula virtual, hagan clic
+
+986
+00:49:05,760 --> 00:49:08,000
+en todos lados, métanse en todos lados a
+
+987
+00:49:08,000 --> 00:49:11,720
+ver qué hay, a ver de qué se trata. Sí,
+
+988
+00:49:11,720 --> 00:49:13,760
+acá tienen un video de bienvenida para
+
+989
+00:49:13,760 --> 00:49:16,720
+que lo vean ustedes después. Eso es todo
+
+990
+00:49:16,720 --> 00:49:18,640
+lo que hay en la parte de bienvenida.
+
+991
+00:49:18,640 --> 00:49:22,160
+Véanlo. Sí, véanlo,
+
+992
+00:49:22,160 --> 00:49:24,960
+pero después, ahora no.
+
+993
+00:49:24,960 --> 00:49:28,359
+Introducción. Bueno, acá en introducción
+
+994
+00:49:28,359 --> 00:49:30,640
+hay otro video, ¿sí? Para que lo vean
+
+995
+00:49:30,640 --> 00:49:32,640
+después ustedes,
+
+996
+00:49:32,640 --> 00:49:36,440
+pero más abajo acá hay material. Sí.
+
+997
+00:49:36,440 --> 00:49:38,200
+Bueno,
+
+998
+00:49:38,200 --> 00:49:40,240
+eh
+
+999
+00:49:40,240 --> 00:49:43,119
+esto sí importante, como yo les digo,
+
+1000
+00:49:43,119 --> 00:49:45,799
+vean, hay unos unos puntitos acá, unos
+
+1001
+00:49:45,799 --> 00:49:47,680
+más. Hagan clic en el más. ¿Qué dice el
+
+1002
+00:49:47,680 --> 00:49:51,760
+más? Bueno, ¿quiénes somos nosotros? Sí,
+
+1003
+00:49:51,760 --> 00:49:53,480
+eh
+
+1004
+00:49:53,480 --> 00:49:55,079
+por ahí, si ustedes no lo saben,
+
+1005
+00:49:55,079 --> 00:49:58,160
+nosotros somos Talento Tech, ¿sí? Que
+
+1006
+00:49:58,160 --> 00:50:01,160
+pertenecemos a la Agencia de Habilidades
+
+1007
+00:50:01,160 --> 00:50:03,880
+para el Futuro, que es parte del
+
+1008
+00:50:03,880 --> 00:50:06,119
+Ministerio de Educación.
+
+1009
+00:50:06,119 --> 00:50:10,119
+de la ciudad de Buenos Aires. Sí,
+
+1010
+00:50:10,119 --> 00:50:12,720
+por esta razón sí es que parte de los
+
+1011
+00:50:12,720 --> 00:50:17,160
+requisitos es que ustedes residan
+
+1012
+00:50:17,160 --> 00:50:20,839
+en CABA o en AMA. Sí, este tienen que
+
+1013
+00:50:20,839 --> 00:50:23,200
+ser mayor de 18. Bueno, todos estos
+
+1014
+00:50:23,200 --> 00:50:25,520
+requisitos ya los
+
+1015
+00:50:25,520 --> 00:50:29,000
+han superado porque están acá. Sí. Eh,
+
+1016
+00:50:29,000 --> 00:50:31,960
+importante que tengan una PC para
+
+1017
+00:50:31,960 --> 00:50:34,040
+trabajar o una notebook, ¿sí? Con
+
+1018
+00:50:34,040 --> 00:50:35,960
+internet.
+
+1019
+00:50:35,960 --> 00:50:38,400
+y este
+
+1020
+00:50:38,400 --> 00:50:40,319
+unos conocimientos previos que son los
+
+1021
+00:50:40,319 --> 00:50:43,359
+que ustedes tuvieron que este validar
+
+1022
+00:50:43,359 --> 00:50:46,119
+ahí cuando hicieron el la inscripción.
+
+1023
+00:50:46,119 --> 00:50:47,440
+Sí.
+
+1024
+00:50:47,440 --> 00:50:50,640
+Eh, bien.
+
+1025
+00:50:50,640 --> 00:50:53,480
+Eh,
+
+1026
+00:50:53,480 --> 00:50:56,160
+ya vamos a ir hablando, sí, el tema de
+
+1027
+00:50:56,160 --> 00:50:59,440
+cómo va a ser la evaluación, pero bueno,
+
+1028
+00:50:59,440 --> 00:51:02,160
+les pido yo que ustedes después vayan
+
+1029
+00:51:02,160 --> 00:51:04,480
+leyendo esto, pero bueno, lo vamos a ir
+
+1030
+00:51:04,480 --> 00:51:06,960
+charlando de a poquito,
+
+1031
+00:51:06,960 --> 00:51:08,920
+eh,
+
+1032
+00:51:08,920 --> 00:51:12,040
+eh, a medida que avancen las clases. Sí.
+
+1033
+00:51:12,040 --> 00:51:13,720
+Eh,
+
+1034
+00:51:13,720 --> 00:51:16,280
+a ver, fundamental que vamos a entregar,
+
+1035
+00:51:16,280 --> 00:51:18,280
+ustedes van a hacer un proyecto final
+
+1036
+00:51:18,280 --> 00:51:20,160
+integrador, ¿sí? Ustedes van a crear una
+
+1037
+00:51:20,160 --> 00:51:22,400
+página web,
+
+1038
+00:51:22,400 --> 00:51:25,359
+este, que ya después vamos a ir viendo
+
+1039
+00:51:25,359 --> 00:51:27,000
+cuáles son los requisitos que tiene que
+
+1040
+00:51:27,000 --> 00:51:29,720
+tener esa página web.
+
+1041
+00:51:29,720 --> 00:51:32,720
+Eh,
+
+1042
+00:51:33,160 --> 00:51:36,880
+pero para llegar sí a este proyecto
+
+1043
+00:51:36,880 --> 00:51:39,880
+final,
+
+1044
+00:51:39,920 --> 00:51:42,240
+lo van a hacer solos. No, no lo van a
+
+1045
+00:51:42,240 --> 00:51:44,440
+hacer solos, lo vamos a ir haciendo
+
+1046
+00:51:44,440 --> 00:51:47,599
+clase a clase. Sí,
+
+1047
+00:51:47,599 --> 00:51:52,280
+cada clase tiene un ejercicio
+
+1048
+00:51:52,280 --> 00:51:54,240
+y esos ejercicios que vamos a ir
+
+1049
+00:51:54,240 --> 00:51:58,599
+haciendo, que están en las clases,
+
+1050
+00:51:58,599 --> 00:52:01,480
+van a ir siendo parte de ese trabajo
+
+1051
+00:52:01,480 --> 00:52:05,400
+final. ¿Sí? Entonces, el trabajo, este
+
+1052
+00:52:05,400 --> 00:52:08,599
+proyecto final integrador lo vamos a ir
+
+1053
+00:52:08,599 --> 00:52:11,000
+haciendo
+
+1054
+00:52:11,000 --> 00:52:13,799
+parte por parte, partecita por partecita
+
+1055
+00:52:13,799 --> 00:52:16,720
+en cada una de las clases. ¿Sí?
+
+1056
+00:52:16,720 --> 00:52:20,799
+Entonces, importante, ¿sí? Que hagan los
+
+1057
+00:52:20,799 --> 00:52:22,920
+ejercicios que están en las clases para
+
+1058
+00:52:22,920 --> 00:52:26,000
+poder ir avanzando en su proyecto que
+
+1059
+00:52:26,000 --> 00:52:29,480
+van a entregar al final. Sí.
+
+1060
+00:52:29,480 --> 00:52:34,640
+Ahora, a mitad de curso, sí, tenemos 16
+
+1061
+00:52:34,640 --> 00:52:37,920
+clases. Allá por la clase 8o, vamos a
+
+1062
+00:52:37,920 --> 00:52:41,400
+hacer una preentrega,
+
+1063
+00:52:41,400 --> 00:52:44,480
+que acá es simplemente si ustedes vienen
+
+1064
+00:52:44,480 --> 00:52:46,480
+haciendo todos los ejercicios clase a
+
+1065
+00:52:46,480 --> 00:52:49,559
+clase, cuando llega a la clase ocho,
+
+1066
+00:52:49,559 --> 00:52:52,160
+presentan lo que ya llevan hecho, ¿sí?
+
+1067
+00:52:52,160 --> 00:52:54,799
+No tienen que hacer nada nuevo.
+
+1068
+00:52:54,799 --> 00:52:58,440
+Sí. Entonces,
+
+1069
+00:52:58,440 --> 00:53:02,880
+esto eh es una instancia, ¿sí? Que
+
+1070
+00:53:02,880 --> 00:53:05,520
+también se las vamos a ir comunicando,
+
+1071
+00:53:05,520 --> 00:53:09,280
+pero por eso insisto, importante ir
+
+1072
+00:53:09,280 --> 00:53:12,119
+haciendo los ejercicios de cada clase
+
+1073
+00:53:12,119 --> 00:53:14,040
+porque con eso vamos armando el proyecto
+
+1074
+00:53:14,040 --> 00:53:16,480
+final. Cuando llegamos a la clase ocho,
+
+1075
+00:53:16,480 --> 00:53:18,839
+yo les voy a decir, chicos, suban a tal
+
+1076
+00:53:18,839 --> 00:53:20,520
+servidor
+
+1077
+00:53:20,520 --> 00:53:22,559
+esta página, lo que ya han hecho hasta
+
+1078
+00:53:22,559 --> 00:53:24,559
+el momento. ¿Sí?
+
+1079
+00:53:24,559 --> 00:53:26,520
+O sea, que no es que van a tener que
+
+1080
+00:53:26,520 --> 00:53:29,200
+hacer nada extra,
+
+1081
+00:53:29,200 --> 00:53:30,880
+simplemente
+
+1082
+00:53:30,880 --> 00:53:32,799
+eh
+
+1083
+00:53:32,799 --> 00:53:34,960
+entregar lo que llevan hecho a mitad de
+
+1084
+00:53:34,960 --> 00:53:37,319
+curso. Sí.
+
+1085
+00:53:37,319 --> 00:53:39,760
+Bien. Y después
+
+1086
+00:53:39,760 --> 00:53:42,200
+están los cuestionarios,
+
+1087
+00:53:42,200 --> 00:53:45,480
+perdón, toqué mal. Eh, están los
+
+1088
+00:53:45,480 --> 00:53:48,520
+cuestionarios que son
+
+1089
+00:53:48,520 --> 00:53:50,520
+los que están en el aula virtual, que ya
+
+1090
+00:53:50,520 --> 00:53:52,680
+se los voy a mostrar ahora.
+
+1091
+00:53:52,680 --> 00:53:54,960
+Estos cuestionarios que están en el aula
+
+1092
+00:53:54,960 --> 00:53:58,240
+virtual nos van a servir
+
+1093
+00:53:58,240 --> 00:54:01,440
+para ir habilitando
+
+1094
+00:54:01,440 --> 00:54:05,119
+eh el material de las clases próximas.
+
+1095
+00:54:05,119 --> 00:54:10,520
+¿Sí? Entonces, estos cuestionarios
+
+1096
+00:54:10,520 --> 00:54:12,480
+eh
+
+1097
+00:54:12,480 --> 00:54:16,640
+a ver si puedo hacer se ve más o menos.
+
+1098
+00:54:16,640 --> 00:54:21,000
+Eh, estos cuestionarios van a estar eh
+
+1099
+00:54:21,000 --> 00:54:23,520
+en las clases pares, ¿sí? Va a estar en
+
+1100
+00:54:23,520 --> 00:54:25,720
+la clase dos, en la cuatro, en la 6, en
+
+1101
+00:54:25,720 --> 00:54:28,200
+la 8, en la 10, en la 12 y en la 14.
+
+1102
+00:54:28,200 --> 00:54:29,960
+Pero además hay un cuestionario de
+
+1103
+00:54:29,960 --> 00:54:34,480
+introducción, ¿sí? Que ese también lo lo
+
+1104
+00:54:34,480 --> 00:54:36,119
+tenemos que hacer y lo lo vamos a hacer
+
+1105
+00:54:36,119 --> 00:54:38,079
+ahora.
+
+1106
+00:54:38,079 --> 00:54:42,880
+Bien, entonces e
+
+1107
+00:54:42,880 --> 00:54:45,920
+ya les hablé de la preentrega del
+
+1108
+00:54:45,920 --> 00:54:50,720
+proyecto final after class.
+
+1109
+00:54:50,720 --> 00:54:53,720
+Creo que alguien por ahí este preguntaba
+
+1110
+00:54:53,720 --> 00:54:56,720
+qué es el aftercass.
+
+1111
+00:54:56,720 --> 00:54:59,440
+Es la clase de los jueves. Sí. Los días
+
+1112
+00:54:59,440 --> 00:55:03,960
+jueves vamos a tener lo que sería una
+
+1113
+00:55:03,960 --> 00:55:06,680
+clase de consulta. Sí, clase de
+
+1114
+00:55:06,680 --> 00:55:11,079
+consulta, clase de apoyo.
+
+1115
+00:55:11,079 --> 00:55:14,799
+Entonces, eh
+
+1116
+00:55:14,799 --> 00:55:18,599
+ustedes tienen la clase el día martes,
+
+1117
+00:55:18,599 --> 00:55:21,079
+eh, el miércoles se pusieron a hacer
+
+1118
+00:55:21,079 --> 00:55:24,440
+ejercicios, a practicar y surgieron un
+
+1119
+00:55:24,440 --> 00:55:26,680
+montón de dudas. Se pusieron a leer el
+
+1120
+00:55:26,680 --> 00:55:28,880
+material, surgieron un montón de dudas.
+
+1121
+00:55:28,880 --> 00:55:32,280
+Bueno, anotan todas esas dudas y el
+
+1122
+00:55:32,280 --> 00:55:33,799
+jueves
+
+1123
+00:55:33,799 --> 00:55:37,880
+de 19 a 20 nos encontramos para clases
+
+1124
+00:55:37,880 --> 00:55:41,119
+de consulta o clases de apoyo. Sí,
+
+1125
+00:55:41,119 --> 00:55:43,799
+acuérdense que ese link
+
+1126
+00:55:43,799 --> 00:55:47,520
+lo tienen en el archivo que les mostraba
+
+1127
+00:55:47,520 --> 00:55:50,200
+recién,
+
+1128
+00:55:50,200 --> 00:55:51,960
+¿sí?
+
+1129
+00:55:51,960 --> 00:55:56,039
+que es este link y este es por Meet, no
+
+1130
+00:55:56,039 --> 00:55:59,280
+es por Zoom, es por otra plataforma. Sí,
+
+1131
+00:55:59,280 --> 00:56:01,119
+si ustedes
+
+1132
+00:56:01,119 --> 00:56:03,319
+hacen clic en ese link, se les va a
+
+1133
+00:56:03,319 --> 00:56:08,640
+abrir el Meet. Sí. Y entonces ahí ven,
+
+1134
+00:56:08,640 --> 00:56:12,039
+van a ver que acá dice frontend comisión
+
+1135
+00:56:12,039 --> 00:56:13,960
+25231
+
+1136
+00:56:13,960 --> 00:56:16,039
+after class. Sí.
+
+1137
+00:56:16,039 --> 00:56:20,160
+Y ahí ingresan a la reunión
+
+1138
+00:56:20,160 --> 00:56:24,359
+los jueves. Sí,
+
+1139
+00:56:24,359 --> 00:56:29,240
+los jueves de 19 a 20. Recuerden que
+
+1140
+00:56:29,240 --> 00:56:32,079
+tienen todos esta esta información. Ya
+
+1141
+00:56:32,079 --> 00:56:35,359
+la tienen
+
+1142
+00:56:35,799 --> 00:56:37,839
+bien.
+
+1143
+00:56:37,839 --> 00:56:41,440
+Bueno, acuerdos y compromisos.
+
+1144
+00:56:41,440 --> 00:56:43,359
+Eh,
+
+1145
+00:56:43,359 --> 00:56:46,079
+bueno, esto es fundamental. Sí.
+
+1146
+00:56:46,079 --> 00:56:47,920
+Eh,
+
+1147
+00:56:47,920 --> 00:56:49,720
+acuerdos, compromisos, norma de
+
+1148
+00:56:49,720 --> 00:56:53,640
+convivencia. Esto es para que el curso
+
+1149
+00:56:53,640 --> 00:56:57,839
+este sea lo mejor para todos. Sí. Eh,
+
+1150
+00:56:57,839 --> 00:57:00,280
+puntuales. Sí, con Santi somos muy
+
+1151
+00:57:00,280 --> 00:57:01,920
+puntuales.
+
+1152
+00:57:01,920 --> 00:57:05,440
+Eh, vamos a estar arrancando a las 7,
+
+1153
+00:57:05,440 --> 00:57:09,799
+¿sí? A las 19 horas. Santi va a abrir el
+
+1154
+00:57:09,799 --> 00:57:11,200
+Zoom.
+
+1155
+00:57:11,200 --> 00:57:14,839
+Eh, hoy esperamos casi 10 minutos por
+
+1156
+00:57:14,839 --> 00:57:18,160
+ser la primer clase, pero
+
+1157
+00:57:18,160 --> 00:57:21,280
+eh a mí me gusta ser muy puntual y
+
+1158
+00:57:21,280 --> 00:57:23,440
+respeto mucho a los que son puntuales.
+
+1159
+00:57:23,440 --> 00:57:27,720
+Así que por respeto a los puntuales,
+
+1160
+00:57:27,720 --> 00:57:31,039
+yo voy a esperar 3 minutos nada más en
+
+1161
+00:57:31,039 --> 00:57:32,640
+las clases, ¿sí? Para que podamos
+
+1162
+00:57:32,640 --> 00:57:35,119
+aprovechar el tiempo.
+
+1163
+00:57:35,119 --> 00:57:37,240
+E
+
+1164
+00:57:37,240 --> 00:57:40,720
+así que este les pido, ¿sí? sean
+
+1165
+00:57:40,720 --> 00:57:42,280
+puntuales
+
+1166
+00:57:42,280 --> 00:57:44,920
+si llegan tarde porque bueno, todo puede
+
+1167
+00:57:44,920 --> 00:57:48,680
+pasar. Sí hay imponderables, este, pasan
+
+1168
+00:57:48,680 --> 00:57:52,160
+cosas, llegamos tarde porque algo pasó,
+
+1169
+00:57:52,160 --> 00:57:54,079
+eh,
+
+1170
+00:57:54,079 --> 00:57:57,599
+no hay problema. Sí, lo que sí por ahí
+
+1171
+00:57:57,599 --> 00:58:00,000
+este
+
+1172
+00:58:00,000 --> 00:58:02,400
+eh
+
+1173
+00:58:02,400 --> 00:58:07,680
+a ver eh un comentario, pero no no a ver
+
+1174
+00:58:07,680 --> 00:58:11,160
+por ahí a veces uno entra tarde al curso
+
+1175
+00:58:11,160 --> 00:58:14,160
+y pone, "Hola, perdón, llegué tarde."
+
+1176
+00:58:14,160 --> 00:58:16,559
+Este,
+
+1177
+00:58:16,559 --> 00:58:19,000
+tranquilos, no pasa nada. Sí, no hace
+
+1178
+00:58:19,000 --> 00:58:21,760
+falta este que se disculpen porque todos
+
+1179
+00:58:21,760 --> 00:58:24,720
+sabemos que pasan cosas. Este, ustedes
+
+1180
+00:58:24,720 --> 00:58:28,119
+entren y métanse en la clase y traten de
+
+1181
+00:58:28,119 --> 00:58:30,920
+no perderse nada.
+
+1182
+00:58:30,920 --> 00:58:34,319
+Eh, mantener el micrófono apagado. Sí,
+
+1183
+00:58:34,319 --> 00:58:36,119
+hasta que yo les diga, "Bueno, les
+
+1184
+00:58:36,119 --> 00:58:38,520
+habilito hablar." Ahí, habilitan el
+
+1185
+00:58:38,520 --> 00:58:40,440
+micrófono, así no no generamos ruido
+
+1186
+00:58:40,440 --> 00:58:43,760
+durante la clase. Este,
+
+1187
+00:58:43,760 --> 00:58:45,440
+levantamos la mano o escribir por el
+
+1188
+00:58:45,440 --> 00:58:48,079
+chat, ya lo comentamos. Sí. mantenemos
+
+1189
+00:58:48,079 --> 00:58:50,400
+siempre el respeto.
+
+1190
+00:58:50,400 --> 00:58:53,400
+Eh,
+
+1191
+00:58:53,720 --> 00:58:56,760
+siempre la verdad que no he tenido nunca
+
+1192
+00:58:56,760 --> 00:59:00,559
+ningún problema, por suerte, este,
+
+1193
+00:59:00,559 --> 00:59:04,000
+eh, así que bueno, sé que no lo vamos a
+
+1194
+00:59:04,000 --> 00:59:06,880
+tener este ahora tampoco, sí, pero
+
+1195
+00:59:06,880 --> 00:59:09,440
+siempre con mucho respeto nos vamos a
+
+1196
+00:59:09,440 --> 00:59:11,359
+dirigir entre nosotros, entre nuestros
+
+1197
+00:59:11,359 --> 00:59:13,039
+compañeros.
+
+1198
+00:59:13,039 --> 00:59:15,119
+Este,
+
+1199
+00:59:15,119 --> 00:59:17,240
+si quiero hacer algún comentario sobre
+
+1200
+00:59:17,240 --> 00:59:19,440
+algo que escribió o dijo algún
+
+1201
+00:59:19,440 --> 00:59:22,079
+compañero, siempre con mucho respeto.
+
+1202
+00:59:22,079 --> 00:59:28,079
+Sí. E y no usar el chat, sí, para este
+
+1203
+00:59:28,079 --> 00:59:29,960
+cuestiones que no tengan nada que ver
+
+1204
+00:59:29,960 --> 00:59:33,960
+con el curso. Sí. Hola, vendo vendo este
+
+1205
+00:59:33,960 --> 00:59:39,599
+perfume, no sé qué es eso. Este e a ver,
+
+1206
+00:59:39,599 --> 00:59:41,280
+me encanta que a todos les vaya muy bien
+
+1207
+00:59:41,280 --> 00:59:44,640
+en lo que hacen, pero bueno, eh,
+
+1208
+00:59:44,640 --> 00:59:48,200
+en el momento del curso eh estamos para
+
+1209
+00:59:48,200 --> 00:59:50,480
+el curso.
+
+1210
+00:59:50,480 --> 00:59:53,880
+Bien. Y bueno, los
+
+1211
+00:59:53,880 --> 00:59:55,599
+canales de comunicación, sí, ya hemos
+
+1212
+00:59:55,599 --> 00:59:57,079
+hablado de Discord, no voy a insistir
+
+1213
+00:59:57,079 --> 00:59:59,680
+más con eso. Estén atentos a los
+
+1214
+00:59:59,680 --> 01:00:02,200
+mensajes de correo, ¿sí? Estén atentos
+
+1215
+01:00:02,200 --> 01:00:04,319
+al mail con el que se registraron porque
+
+1216
+01:00:04,319 --> 01:00:06,920
+les van a llegar correos también, así
+
+1217
+01:00:06,920 --> 01:00:09,720
+que no dejen
+
+1218
+01:00:09,720 --> 01:00:12,920
+de estar atentos al correo porque
+
+1219
+01:00:12,920 --> 01:00:15,559
+también es un canal importante para
+
+1220
+01:00:15,559 --> 01:00:18,960
+nosotros de comunicación.
+
+1221
+01:00:18,960 --> 01:00:20,799
+Bien.
+
+1222
+01:00:20,799 --> 01:00:22,720
+Bueno, acá tienen los contenidos del
+
+1223
+01:00:22,720 --> 01:00:25,559
+curso. Sí, acá por si alguno dice, "Che,
+
+1224
+01:00:25,559 --> 01:00:27,880
+¿qué vamos a ver en el curso?" Bueno, no
+
+1225
+01:00:27,880 --> 01:00:32,720
+se los voy a contar, léanlo. Sí. Este,
+
+1226
+01:00:32,720 --> 01:00:37,119
+eh, acá tienen todo lo que vamos a ver.
+
+1227
+01:00:37,119 --> 01:00:40,119
+Así que este yo les voy a insistir en
+
+1228
+01:00:40,119 --> 01:00:44,480
+que lean, ¿sí? En que en que el material
+
+1229
+01:00:44,480 --> 01:00:46,319
+que está en el aula virtual es para que
+
+1230
+01:00:46,319 --> 01:00:48,400
+ustedes lo aprovechen, es para ustedes,
+
+1231
+01:00:48,400 --> 01:00:50,559
+no es para mí. Sí. Nosotros con con
+
+1232
+01:00:50,559 --> 01:00:53,599
+Santi ya lo conocemos, pero ustedes lo
+
+1233
+01:00:53,599 --> 01:00:56,000
+tienen que aprovechar.
+
+1234
+01:00:56,000 --> 01:00:57,480
+Así que todos los que están en el aula
+
+1235
+01:00:57,480 --> 01:01:00,960
+virtual, ¿sí? Lo abren, lo leen,
+
+1236
+01:01:00,960 --> 01:01:04,079
+es es está hecho para ustedes. Sí.
+
+1237
+01:01:04,079 --> 01:01:06,200
+Bueno, acá tienen todos los datos del
+
+1238
+01:01:06,200 --> 01:01:07,920
+curso,
+
+1239
+01:01:07,920 --> 01:01:10,240
+eh,
+
+1240
+01:01:10,240 --> 01:01:14,039
+y el contenido. Sí, está un poco más
+
+1241
+01:01:14,039 --> 01:01:16,799
+abajo.
+
+1242
+01:01:16,799 --> 01:01:20,839
+Sí, acá está el temario. Clase uno.
+
+1243
+01:01:20,839 --> 01:01:22,520
+Eh,
+
+1244
+01:01:22,520 --> 01:01:25,119
+bueno, las 16 clases, ¿sí?, con el
+
+1245
+01:01:25,119 --> 01:01:28,400
+temario. Y acá está eh
+
+1246
+01:01:28,400 --> 01:01:30,119
+detallado, ¿sí?, que es lo que vamos a
+
+1247
+01:01:30,119 --> 01:01:34,599
+ir viendo. Así que yo me voy a a guiar
+
+1248
+01:01:34,599 --> 01:01:36,960
+por ese por ese material y lo que está
+
+1249
+01:01:36,960 --> 01:01:39,160
+ahí es lo que vamos a ver en cada clase.
+
+1250
+01:01:39,160 --> 01:01:40,599
+Sí, yo les voy a ir diciendo, bueno, hoy
+
+1251
+01:01:40,599 --> 01:01:44,039
+vamos a ver esto, pero ustedes sepan que
+
+1252
+01:01:44,039 --> 01:01:48,160
+es lo que está en el temario. Sí,
+
+1253
+01:01:48,160 --> 01:01:51,599
+si hay algo extra, lo vamos a tener en
+
+1254
+01:01:51,599 --> 01:01:55,359
+Discord, etcétera.
+
+1255
+01:01:57,960 --> 01:02:02,240
+Bueno, acá tienen un calendario.
+
+1256
+01:02:05,079 --> 01:02:08,640
+Sí. Entonces acá aparecen eh bueno, en
+
+1257
+01:02:08,640 --> 01:02:10,640
+este caso
+
+1258
+01:02:10,640 --> 01:02:12,680
+acá, por ejemplo, no, esto es una prueba
+
+1259
+01:02:12,680 --> 01:02:14,520
+seguramente,
+
+1260
+01:02:14,520 --> 01:02:16,839
+¿eh? A ver,
+
+1261
+01:02:16,839 --> 01:02:19,359
+y si no es que está bueno, todavía no
+
+1262
+01:02:19,359 --> 01:02:20,760
+está listo el calendario, pero acá
+
+1263
+01:02:20,760 --> 01:02:24,640
+aparecen algunas eh cuando se abre un
+
+1264
+01:02:24,640 --> 01:02:27,480
+cuestionario nuevo, este, cosas por el
+
+1265
+01:02:27,480 --> 01:02:29,400
+estilo.
+
+1266
+01:02:29,400 --> 01:02:33,839
+Ahora está en preparación todavía
+
+1267
+01:02:34,359 --> 01:02:37,039
+y eh
+
+1268
+01:02:37,039 --> 01:02:38,839
+en introducción
+
+1269
+01:02:38,839 --> 01:02:42,400
+tenemos además
+
+1270
+01:02:43,240 --> 01:02:45,839
+lo cargue
+
+1271
+01:02:45,839 --> 01:02:48,359
+el cuestionario de introducción. Ah, y
+
+1272
+01:02:48,359 --> 01:02:50,720
+acá hay unos videos que ya después se
+
+1273
+01:02:50,720 --> 01:02:53,000
+los voy a comentar. Cuestionario de
+
+1274
+01:02:53,000 --> 01:02:54,880
+introducción.
+
+1275
+01:02:54,880 --> 01:02:56,599
+Este cuestionario me va a habilitar el
+
+1276
+01:02:56,599 --> 01:02:59,359
+temario de las clases uno y dos.
+
+1277
+01:02:59,359 --> 01:03:01,039
+Sí.
+
+1278
+01:03:01,039 --> 01:03:04,319
+Eh, les aparece esta pantalla. Acá hay
+
+1279
+01:03:04,319 --> 01:03:06,640
+un botón que dice intento de
+
+1280
+01:03:06,640 --> 01:03:09,880
+cuestionario. Entonces ingresan ustedes
+
+1281
+01:03:09,880 --> 01:03:13,319
+ahí y van a aparecer
+
+1282
+01:03:13,319 --> 01:03:17,079
+una serie de preguntas.
+
+1283
+01:03:17,079 --> 01:03:19,160
+Sí. Los cuestionarios, todos los
+
+1284
+01:03:19,160 --> 01:03:20,520
+cuestionarios que están en el aula
+
+1285
+01:03:20,520 --> 01:03:21,960
+virtual que vamos a tener, que yo les
+
+1286
+01:03:21,960 --> 01:03:25,200
+decía, cada dos clases, ¿sí?
+
+1287
+01:03:25,200 --> 01:03:28,279
+Eh, tienen este formato. Sí. Eh, acá
+
+1288
+01:03:28,279 --> 01:03:31,039
+aparecen lo que serían el total de las
+
+1289
+01:03:31,039 --> 01:03:33,400
+preguntas,
+
+1290
+01:03:33,400 --> 01:03:35,319
+que si ustedes hacen clic pueden ir
+
+1291
+01:03:35,319 --> 01:03:39,480
+pasando eh por esas tarjetitas.
+
+1292
+01:03:39,480 --> 01:03:45,760
+Y acá tienen eh pregunta uno,
+
+1293
+01:03:46,200 --> 01:03:51,200
+la pregunta sí, en general hay digamos
+
+1294
+01:03:51,200 --> 01:03:53,440
+dos tipos. Hay unas preguntas que son de
+
+1295
+01:03:53,440 --> 01:03:56,520
+opción única. Sí, las de opción única
+
+1296
+01:03:56,520 --> 01:04:00,400
+tienen eh el circulito.
+
+1297
+01:04:00,400 --> 01:04:03,279
+¿Sí? Entonces, si ustedes marcan una o
+
+1298
+01:04:03,279 --> 01:04:05,880
+si marcan otra, se desmarca la anterior.
+
+1299
+01:04:05,880 --> 01:04:07,680
+Y puede haber alguna pregunta que les
+
+1300
+01:04:07,680 --> 01:04:09,680
+diga, "Bueno, seleccionen varias
+
+1301
+01:04:09,680 --> 01:04:12,200
+opciones." Y esas tienen unas casillas
+
+1302
+01:04:12,200 --> 01:04:14,720
+cuadraditas. Sí, ahí pueden marcar
+
+1303
+01:04:14,720 --> 01:04:16,760
+varias. Sí.
+
+1304
+01:04:16,760 --> 01:04:19,839
+Entonces, eh este cuestionario inicial
+
+1305
+01:04:19,839 --> 01:04:23,200
+es como para repasar un poco todo esto
+
+1306
+01:04:23,200 --> 01:04:25,240
+que que
+
+1307
+01:04:25,240 --> 01:04:27,760
+les estoy contando,
+
+1308
+01:04:27,760 --> 01:04:30,279
+eh, o todo esto que estamos charlando,
+
+1309
+01:04:30,279 --> 01:04:32,480
+¿sí? En la primer clase. Sí. Bueno,
+
+1310
+01:04:32,480 --> 01:04:34,079
+¿cómo se construye el proyecto
+
+1311
+01:04:34,079 --> 01:04:36,359
+integrador final?
+
+1312
+01:04:36,359 --> 01:04:38,400
+Esto que se les comenté hace un rato.
+
+1313
+01:04:38,400 --> 01:04:42,000
+Sí. Eh, participando en el afterclass,
+
+1314
+01:04:42,000 --> 01:04:46,240
+¿no? Completando un examen final, no.
+
+1315
+01:04:46,240 --> 01:04:48,440
+realizando un trabajo en equipo al final
+
+1316
+01:04:48,440 --> 01:04:51,720
+del curso, ¿no?
+
+1317
+01:04:51,720 --> 01:04:55,319
+Sí. Mediante la resolución progresiva de
+
+1318
+01:04:55,319 --> 01:04:59,680
+los ejercicios, ¿sí?, de cada clase y
+
+1319
+01:04:59,680 --> 01:05:01,279
+siguiendo las rutas de avance. ¿Sí?
+
+1320
+01:05:01,279 --> 01:05:03,200
+Entonces, esa sería la respuesta
+
+1321
+01:05:03,200 --> 01:05:06,920
+correcta. Puede ser que ustedes vean
+
+1322
+01:05:06,920 --> 01:05:11,200
+estas preguntas en distinto orden, ¿sí?
+
+1323
+01:05:11,200 --> 01:05:13,599
+Porque estas preguntas se van poniendo
+
+1324
+01:05:13,599 --> 01:05:15,960
+en orden aleat eh las respuestas,
+
+1325
+01:05:15,960 --> 01:05:17,680
+perdón, se van poniendo en orden
+
+1326
+01:05:17,680 --> 01:05:20,640
+aleatorio. Así que es posible que si yo
+
+1327
+01:05:20,640 --> 01:05:22,680
+acá marco la opción D, tal vez para
+
+1328
+01:05:22,680 --> 01:05:25,200
+ustedes sea la opción A o la opción B o
+
+1329
+01:05:25,200 --> 01:05:28,920
+la opción C. Sí, en eso puede que haya
+
+1330
+01:05:28,920 --> 01:05:31,680
+alguna diferencia.
+
+1331
+01:05:31,680 --> 01:05:35,559
+Bueno, eh
+
+1332
+01:05:36,079 --> 01:05:38,240
+les dejo entonces para que ustedes
+
+1333
+01:05:38,240 --> 01:05:41,119
+respondan este
+
+1334
+01:05:41,119 --> 01:05:43,000
+este cuestionario.
+
+1335
+01:05:43,000 --> 01:05:45,000
+Si tienen alguna duda y no saben qué
+
+1336
+01:05:45,000 --> 01:05:49,240
+responder, ¿sí? Eh, fíjense que esta es
+
+1337
+01:05:49,240 --> 01:05:52,680
+la información que estaba
+
+1338
+01:05:52,680 --> 01:05:55,240
+en acá en el apartado de introducción,
+
+1339
+01:05:55,240 --> 01:05:56,680
+¿sí? Ese que les fui mostrando yo
+
+1340
+01:05:56,680 --> 01:06:01,279
+recién. Toda esa información está ahí.
+
+1341
+01:06:01,279 --> 01:06:02,760
+Este, esa información les va a servir
+
+1342
+01:06:02,760 --> 01:06:05,880
+para responder estas preguntas. Sí.
+
+1343
+01:06:05,880 --> 01:06:09,039
+Bueno, se los dejo para que lo respondan
+
+1344
+01:06:09,039 --> 01:06:12,720
+ustedes en esta semana. Sí, cualquier
+
+1345
+01:06:12,720 --> 01:06:16,160
+duda nos avisan, este,
+
+1346
+01:06:16,160 --> 01:06:19,559
+nos avisan por el Discord, pero es
+
+1347
+01:06:19,559 --> 01:06:21,359
+básicamente eso, ir respondiendo las
+
+1348
+01:06:21,359 --> 01:06:24,520
+preguntas. pasan al siguiente.
+
+1349
+01:06:24,520 --> 01:06:29,960
+Este cuando llegan al final
+
+1350
+01:06:30,920 --> 01:06:35,559
+eh, esp, voy a ir
+
+1351
+01:06:36,799 --> 01:06:38,599
+eh
+
+1352
+01:06:38,599 --> 01:06:42,119
+ver se me fue. Ah, no me aparecen las
+
+1353
+01:06:42,119 --> 01:06:45,279
+tarjetitas que aparecían al principio.
+
+1354
+01:06:45,279 --> 01:06:47,319
+E
+
+1355
+01:06:47,319 --> 01:06:50,319
+bueno,
+
+1356
+01:06:56,359 --> 01:06:59,720
+quería hacerlo más rápido, pero
+
+1357
+01:06:59,720 --> 01:07:03,000
+cuando llegan a la última
+
+1358
+01:07:03,000 --> 01:07:05,079
+ven que hay preguntas de verdadero falso
+
+1359
+01:07:05,079 --> 01:07:06,799
+también.
+
+1360
+01:07:06,799 --> 01:07:10,359
+Lean bien las preguntas.
+
+1361
+01:07:10,359 --> 01:07:12,160
+Bueno, perdón,
+
+1362
+01:07:12,160 --> 01:07:14,880
+en la última pregunta dice terminar
+
+1363
+01:07:14,880 --> 01:07:16,799
+intento.
+
+1364
+01:07:16,799 --> 01:07:21,799
+Sí, fíjense acá dice terminar intento.
+
+1365
+01:07:21,799 --> 01:07:24,799
+Eh,
+
+1366
+01:07:25,440 --> 01:07:27,000
+ahí está.
+
+1367
+01:07:27,000 --> 01:07:28,640
+Entonces, cuando llegan a la última,
+
+1368
+01:07:28,640 --> 01:07:31,680
+ponen terminar intento.
+
+1369
+01:07:31,680 --> 01:07:34,880
+Y acá, fíjense, les va a decir,
+
+1370
+01:07:34,880 --> 01:07:36,200
+por ejemplo, ven que yo esta la
+
+1371
+01:07:36,200 --> 01:07:38,240
+respondí, la primera la respondí y dice
+
+1372
+01:07:38,240 --> 01:07:40,359
+respuesta guardada. Acá ustedes pueden
+
+1373
+01:07:40,359 --> 01:07:42,559
+chequear si les quedó alguna pregunta
+
+1374
+01:07:42,559 --> 01:07:45,799
+sin responder. Sí. Bueno, si
+
+1375
+01:07:45,799 --> 01:07:48,160
+respondieron todas, hacen clic en el
+
+1376
+01:07:48,160 --> 01:07:52,039
+botón que dice enviar todo y terminar.
+
+1377
+01:07:52,039 --> 01:07:54,000
+Y ahí les va a decir qué preguntas son
+
+1378
+01:07:54,000 --> 01:07:55,880
+correctas y qué preguntas son
+
+1379
+01:07:55,880 --> 01:07:58,400
+incorrectas y les va a decir cuál es la
+
+1380
+01:07:58,400 --> 01:08:02,559
+respuesta correcta. También
+
+1381
+01:08:02,640 --> 01:08:04,599
+estos cuestionarios
+
+1382
+01:08:04,599 --> 01:08:07,480
+son para hacerlos todas las veces que
+
+1383
+01:08:07,480 --> 01:08:10,160
+ustedes quieran. Sí,
+
+1384
+01:08:10,160 --> 01:08:13,680
+supóng si yo ahora envío esto así voy a
+
+1385
+01:08:13,680 --> 01:08:15,920
+tener solamente
+
+1386
+01:08:15,920 --> 01:08:18,560
+este, fíjense, me dice preguntas sin
+
+1387
+01:08:18,560 --> 01:08:20,359
+ninguna respuesta. ocho. Bueno, no
+
+1388
+01:08:20,359 --> 01:08:23,920
+importa, lo mando igual. Sí.
+
+1389
+01:08:23,920 --> 01:08:25,279
+Entonces, cuando ustedes lo mandan,
+
+1390
+01:08:25,279 --> 01:08:29,400
+¿ven? Acá ya aparece como la corrección.
+
+1391
+01:08:29,400 --> 01:08:31,640
+Entonces, la pregunta uno, fíjense,
+
+1392
+01:08:31,640 --> 01:08:34,239
+dice, "La respuesta es correcta." Ahora,
+
+1393
+01:08:34,239 --> 01:08:36,600
+la pregunta dos,
+
+1394
+01:08:36,600 --> 01:08:38,799
+no marqué nada y me dice, "La respuesta
+
+1395
+01:08:38,799 --> 01:08:41,440
+correcta es tal." Sí, la respuesta
+
+1396
+01:08:41,440 --> 01:08:45,480
+correcta es cuál. Bueno, esta sería la
+
+1397
+01:08:45,480 --> 01:08:49,960
+revisión del cuestionario.
+
+1398
+01:08:51,199 --> 01:08:52,679
+Cuando ustedes terminan de hacer la
+
+1399
+01:08:52,679 --> 01:08:54,319
+revisión, tienen que hacer clic acá en
+
+1400
+01:08:54,319 --> 01:08:56,679
+este botón, en este link, ¿sí?, que dice
+
+1401
+01:08:56,679 --> 01:08:59,799
+finalizar revisión.
+
+1402
+01:08:59,799 --> 01:09:02,440
+Y acá les va a decir este, bueno, que
+
+1403
+01:09:02,440 --> 01:09:05,040
+realizaron el primer intento, este,
+
+1404
+01:09:05,040 --> 01:09:07,359
+¿cuándo, a qué hora y cuál fue la
+
+1405
+01:09:07,359 --> 01:09:10,640
+calificación? Sí.
+
+1406
+01:09:10,640 --> 01:09:17,319
+Eh, yo me saqué un uno o uno de 11. Sí.
+
+1407
+01:09:17,319 --> 01:09:20,440
+Entonces, fíjense, tengo la opción de
+
+1408
+01:09:20,440 --> 01:09:23,120
+reintentar el cuestionario y lo puedo
+
+1409
+01:09:23,120 --> 01:09:27,480
+volver a hacer. ¿Sí? Y fíjense que acá
+
+1410
+01:09:27,480 --> 01:09:29,400
+dice método de calificación,
+
+1411
+01:09:29,400 --> 01:09:31,440
+calificación más alta. Entonces, si yo
+
+1412
+01:09:31,440 --> 01:09:34,040
+hice cinco veces el cuestionario, la
+
+1413
+01:09:34,040 --> 01:09:35,839
+calificación que me va a quedar fue la
+
+1414
+01:09:35,839 --> 01:09:39,520
+más alta de esas cinco veces. Sí.
+
+1415
+01:09:39,520 --> 01:09:42,600
+Bueno, así son todos los cuestionarios
+
+1416
+01:09:42,600 --> 01:09:44,960
+que están en las clases pares, ¿sí? En
+
+1417
+01:09:44,960 --> 01:09:47,080
+el aula virtual los vamos a ir
+
+1418
+01:09:47,080 --> 01:09:48,679
+resolviendo
+
+1419
+01:09:48,679 --> 01:09:52,400
+e en las clases de los días jueves. Sí,
+
+1420
+01:09:52,400 --> 01:09:55,080
+los días jueves vamos a resolver estos
+
+1421
+01:09:55,080 --> 01:09:57,880
+cuestionarios. Va a quedar grabado por
+
+1422
+01:09:57,880 --> 01:10:00,080
+si no pueden estar el jueves, queda
+
+1423
+01:10:00,080 --> 01:10:02,280
+grabado para que después si tienen
+
+1424
+01:10:02,280 --> 01:10:05,440
+alguna duda lo puedan
+
+1425
+01:10:05,440 --> 01:10:09,040
+resolver sin problemas.
+
+1426
+01:10:09,040 --> 01:10:12,040
+Bueno,
+
+1427
+01:10:12,560 --> 01:10:15,760
+y entonces eh una vez ah los
+
+1428
+01:10:15,760 --> 01:10:17,440
+cuestionarios
+
+1429
+01:10:17,440 --> 01:10:19,679
+para fíjense, yo ese cuestionario no me
+
+1430
+01:10:19,679 --> 01:10:23,840
+habilitó la clase uno y dos, ¿sí? Porque
+
+1431
+01:10:23,840 --> 01:10:26,000
+el cuestionario tiene que estar aprobado
+
+1432
+01:10:26,000 --> 01:10:31,320
+con siete preguntas correctas. Sí,
+
+1433
+01:10:31,320 --> 01:10:33,159
+todos, todos los cuestionarios que van a
+
+1434
+01:10:33,159 --> 01:10:34,920
+hacer durante todas las clases, las
+
+1435
+01:10:34,920 --> 01:10:38,640
+clases pares, ¿sí? Se aprueban con siete
+
+1436
+01:10:38,640 --> 01:10:41,159
+preguntas correctas de 10. Por eso, si
+
+1437
+01:10:41,159 --> 01:10:42,679
+ustedes de la primera hacen cinco
+
+1438
+01:10:42,679 --> 01:10:44,120
+correctas, no importa, lo vuelven a
+
+1439
+01:10:44,120 --> 01:10:45,880
+hacer hasta que consigan las siete
+
+1440
+01:10:45,880 --> 01:10:49,080
+correctas y ahí se habilitan. Sí, las
+
+1441
+01:10:49,080 --> 01:10:52,560
+clases que siguen.
+
+1442
+01:10:53,880 --> 01:10:56,760
+Yo voy a a
+
+1443
+01:10:56,760 --> 01:10:58,560
+entrar igual, aunque no esté habilitado.
+
+1444
+01:10:58,560 --> 01:11:02,640
+Sí, un privilegio que tengo.
+
+1445
+01:11:02,640 --> 01:11:04,880
+Este, y entonces vamos a entrar a la
+
+1446
+01:11:04,880 --> 01:11:08,239
+clase uno.
+
+1447
+01:11:08,239 --> 01:11:12,320
+Y eh, fíjense, las clases tienen el
+
+1448
+01:11:12,320 --> 01:11:16,120
+título, tienen el objetivo de la clase.
+
+1449
+01:11:16,120 --> 01:11:18,679
+Sí, hoy vamos a empezar.
+
+1450
+01:11:18,679 --> 01:11:21,280
+A ver, eh,
+
+1451
+01:11:21,280 --> 01:11:23,840
+algo de HTML, sí, muy poquito como para
+
+1452
+01:11:23,840 --> 01:11:28,719
+entrar en clima y vamos a eh ver cómo
+
+1453
+01:11:28,719 --> 01:11:30,800
+instalar la herramienta que vamos a
+
+1454
+01:11:30,800 --> 01:11:32,880
+usar, ¿sí?, que es Visual Studio Code
+
+1455
+01:11:32,880 --> 01:11:37,560
+para eh trabajar todas las clases.
+
+1456
+01:11:37,560 --> 01:11:41,320
+Cada clase tiene, sí, estos
+
+1457
+01:11:41,320 --> 01:11:44,639
+estos estos iconos, estos links para
+
+1458
+01:11:44,639 --> 01:11:48,000
+entrar, ¿sí?
+
+1459
+01:11:48,239 --> 01:11:50,880
+Yo voy a ver en cada clase les voy a voy
+
+1460
+01:11:50,880 --> 01:11:54,280
+a poner la presentación de la clase.
+
+1461
+01:11:54,280 --> 01:11:59,440
+Voy a trabajar sobre este archivo.
+
+1462
+01:11:59,440 --> 01:12:01,440
+Pero fíjense que hay otro que dice
+
+1463
+01:12:01,440 --> 01:12:03,679
+material de clase.
+
+1464
+01:12:03,679 --> 01:12:05,600
+Este
+
+1465
+01:12:05,600 --> 01:12:09,840
+es un libro, ¿sí? Que ustedes este lo
+
+1466
+01:12:09,840 --> 01:12:12,880
+van a poder Sí, tiene este efecto de
+
+1467
+01:12:12,880 --> 01:12:14,760
+libro.
+
+1468
+01:12:14,760 --> 01:12:17,159
+Eh, acá va a estar el material que se va
+
+1469
+01:12:17,159 --> 01:12:20,760
+a abordar en la clase. Entonces,
+
+1470
+01:12:20,760 --> 01:12:25,280
+eh si ustedes estaría bueno, sería así
+
+1471
+01:12:25,280 --> 01:12:27,400
+como algo ideal
+
+1472
+01:12:27,400 --> 01:12:30,480
+que ustedes puedan leer este material
+
+1473
+01:12:30,480 --> 01:12:33,560
+antes de asistir a la clase. Sí. Bueno,
+
+1474
+01:12:33,560 --> 01:12:38,040
+en el caso de la clase de hoy, no,
+
+1475
+01:12:38,040 --> 01:12:41,159
+este no sería el caso porque sabemos que
+
+1476
+01:12:41,159 --> 01:12:42,520
+hay algunos que no pueden ingresar
+
+1477
+01:12:42,520 --> 01:12:45,040
+todavía al aula virtual, estamos en
+
+1478
+01:12:45,040 --> 01:12:48,280
+preparación, ¿sí? Pero ya a partir de de
+
+1479
+01:12:48,280 --> 01:12:50,760
+la clase que viene o de la semana que
+
+1480
+01:12:50,760 --> 01:12:53,639
+viene, si ustedes pueden acceder al
+
+1481
+01:12:53,639 --> 01:12:55,880
+material
+
+1482
+01:12:55,880 --> 01:13:00,080
+eh al material de clase antes de ir a la
+
+1483
+01:13:00,080 --> 01:13:02,080
+clase, ¿sí? Sería lo ideal porque
+
+1484
+01:13:02,080 --> 01:13:04,520
+ustedes ya vieron de qué se trata.
+
+1485
+01:13:04,520 --> 01:13:06,080
+Entonces, el día que nos encontramos en
+
+1486
+01:13:06,080 --> 01:13:07,679
+clase
+
+1487
+01:13:07,679 --> 01:13:11,360
+eh se pueden sacar las dudas que
+
+1488
+01:13:11,360 --> 01:13:13,800
+anotaron cuando vieron el material de
+
+1489
+01:13:13,800 --> 01:13:16,960
+clase antes. Sí. Si no pudieron verlo,
+
+1490
+01:13:16,960 --> 01:13:20,840
+no hay problema, pero sería como algo
+
+1491
+01:13:20,840 --> 01:13:23,480
+ideal. Entonces, yo voy a trabajar sobre
+
+1492
+01:13:23,480 --> 01:13:25,800
+la presentación de clase y vamos a ir
+
+1493
+01:13:25,800 --> 01:13:29,679
+desarrollando los contenidos.
+
+1494
+01:13:30,560 --> 01:13:31,840
+Bien.
+
+1495
+01:13:31,840 --> 01:13:34,840
+E
+
+1496
+01:13:38,280 --> 01:13:39,800
+entonces,
+
+1497
+01:13:39,800 --> 01:13:41,400
+eh,
+
+1498
+01:13:41,400 --> 01:13:44,760
+bueno, nosotros ya nos presentábamos
+
+1499
+01:13:44,760 --> 01:13:49,520
+eh había una una PPT que la habíamos
+
+1500
+01:13:49,520 --> 01:13:52,560
+preparado con Santi, pero bueno,
+
+1501
+01:13:52,560 --> 01:13:54,800
+ya está, ya lo ya dijimos todo lo que
+
+1502
+01:13:54,800 --> 01:13:57,199
+había que decir. Metodología de la
+
+1503
+01:13:57,199 --> 01:14:00,480
+cursada. Sí, esto que ya les comenté
+
+1504
+01:14:00,480 --> 01:14:02,920
+recién.
+
+1505
+01:14:03,760 --> 01:14:05,760
+Eh, ¿cómo se construye el proyecto? Con
+
+1506
+01:14:05,760 --> 01:14:07,679
+los ejercicios que vamos haciendo todas
+
+1507
+01:14:07,679 --> 01:14:10,440
+las clases. Sí,
+
+1508
+01:14:10,440 --> 01:14:14,960
+los afterclass lo comentamos recién.
+
+1509
+01:14:14,960 --> 01:14:17,480
+Y e
+
+1510
+01:14:17,480 --> 01:14:22,000
+bueno, vamos a ir eh
+
+1511
+01:14:22,000 --> 01:14:27,400
+a empezar con el contenido de la clase.
+
+1512
+01:14:29,400 --> 01:14:30,639
+Bueno, siento que estaba yo hablando
+
+1513
+01:14:30,639 --> 01:14:32,760
+todo el tiempo,
+
+1514
+01:14:32,760 --> 01:14:37,520
+no sé si e
+
+1515
+01:14:38,280 --> 01:14:41,480
+a ver, e sé que han estado ahí haciendo
+
+1516
+01:14:41,480 --> 01:14:45,080
+ya algunas consultas por
+
+1517
+01:14:45,080 --> 01:14:48,639
+el chat. Eh, no sé, Santi, si hay alguna
+
+1518
+01:14:48,639 --> 01:14:51,239
+alguna consulta ahí que
+
+1519
+01:14:51,239 --> 01:14:53,880
+te parezca que haga falta.
+
+1520
+01:14:53,880 --> 01:14:57,199
+>> No, no hay nada. No, no,
+
+1521
+01:14:57,199 --> 01:14:59,920
+no. por inteligencia artificial, pero
+
+1522
+01:14:59,920 --> 01:15:02,560
+ahí ya le respondí.
+
+1523
+01:15:02,560 --> 01:15:05,840
+>> Genial, genial.
+
+1524
+01:15:05,840 --> 01:15:09,880
+>> Bueno, eh
+
+1525
+01:15:10,560 --> 01:15:13,000
+entonces empecemos con contenido del
+
+1526
+01:15:13,000 --> 01:15:14,520
+curso,
+
+1527
+01:15:14,520 --> 01:15:17,040
+ya más
+
+1528
+01:15:17,040 --> 01:15:20,920
+propiamente el contenido del curso.
+
+1529
+01:15:20,920 --> 01:15:23,159
+E
+
+1530
+01:15:23,159 --> 01:15:25,040
+como ustedes saben y hemos dicho, si
+
+1531
+01:15:25,040 --> 01:15:28,840
+este curso es de frontend.
+
+1532
+01:15:29,159 --> 01:15:31,880
+Eh, frontend está dentro, está
+
+1533
+01:15:31,880 --> 01:15:35,280
+comprendido de otro término que se llama
+
+1534
+01:15:35,280 --> 01:15:38,960
+eh full stack.
+
+1535
+01:15:40,040 --> 01:15:42,840
+¿De qué se tratan estas palabras? Eh,
+
+1536
+01:15:42,840 --> 01:15:46,600
+van a ver que em
+
+1537
+01:15:46,600 --> 01:15:50,320
+y como es normal en programación,
+
+1538
+01:15:50,320 --> 01:15:52,520
+vamos a utilizar muchas palabras en
+
+1539
+01:15:52,520 --> 01:15:55,199
+inglés. Sí.
+
+1540
+01:15:55,199 --> 01:15:58,199
+Eh,
+
+1541
+01:15:58,480 --> 01:16:01,840
+los generalmente
+
+1542
+01:16:01,840 --> 01:16:05,000
+los lenguajes de programación sí los han
+
+1543
+01:16:05,000 --> 01:16:09,320
+creado personas que hablan en inglés.
+
+1544
+01:16:09,320 --> 01:16:13,080
+Eh, y aparte como como
+
+1545
+01:16:13,080 --> 01:16:14,960
+vieron que se dice que como en inglés
+
+1546
+01:16:14,960 --> 01:16:16,719
+que el inglés es como un idioma
+
+1547
+01:16:16,719 --> 01:16:18,719
+universal,
+
+1548
+01:16:18,719 --> 01:16:20,960
+entonces bueno, nos vamos a encontrar
+
+1549
+01:16:20,960 --> 01:16:23,800
+con un montón de palabras en inglés. Así
+
+1550
+01:16:23,800 --> 01:16:26,280
+que eh
+
+1551
+01:16:26,280 --> 01:16:28,360
+acá viene otro pedido. Ya les he hecho
+
+1552
+01:16:28,360 --> 01:16:31,199
+varios pedidos, ahora viene otro más.
+
+1553
+01:16:31,199 --> 01:16:33,679
+Eh, amiguense con el inglés. Sí, yo sé
+
+1554
+01:16:33,679 --> 01:16:35,840
+que seguramente alguno me dirá, "Uy, a
+
+1555
+01:16:35,840 --> 01:16:37,800
+mí el inglés no me gusta, no quiero
+
+1556
+01:16:37,800 --> 01:16:40,800
+saber nada con el inglés, odio el
+
+1557
+01:16:40,800 --> 01:16:44,159
+inglés." Sí. Bueno,
+
+1558
+01:16:44,159 --> 01:16:45,800
+este,
+
+1559
+01:16:45,800 --> 01:16:48,239
+amiguense, amíguense con el inglés,
+
+1560
+01:16:48,239 --> 01:16:52,159
+empiecen a creerlo porque este nos vamos
+
+1561
+01:16:52,159 --> 01:16:54,159
+a encontrar con un montón de palabras en
+
+1562
+01:16:54,159 --> 01:16:58,080
+inglés y este
+
+1563
+01:16:58,080 --> 01:17:01,159
+y las vamos a tener que querer, sí, las
+
+1564
+01:17:01,159 --> 01:17:02,960
+vamos a querer a esas palabras en inglés
+
+1565
+01:17:02,960 --> 01:17:04,840
+porque lamentablemente
+
+1566
+01:17:04,840 --> 01:17:06,360
+este
+
+1567
+01:17:06,360 --> 01:17:08,920
+los lenguajes de programación son en
+
+1568
+01:17:08,920 --> 01:17:11,800
+inglés, ¿sí? Y después hay mucha
+
+1569
+01:17:11,800 --> 01:17:14,000
+terminología que viene en inglés y que
+
+1570
+01:17:14,000 --> 01:17:18,480
+se ha castellanizado. Sí. Así que
+
+1571
+01:17:18,480 --> 01:17:21,320
+sí. Eh,
+
+1572
+01:17:21,320 --> 01:17:23,760
+Aldana, una profe de inglés. Genial,
+
+1573
+01:17:23,760 --> 01:17:28,480
+Aldana. Siempre siempre viene bien este
+
+1574
+01:17:28,480 --> 01:17:30,639
+que tengamos ahí un profe de inglés. Yo
+
+1575
+01:17:30,639 --> 01:17:32,520
+soy
+
+1576
+01:17:32,520 --> 01:17:37,320
+este ah me gusta mucho el inglés este y
+
+1577
+01:17:37,320 --> 01:17:40,239
+soy no soy muy bueno pronunciando. Sí.
+
+1578
+01:17:40,239 --> 01:17:43,400
+Entonces yo ahí le pediré perdón este al
+
+1579
+01:17:43,400 --> 01:17:46,199
+Dana, profe de inglés, perdón. Haré lo
+
+1580
+01:17:46,199 --> 01:17:48,080
+que pueda con la pronunciación, pero
+
+1581
+01:17:48,080 --> 01:17:52,760
+bueno, este nos viene bien ahí eh
+
+1582
+01:17:52,760 --> 01:17:54,400
+Aldana.
+
+1583
+01:17:54,400 --> 01:17:56,239
+Genial.
+
+1584
+01:17:56,239 --> 01:18:00,639
+Bueno, entonces eh nosotros
+
+1585
+01:18:00,639 --> 01:18:05,120
+eh vamos a hacer el curso de frontend y
+
+1586
+01:18:05,120 --> 01:18:07,360
+así como está el front frontend, ¿sí?
+
+1587
+01:18:07,360 --> 01:18:09,960
+Front es la parte de adelante, sí,
+
+1588
+01:18:09,960 --> 01:18:12,199
+frontend sería la parte del frente, la
+
+1589
+01:18:12,199 --> 01:18:16,000
+parte de adelante. Pero, ¿de qué?
+
+1590
+01:18:16,000 --> 01:18:19,480
+De una página web. Sí. Entonces, por
+
+1591
+01:18:19,480 --> 01:18:23,000
+ejemplo, si estoy en el aula virtual,
+
+1592
+01:18:23,000 --> 01:18:26,480
+¿sí? Lo que yo veo en la página del aula
+
+1593
+01:18:26,480 --> 01:18:30,120
+virtual, ¿sí? Todo lo que se ve es el
+
+1594
+01:18:30,120 --> 01:18:33,159
+frontend, ¿sí? Ahí como dice este
+
+1595
+01:18:33,159 --> 01:18:35,040
+Gabriel,
+
+1596
+01:18:35,040 --> 01:18:38,440
+todo lo que vemos en una página web es
+
+1597
+01:18:38,440 --> 01:18:40,679
+el frontend. Entonces, nosotros en este
+
+1598
+01:18:40,679 --> 01:18:43,960
+curso vamos a aprender a hacer de una
+
+1599
+01:18:43,960 --> 01:18:47,000
+página web la parte del frontend. Sí,
+
+1600
+01:18:47,000 --> 01:18:49,800
+hay otra parte que es el backend,
+
+1601
+01:18:49,800 --> 01:18:54,639
+que es la parte que no se ve porque son
+
+1602
+01:18:54,639 --> 01:18:58,840
+procesos que están por detrás, diríamos.
+
+1603
+01:18:58,840 --> 01:19:00,639
+Y por ejemplo, les muestro algo muy
+
+1604
+01:19:00,639 --> 01:19:04,199
+sencillo, ¿sí? Nosotros
+
+1605
+01:19:04,199 --> 01:19:06,679
+cuando entramos por primera vez al aula
+
+1606
+01:19:06,679 --> 01:19:09,679
+virtual, ¿sí? Tenemos que iniciar
+
+1607
+01:19:09,679 --> 01:19:11,360
+sesión,
+
+1608
+01:19:11,360 --> 01:19:15,080
+entonces tenemos este botón de acceder.
+
+1609
+01:19:15,080 --> 01:19:16,199
+¿Sí?
+
+1610
+01:19:16,199 --> 01:19:18,360
+Entonces, esto es una página web.
+
+1611
+01:19:18,360 --> 01:19:21,480
+Nosotros perfectamente podríamos hacer
+
+1612
+01:19:21,480 --> 01:19:24,159
+esta página.
+
+1613
+01:19:24,159 --> 01:19:26,320
+Ahora, cuando yo tengo que iniciar
+
+1614
+01:19:26,320 --> 01:19:29,840
+sesión eh en un en este caso, en una
+
+1615
+01:19:29,840 --> 01:19:32,080
+página web, en un sitio web, en una
+
+1616
+01:19:32,080 --> 01:19:34,840
+aplicación web.
+
+1617
+01:19:34,840 --> 01:19:38,159
+Bueno, yo sí, esto seguimos con lo que
+
+1618
+01:19:38,159 --> 01:19:41,360
+se ve. Sí, estamos
+
+1619
+01:19:41,360 --> 01:19:44,000
+viendo esta página.
+
+1620
+01:19:44,000 --> 01:19:46,360
+Ahora, ¿qué pasa cuando yo pongo mi
+
+1621
+01:19:46,360 --> 01:19:49,320
+usuario y pongo mi clave
+
+1622
+01:19:49,320 --> 01:19:53,199
+y le doy clic al botón acceder?
+
+1623
+01:19:53,199 --> 01:19:55,600
+Empieza a ver un proceso que no lo
+
+1624
+01:19:55,600 --> 01:19:59,639
+vemos. Sí, hay un proceso de validación.
+
+1625
+01:19:59,639 --> 01:20:03,600
+Sí, estos datos que yo pongo
+
+1626
+01:20:03,600 --> 01:20:06,400
+hay un proceso en un lenguaje de
+
+1627
+01:20:06,400 --> 01:20:08,239
+programación que está por detrás que va
+
+1628
+01:20:08,239 --> 01:20:10,840
+a recibir esos datos,
+
+1629
+01:20:10,840 --> 01:20:13,400
+va a ir a compararlos con unos datos que
+
+1630
+01:20:13,400 --> 01:20:17,040
+están en una base de datos y si esos
+
+1631
+01:20:17,040 --> 01:20:20,800
+datos coinciden y este alumno está eh
+
+1632
+01:20:20,800 --> 01:20:23,960
+matriculado, entonces
+
+1633
+01:20:23,960 --> 01:20:26,280
+ese proceso que pasa por detrás me
+
+1634
+01:20:26,280 --> 01:20:29,360
+permite a mí acceder a los contenidos
+
+1635
+01:20:29,360 --> 01:20:32,679
+del aula virtual. Sí. Entonces, todo eso
+
+1636
+01:20:32,679 --> 01:20:35,120
+que no vemos, ¿sí? Ese proceso de
+
+1637
+01:20:35,120 --> 01:20:37,360
+validación de consulta, una base de
+
+1638
+01:20:37,360 --> 01:20:42,239
+datos, etcétera, todo eso
+
+1639
+01:20:42,239 --> 01:20:44,560
+es lo que está en la parte de atrás y es
+
+1640
+01:20:44,560 --> 01:20:47,800
+lo que se llama el backend y es lo que
+
+1641
+01:20:47,800 --> 01:20:50,360
+nosotros no vamos a ver en este curso.
+
+1642
+01:20:50,360 --> 01:20:52,000
+¿Sí?
+
+1643
+01:20:52,000 --> 01:20:54,159
+Entonces nosotros
+
+1644
+01:20:54,159 --> 01:20:57,679
+e un programador que se llama Full
+
+1645
+01:20:57,679 --> 01:20:59,880
+Stack,
+
+1646
+01:20:59,880 --> 01:21:02,639
+ese programador sabe hacer las dos
+
+1647
+01:21:02,639 --> 01:21:07,440
+cosas, ¿sí? Puede crear la parte visible
+
+1648
+01:21:07,440 --> 01:21:10,360
+de la página web y puede crear todo el
+
+1649
+01:21:10,360 --> 01:21:12,280
+proceso en otro lenguaje de
+
+1650
+01:21:12,280 --> 01:21:14,040
+programación.
+
+1651
+01:21:14,040 --> 01:21:16,239
+Este, todo lo que ya vamos a ver, esto
+
+1652
+01:21:16,239 --> 01:21:19,000
+se llama cliente servidor, ¿sí?
+
+1653
+01:21:19,000 --> 01:21:20,760
+eh lo que pasa en el servidor, lo que
+
+1654
+01:21:20,760 --> 01:21:22,199
+pasa en el cliente. Bueno, nosotros
+
+1655
+01:21:22,199 --> 01:21:23,639
+vamos a trabajar lo que sería en el
+
+1656
+01:21:23,639 --> 01:21:26,320
+cliente, que es en el navegador web y
+
+1657
+01:21:26,320 --> 01:21:31,280
+vamos a trabajar el frontend. Sí.
+
+1658
+01:21:31,280 --> 01:21:33,600
+Eh, si ustedes después de este curso
+
+1659
+01:21:33,600 --> 01:21:36,520
+hacen otro curso de backend, ¿sí? Bueno,
+
+1660
+01:21:36,520 --> 01:21:39,960
+ahí completarían su formación full
+
+1661
+01:21:39,960 --> 01:21:43,320
+stack. Sí.
+
+1662
+01:21:43,320 --> 01:21:46,120
+Bien.
+
+1663
+01:21:46,120 --> 01:21:48,679
+Bueno, esto es más o menos lo que les
+
+1664
+01:21:48,679 --> 01:21:52,159
+contaba. Sí, lean ustedes. Les voy a
+
+1665
+01:21:52,159 --> 01:21:54,400
+pedir que ustedes después lean todo este
+
+1666
+01:21:54,400 --> 01:21:58,080
+material para complementar, para tener
+
+1667
+01:21:58,080 --> 01:21:59,840
+más conocimientos de los que yo les voy
+
+1668
+01:21:59,840 --> 01:22:02,880
+a contar en clase.
+
+1669
+01:22:02,880 --> 01:22:05,000
+Puede pasar en algún momento, ¿sí? Que
+
+1670
+01:22:05,000 --> 01:22:08,280
+yo les diga, "Miren, chicos, este tema
+
+1671
+01:22:08,280 --> 01:22:10,800
+lo ven ustedes solos en el material y
+
+1672
+01:22:10,800 --> 01:22:14,080
+después consultamos las dudas." Sí.
+
+1673
+01:22:14,080 --> 01:22:17,080
+Ah. a veces por cuestiones de tiempo,
+
+1674
+01:22:17,080 --> 01:22:19,560
+¿sí? Eh, por ahí algún tema nos va a
+
+1675
+01:22:19,560 --> 01:22:22,159
+llevar un poco más de tiempo,
+
+1676
+01:22:22,159 --> 01:22:23,840
+entonces a lo mejor va a quedar otro
+
+1677
+01:22:23,840 --> 01:22:26,239
+tema que no es que sea menos importante,
+
+1678
+01:22:26,239 --> 01:22:27,679
+pero que a lo mejor ustedes lo pueden
+
+1679
+01:22:27,679 --> 01:22:29,520
+ver solos
+
+1680
+01:22:29,520 --> 01:22:32,159
+y y
+
+1681
+01:22:32,159 --> 01:22:33,920
+no van a tener mayor dificultad. Sí,
+
+1682
+01:22:33,920 --> 01:22:35,960
+obviamente después resolvemos las
+
+1683
+01:22:35,960 --> 01:22:39,920
+consultas que sean necesarias. Bueno,
+
+1684
+01:22:39,920 --> 01:22:43,880
+nosotros e dentro de las tecnologías de
+
+1685
+01:22:43,880 --> 01:22:47,040
+frontend, nosotros vamos a ver
+
+1686
+01:22:47,040 --> 01:22:49,560
+estas primeras tres, ¿sí? Nosotros vamos
+
+1687
+01:22:49,560 --> 01:22:52,239
+a hacer como una iniciación a la
+
+1688
+01:22:52,239 --> 01:22:55,120
+programación web. Sí, hay otras
+
+1689
+01:22:55,120 --> 01:22:58,400
+tecnologías que no vamos a a cubrirlas
+
+1690
+01:22:58,400 --> 01:23:02,520
+en este curso. Sí, está eh ahí comentaba
+
+1691
+01:23:02,520 --> 01:23:05,920
+recién Marcos, claro. Eh, el curso de
+
+1692
+01:23:05,920 --> 01:23:07,600
+React, ¿sí?
+
+1693
+01:23:07,600 --> 01:23:09,320
+E
+
+1694
+01:23:09,320 --> 01:23:14,440
+está bien lo que dice Marcos. E
+
+1695
+01:23:14,639 --> 01:23:19,560
+el lo que sería la
+
+1696
+01:23:19,560 --> 01:23:22,320
+el trayecto, la carrera de frontend,
+
+1697
+01:23:22,320 --> 01:23:23,840
+¿sí?
+
+1698
+01:23:23,840 --> 01:23:25,440
+Eh,
+
+1699
+01:23:25,440 --> 01:23:28,199
+o sea, para que ustedes terminen su
+
+1700
+01:23:28,199 --> 01:23:30,199
+formación en frontend, les quedaría
+
+1701
+01:23:30,199 --> 01:23:32,480
+hacer el curso de React. Sí, por eso yo
+
+1702
+01:23:32,480 --> 01:23:34,840
+les decía, nosotros vemos en este curso
+
+1703
+01:23:34,840 --> 01:23:37,159
+de frontend, vemos estas tres
+
+1704
+01:23:37,159 --> 01:23:39,480
+tecnologías.
+
+1705
+01:23:39,480 --> 01:23:41,639
+Después, para terminar su formación de
+
+1706
+01:23:41,639 --> 01:23:45,679
+frontend hacen el curso de React, ¿sí?
+
+1707
+01:23:45,679 --> 01:23:49,679
+Angular, View, este y otros frameworks o
+
+1708
+01:23:49,679 --> 01:23:52,440
+librerías son similares a React, pero
+
+1709
+01:23:52,440 --> 01:23:58,440
+acá en Talento Tech vemos este React y
+
+1710
+01:23:58,440 --> 01:24:02,159
+después hay otras tecnologías como
+
+1711
+01:24:02,159 --> 01:24:04,719
+este para trabajar con CSS, ¿sí? Lo que
+
+1712
+01:24:04,719 --> 01:24:06,280
+se llaman los preprocesadores, que
+
+1713
+01:24:06,280 --> 01:24:08,960
+bueno, eso tampoco lo vamos a ver en
+
+1714
+01:24:08,960 --> 01:24:11,400
+este curso. Sí, nosotros vamos a ver
+
+1715
+01:24:11,400 --> 01:24:16,800
+HTML, CSS y JavaScript.
+
+1716
+01:24:19,159 --> 01:24:21,560
+Eh, les mencionaba recién en la parte
+
+1717
+01:24:21,560 --> 01:24:23,960
+del backend, de esos procesos que van a
+
+1718
+01:24:23,960 --> 01:24:25,880
+estar del lado del servidor, bueno, la
+
+1719
+01:24:25,880 --> 01:24:28,400
+parte de base de datos,
+
+1720
+01:24:28,400 --> 01:24:32,440
+este, lenguajes como este o perdón,
+
+1721
+01:24:32,440 --> 01:24:35,199
+bases de datos o administradores de
+
+1722
+01:24:35,199 --> 01:24:38,199
+bases de datos como MySQL, POSG, SQL,
+
+1723
+01:24:38,199 --> 01:24:41,760
+Mongodb, este algunos que son
+
+1724
+01:24:41,760 --> 01:24:44,080
+relacionales y otros que no son
+
+1725
+01:24:44,080 --> 01:24:46,159
+relaciones.
+
+1726
+01:24:46,159 --> 01:24:48,480
+Eh, ¿qué lenguajes de programación
+
+1727
+01:24:48,480 --> 01:24:49,840
+pueden encontrar en la parte del
+
+1728
+01:24:49,840 --> 01:24:54,920
+backend? Python, Java, PHP, Ruby, Node,
+
+1729
+01:24:54,920 --> 01:24:58,760
+este C, etcétera.
+
+1730
+01:24:58,760 --> 01:25:02,280
+Eh, y en esa parte del backend está algo
+
+1731
+01:25:02,280 --> 01:25:04,880
+que es muy importante, que son, sí, el
+
+1732
+01:25:04,880 --> 01:25:07,960
+servidor de las páginas web, ¿sí? Que es
+
+1733
+01:25:07,960 --> 01:25:09,960
+una máquina donde vamos a alojar las
+
+1734
+01:25:09,960 --> 01:25:13,360
+páginas web. Bueno, esos también hay
+
+1735
+01:25:13,360 --> 01:25:18,360
+distintos tipos de servidores, este
+
+1736
+01:25:18,520 --> 01:25:23,960
+eh en local o en la nube. Sí. Bueno,
+
+1737
+01:25:23,960 --> 01:25:26,040
+esto es entonces como para que ustedes
+
+1738
+01:25:26,040 --> 01:25:29,239
+tengan una idea qué es lo que sería
+
+1739
+01:25:29,239 --> 01:25:31,520
+eh a lo que le llamamos un programador
+
+1740
+01:25:31,520 --> 01:25:34,800
+full stack, ¿sí? Que sabe de frontend y
+
+1741
+01:25:34,800 --> 01:25:36,960
+sabe de backend. Y nosotros nos quedamos
+
+1742
+01:25:36,960 --> 01:25:41,320
+en este curso solamente en el frontend.
+
+1743
+01:25:41,320 --> 01:25:43,800
+Bien, vamos a usar una herramienta de
+
+1744
+01:25:43,800 --> 01:25:46,920
+trabajo, ¿sí?, que va a ser
+
+1745
+01:25:46,920 --> 01:25:49,400
+este editor de código
+
+1746
+01:25:49,400 --> 01:25:54,159
+que se llama Visual Studio Code, ¿sí?
+
+1747
+01:25:54,159 --> 01:25:56,360
+Que es de Microsoft.
+
+1748
+01:25:56,360 --> 01:25:58,080
+E
+
+1749
+01:25:58,080 --> 01:26:00,639
+es de los editores de código más
+
+1750
+01:26:00,639 --> 01:26:03,080
+utilizados.
+
+1751
+01:26:03,080 --> 01:26:06,239
+Eh, hay muchos hay muchos editores de
+
+1752
+01:26:06,239 --> 01:26:10,000
+código o IDE también, como se les llama.
+
+1753
+01:26:10,000 --> 01:26:11,679
+a aquellos que tienen un montón de
+
+1754
+01:26:11,679 --> 01:26:15,480
+funciones de
+
+1755
+01:26:15,480 --> 01:26:19,040
+en clase. Nosotros yo voy a usar este
+
+1756
+01:26:19,040 --> 01:26:21,440
+editor, ¿sí? Que obviamente yo les
+
+1757
+01:26:21,440 --> 01:26:23,960
+recomiendo que ustedes usen este mismo
+
+1758
+01:26:23,960 --> 01:26:27,159
+editor para que veamos lo mismo. Pero si
+
+1759
+01:26:27,159 --> 01:26:29,280
+ustedes me dicen, "Profe, mira, yo tengo
+
+1760
+01:26:29,280 --> 01:26:31,840
+otro editor de código instalado y
+
+1761
+01:26:31,840 --> 01:26:34,360
+prefiero usar ese." No hay ningún
+
+1762
+01:26:34,360 --> 01:26:37,119
+problema. Sí.
+
+1763
+01:26:37,119 --> 01:26:40,320
+Este, ustedes
+
+1764
+01:26:40,320 --> 01:26:43,400
+son libres de usar el editor de código
+
+1765
+01:26:43,400 --> 01:26:46,159
+que quieran. Sí, yo voy a usar este en
+
+1766
+01:26:46,159 --> 01:26:47,719
+clase.
+
+1767
+01:26:47,719 --> 01:26:51,960
+Eh, yo uso Windows, ¿sí? Yo tengo en mi
+
+1768
+01:26:51,960 --> 01:26:54,480
+máquina instalado Windows,
+
+1769
+01:26:54,480 --> 01:26:56,040
+por lo tanto, lo que yo les voy a
+
+1770
+01:26:56,040 --> 01:26:58,280
+mostrar en clase va a ser con Windows,
+
+1771
+01:26:58,280 --> 01:27:03,040
+¿sí? y con Visual Studio C. Entonces, eh
+
+1772
+01:27:03,040 --> 01:27:06,600
+si ustedes posiblemente alguno tenga
+
+1773
+01:27:06,600 --> 01:27:09,880
+Mac, alguno tenga Linux, alguno tenga,
+
+1774
+01:27:09,880 --> 01:27:12,800
+no sé, Chrome,
+
+1775
+01:27:12,800 --> 01:27:16,280
+eh, no hay ningún problema. Sí, si
+
+1776
+01:27:16,280 --> 01:27:19,360
+surgen alguna duda, algunas dudas, las
+
+1777
+01:27:19,360 --> 01:27:21,000
+consultamos, me consultan, no hay
+
+1778
+01:27:21,000 --> 01:27:23,080
+problema. Sí, pero bueno, para que
+
+1779
+01:27:23,080 --> 01:27:26,119
+ustedes sepan que yo uso Windows y que
+
+1780
+01:27:26,119 --> 01:27:29,119
+voy a usar este editor. Ustedes son
+
+1781
+01:27:29,119 --> 01:27:31,800
+libres de usar el editor que quieran.
+
+1782
+01:27:31,800 --> 01:27:33,560
+Sí.
+
+1783
+01:27:33,560 --> 01:27:35,520
+Bien.
+
+1784
+01:27:35,520 --> 01:27:38,520
+E entonces
+
+1785
+01:27:38,520 --> 01:27:41,199
+van a ir a esta página, a este link que
+
+1786
+01:27:41,199 --> 01:27:45,679
+está acá, ¿sí? que es la página de
+
+1787
+01:27:45,679 --> 01:27:48,840
+Visual Studio. Ahí se los, por si no
+
+1788
+01:27:48,840 --> 01:27:51,719
+tienen, se los comparto
+
+1789
+01:27:51,719 --> 01:27:55,159
+por el chat.
+
+1790
+01:27:56,119 --> 01:28:01,119
+Y cuando ustedes entren a esta página,
+
+1791
+01:28:01,119 --> 01:28:03,920
+fíjense, a mí ya me dice, me ha
+
+1792
+01:28:03,920 --> 01:28:06,199
+detectado que yo tengo Windows, entonces
+
+1793
+01:28:06,199 --> 01:28:09,239
+me me sugiere que yo haga la descarga.
+
+1794
+01:28:09,239 --> 01:28:13,840
+Si download es para descargar.
+
+1795
+01:28:13,840 --> 01:28:16,520
+hacer la descarga de este software que
+
+1796
+01:28:16,520 --> 01:28:19,480
+vamos a usar para Windows. Sí, ustedes
+
+1797
+01:28:19,480 --> 01:28:22,320
+van a tener que descargarlo para el
+
+1798
+01:28:22,320 --> 01:28:24,360
+sistema operativo que ustedes tengan en
+
+1799
+01:28:24,360 --> 01:28:27,400
+su máquina, ¿sí? Como les decía recién,
+
+1800
+01:28:27,400 --> 01:28:30,960
+que puede ser Mac, que puede ser Linux,
+
+1801
+01:28:30,960 --> 01:28:33,560
+este Android, no sé, el que ustedes
+
+1802
+01:28:33,560 --> 01:28:35,679
+tengan. Sí.
+
+1803
+01:28:35,679 --> 01:28:39,840
+Entonces, e simplemente hacemos clic en
+
+1804
+01:28:39,840 --> 01:28:43,280
+el botón para descargar.
+
+1805
+01:28:43,280 --> 01:28:44,800
+y
+
+1806
+01:28:44,800 --> 01:28:46,360
+empieza
+
+1807
+01:28:46,360 --> 01:28:49,800
+sí a hacer la descarga. Una vez que se
+
+1808
+01:28:49,800 --> 01:28:52,600
+ha descargado,
+
+1809
+01:28:52,600 --> 01:28:56,440
+sí, yo lo tengo acá. Ah, eh, como
+
+1810
+01:28:56,440 --> 01:29:00,159
+navegador yo voy a usar Chrome también.
+
+1811
+01:29:00,159 --> 01:29:02,520
+Si ustedes quieren usar otro navegador
+
+1812
+01:29:02,520 --> 01:29:05,880
+no hay problema. Sí.
+
+1813
+01:29:05,880 --> 01:29:07,600
+Este, yo les comento para que si ustedes
+
+1814
+01:29:07,600 --> 01:29:11,159
+quieren hacer ver en sus máquinas lo
+
+1815
+01:29:11,159 --> 01:29:13,520
+mismo que vemos en clase,
+
+1816
+01:29:13,520 --> 01:29:17,440
+este, bueno, si usan Chrome va a ser más
+
+1817
+01:29:17,440 --> 01:29:19,159
+parecido todavía, pero si usan otro
+
+1818
+01:29:19,159 --> 01:29:23,000
+navegador no hay ningún problema.
+
+1819
+01:29:23,000 --> 01:29:27,800
+Una vez que se descargó el archivo, ¿sí?
+
+1820
+01:29:27,800 --> 01:29:32,600
+eh le hacen un clic para ejecutarlo
+
+1821
+01:29:33,560 --> 01:29:36,719
+y e
+
+1822
+01:29:36,719 --> 01:29:39,880
+aparece esta ventanita, sí, el acuerdo
+
+1823
+01:29:39,880 --> 01:29:42,560
+de licencia. Hay que aceptar, no tenemos
+
+1824
+01:29:42,560 --> 01:29:45,159
+muchas opciones.
+
+1825
+01:29:45,159 --> 01:29:47,480
+Siguiente.
+
+1826
+01:29:47,480 --> 01:29:52,080
+Este acá estas opciones
+
+1827
+01:29:52,080 --> 01:29:55,080
+eh no le vamos a hacer ningún cambio. Si
+
+1828
+01:29:55,080 --> 01:29:56,840
+quieren pueden marcar la primera que
+
+1829
+01:29:56,840 --> 01:29:58,520
+dice crear un acceso directo en el
+
+1830
+01:29:58,520 --> 01:30:00,880
+escritorio para que les quede en el
+
+1831
+01:30:00,880 --> 01:30:04,119
+escritorio el acceso directo. Lo demás
+
+1832
+01:30:04,119 --> 01:30:06,600
+lo dejan tal como está, ¿sí? no
+
+1833
+01:30:06,600 --> 01:30:09,199
+modifican ninguna opción.
+
+1834
+01:30:09,199 --> 01:30:12,440
+Y este acá me dice que bueno que de
+
+1835
+01:30:12,440 --> 01:30:14,080
+acuerdo a las opciones que yo elegí se
+
+1836
+01:30:14,080 --> 01:30:16,199
+va a instalar
+
+1837
+01:30:16,199 --> 01:30:18,440
+este
+
+1838
+01:30:18,440 --> 01:30:21,520
+o va a hacer estas tareas adicionales.
+
+1839
+01:30:21,520 --> 01:30:27,480
+Le ponen hacen clic en instalar y
+
+1840
+01:30:27,920 --> 01:30:29,719
+hay que esperar un ratito que se haga la
+
+1841
+01:30:29,719 --> 01:30:33,320
+instalación. Sí.
+
+1842
+01:30:33,320 --> 01:30:34,719
+Bien.
+
+1843
+01:30:34,719 --> 01:30:38,520
+Eh, en el aula virtual, las dudas, si lo
+
+1844
+01:30:38,520 --> 01:30:41,719
+quieren hacer esto después.
+
+1845
+01:30:41,719 --> 01:30:43,840
+E
+
+1846
+01:30:43,840 --> 01:30:46,080
+habían unos tutoriales
+
+1847
+01:30:46,080 --> 01:30:47,600
+que les dije recién después se los
+
+1848
+01:30:47,600 --> 01:30:50,600
+comento
+
+1849
+01:30:51,920 --> 01:30:56,040
+en introducción.
+
+1850
+01:30:59,400 --> 01:31:02,119
+Acá dice videos tutoriales.
+
+1851
+01:31:02,119 --> 01:31:03,880
+Una carpetita.
+
+1852
+01:31:03,880 --> 01:31:06,159
+Y ven que acá tienen un tutorial de
+
+1853
+01:31:06,159 --> 01:31:09,520
+instalación de Visual Studio C. Y este
+
+1854
+01:31:09,520 --> 01:31:12,239
+es otro tutorial de Git que si lo
+
+1855
+01:31:12,239 --> 01:31:13,960
+quieren ir haciendo no hay ninguna
+
+1856
+01:31:13,960 --> 01:31:18,560
+urgencia. Este también está bueno que ya
+
+1857
+01:31:18,560 --> 01:31:21,400
+vayan instalando Git. Sí, ya después
+
+1858
+01:31:21,400 --> 01:31:25,880
+veremos de qué se trata.
+
+1859
+01:31:25,880 --> 01:31:27,600
+E
+
+1860
+01:31:27,600 --> 01:31:30,000
+bien.
+
+1861
+01:31:30,000 --> 01:31:33,119
+Entonces, una vez que se termina la
+
+1862
+01:31:33,119 --> 01:31:35,760
+instalación, fíjense, no tiene mucha
+
+1863
+01:31:35,760 --> 01:31:38,159
+complicación.
+
+1864
+01:31:38,159 --> 01:31:41,360
+Hacemos clic y se va a ejecutar, se va a
+
+1865
+01:31:41,360 --> 01:31:44,360
+abrir
+
+1866
+01:31:47,600 --> 01:31:51,360
+y ustedes van a ver algo como esto, ¿sí?
+
+1867
+01:31:51,360 --> 01:31:54,199
+la ventana de Visual Studio.
+
+1868
+01:31:54,199 --> 01:32:00,719
+Eh, a veces cuando abren aparece esta
+
+1869
+01:32:01,840 --> 01:32:04,159
+en esta pestaña que dice notas de la
+
+1870
+01:32:04,159 --> 01:32:07,360
+versión tal, que es porque ha habido una
+
+1871
+01:32:07,360 --> 01:32:09,760
+actualización. Sí.
+
+1872
+01:32:09,760 --> 01:32:13,000
+Bueno, esto por ahora no
+
+1873
+01:32:13,000 --> 01:32:16,440
+le vamos a a
+
+1874
+01:32:16,440 --> 01:32:20,080
+dar borilla, digamos. Aparece esta
+
+1875
+01:32:20,080 --> 01:32:22,440
+ventana. esta pantalla de bienvenida,
+
+1876
+01:32:22,440 --> 01:32:24,159
+¿sí?
+
+1877
+01:32:24,159 --> 01:32:26,560
+Donde nos dice que estamos en Visual
+
+1878
+01:32:26,560 --> 01:32:30,040
+Studio Code. Y acá tenemos algunas
+
+1879
+01:32:30,040 --> 01:32:32,760
+opciones para empezar, ¿sí? Si queremos
+
+1880
+01:32:32,760 --> 01:32:34,880
+crear un nuevo archivo,
+
+1881
+01:32:34,880 --> 01:32:37,080
+este,
+
+1882
+01:32:37,080 --> 01:32:40,320
+eh, abrir un archivo ya existente, abrir
+
+1883
+01:32:40,320 --> 01:32:42,119
+una carpeta,
+
+1884
+01:32:42,119 --> 01:32:45,639
+etcétera, etcétera.
+
+1885
+01:32:45,639 --> 01:32:48,639
+Entonces, e
+
+1886
+01:32:48,639 --> 01:32:52,600
+con esto ya podemos Sí. empezar a usar
+
+1887
+01:32:52,600 --> 01:32:55,840
+Visual Studio C.
+
+1888
+01:32:55,840 --> 01:32:58,800
+E después, bueno, si alguno no hizo la
+
+1889
+01:32:58,800 --> 01:33:01,080
+instalación ahora y la va a hacer, la
+
+1890
+01:33:01,080 --> 01:33:03,080
+pueden hacer después. Este, si tienen
+
+1891
+01:33:03,080 --> 01:33:05,119
+algún inconveniente
+
+1892
+01:33:05,119 --> 01:33:07,520
+e
+
+1893
+01:33:07,520 --> 01:33:11,119
+nos avisan. Eh, lo tenemos que tener en
+
+1894
+01:33:11,119 --> 01:33:13,719
+inglés, pregunta Marcela. No, no, por
+
+1895
+01:33:13,719 --> 01:33:17,760
+supuesto que lo podemos este poner en
+
+1896
+01:33:17,760 --> 01:33:21,159
+español. Eh, fíjense, yo lo lo he puesto
+
+1897
+01:33:21,159 --> 01:33:23,040
+ya en español.
+
+1898
+01:33:23,040 --> 01:33:24,719
+E
+
+1899
+01:33:24,719 --> 01:33:29,480
+bueno, hay una extensión.
+
+1900
+01:33:29,480 --> 01:33:33,159
+A ver, perdón, nosotros estamos a Ah, yo
+
+1901
+01:33:33,159 --> 01:33:34,880
+ya tengo una carpeta abierta. Esperen
+
+1902
+01:33:34,880 --> 01:33:37,119
+que voy a cerrar
+
+1903
+01:33:37,119 --> 01:33:41,199
+eh cerrar carpeta.
+
+1904
+01:33:42,119 --> 01:33:45,119
+E
+
+1905
+01:33:46,239 --> 01:33:50,280
+entonces tenemos un menú, ¿sí? Del lado
+
+1906
+01:33:50,280 --> 01:33:51,840
+izquierdo,
+
+1907
+01:33:51,840 --> 01:33:56,040
+arriba, a la izquierda, tenemos un menú
+
+1908
+01:33:56,040 --> 01:33:58,760
+de opciones. Sí,
+
+1909
+01:33:58,760 --> 01:34:02,360
+normalmente siempre arrancamos
+
+1910
+01:34:02,360 --> 01:34:05,320
+eh en esta en esta primera opción, la
+
+1911
+01:34:05,320 --> 01:34:07,000
+opción de más arriba, sí, que aparecen
+
+1912
+01:34:07,000 --> 01:34:10,040
+ahí un como unas hojitas.
+
+1913
+01:34:10,040 --> 01:34:12,440
+E
+
+1914
+01:34:12,440 --> 01:34:17,159
+y fíjense que eh me dice que no hay
+
+1915
+01:34:17,159 --> 01:34:21,280
+ninguna carpeta abierta. Sí. eh Visual
+
+1916
+01:34:21,280 --> 01:34:26,040
+Studio Code e o para trabajar con Visual
+
+1917
+01:34:26,040 --> 01:34:28,520
+Studio Code vamos a necesitar crear una
+
+1918
+01:34:28,520 --> 01:34:31,280
+carpeta donde vamos a ir guardando los
+
+1919
+01:34:31,280 --> 01:34:33,679
+archivos que vamos a ir trabajando
+
+1920
+01:34:33,679 --> 01:34:36,440
+durante el curso.
+
+1921
+01:34:36,440 --> 01:34:39,119
+Y entonces lo que Visual Studio me
+
+1922
+01:34:39,119 --> 01:34:44,000
+sugiere es que abra una carpeta. Sí.
+
+1923
+01:34:44,000 --> 01:34:46,960
+E nosotros tenemos que crear una carpeta
+
+1924
+01:34:46,960 --> 01:34:48,800
+nueva.
+
+1925
+01:34:48,800 --> 01:34:51,199
+Entonces vamos a hacer clic en el botón
+
+1926
+01:34:51,199 --> 01:34:54,760
+que dice abrir carpeta
+
+1927
+01:34:54,760 --> 01:34:57,239
+y nos vamos a crear una carpeta nueva.
+
+1928
+01:34:57,239 --> 01:34:58,840
+Sí.
+
+1929
+01:34:58,840 --> 01:35:01,840
+Eh,
+
+1930
+01:35:03,159 --> 01:35:05,040
+bueno, yo tengo ahí algunas carpetas
+
+1931
+01:35:05,040 --> 01:35:07,320
+creadas.
+
+1932
+01:35:07,320 --> 01:35:10,239
+Eh, entonces, por ejemplo, si la quieren
+
+1933
+01:35:10,239 --> 01:35:13,960
+crear en el escritorio, ¿sí?
+
+1934
+01:35:13,960 --> 01:35:15,800
+Entonces,
+
+1935
+01:35:15,800 --> 01:35:17,880
+eh pueden crear en el escritorio, pueden
+
+1936
+01:35:17,880 --> 01:35:21,639
+crearla en documentos, ¿sí?, o en el
+
+1937
+01:35:21,639 --> 01:35:24,239
+lugar que ustedes quieran. Entonces, yo
+
+1938
+01:35:24,239 --> 01:35:28,000
+la voy a crear en el escritorio. Sí.
+
+1939
+01:35:28,000 --> 01:35:32,840
+Eh, y fíjense, acá hay una opción que
+
+1940
+01:35:32,840 --> 01:35:35,600
+dice nueva carpeta.
+
+1941
+01:35:35,600 --> 01:35:38,600
+E
+
+1942
+01:35:38,920 --> 01:35:41,119
+perdón, quizás me salté un paso. Cuando
+
+1943
+01:35:41,119 --> 01:35:44,000
+hacemos clic en abrir carpeta, ¿sí? Se
+
+1944
+01:35:44,000 --> 01:35:46,840
+nos abre el explorador de archivos. Sí,
+
+1945
+01:35:46,840 --> 01:35:49,639
+estamos trabajando acá con el explorador
+
+1946
+01:35:49,639 --> 01:35:52,400
+de archivos, en este caso de Windows.
+
+1947
+01:35:52,400 --> 01:35:55,679
+Sí, a ustedes, si alguno tiene otro
+
+1948
+01:35:55,679 --> 01:35:58,880
+sistema operativo, será el el explorador
+
+1949
+01:35:58,880 --> 01:36:01,840
+de archivos de su sistema.
+
+1950
+01:36:01,840 --> 01:36:04,480
+Entonces, eh
+
+1951
+01:36:04,480 --> 01:36:08,119
+tenemos la opción de nueva carpeta
+
+1952
+01:36:08,119 --> 01:36:11,760
+o también botón derecho,
+
+1953
+01:36:11,760 --> 01:36:15,719
+nuevo carpeta. Sí, esta es un camino por
+
+1954
+01:36:15,719 --> 01:36:17,520
+ahí un poquito más largo que este botón
+
+1955
+01:36:17,520 --> 01:36:22,280
+que dice este nueva carpeta.
+
+1956
+01:36:22,280 --> 01:36:26,199
+Entonces, eh creamos una nueva carpeta y
+
+1957
+01:36:26,199 --> 01:36:28,480
+le vamos a poner,
+
+1958
+01:36:28,480 --> 01:36:31,080
+sí, este
+
+1959
+01:36:31,080 --> 01:36:32,880
+curso
+
+1960
+01:36:32,880 --> 01:36:35,880
+frontend,
+
+1961
+01:36:37,239 --> 01:36:39,840
+front end. Si quieren ponerle otro
+
+1962
+01:36:39,840 --> 01:36:42,440
+nombre, no hay problema.
+
+1963
+01:36:42,440 --> 01:36:44,520
+Este curso front, le vamos a poner el
+
+1964
+01:36:44,520 --> 01:36:47,440
+número de la comisión 22
+
+1965
+01:36:47,440 --> 01:36:49,840
+25,
+
+1966
+01:36:49,840 --> 01:36:53,119
+este 2 31.
+
+1967
+01:36:55,280 --> 01:36:58,400
+Hacemos, le damos enter
+
+1968
+01:36:58,400 --> 01:37:00,480
+y
+
+1969
+01:37:00,480 --> 01:37:02,920
+la opción que me da ahora es seleccionar
+
+1970
+01:37:02,920 --> 01:37:04,520
+carpeta. Así que como yo creo esa
+
+1971
+01:37:04,520 --> 01:37:06,320
+carpeta, ya me queda esa carpeta
+
+1972
+01:37:06,320 --> 01:37:08,440
+seleccionada. Hago clic en seleccionar
+
+1973
+01:37:08,440 --> 01:37:10,639
+carpeta
+
+1974
+01:37:10,639 --> 01:37:16,560
+y entonces, fíjense que ahora
+
+1975
+01:37:16,560 --> 01:37:21,000
+Visual Studio me dice que estoy dentro
+
+1976
+01:37:21,000 --> 01:37:24,639
+de esta carpeta
+
+1977
+01:37:24,920 --> 01:37:27,520
+y de esa forma yo ahora puedo empezar,
+
+1978
+01:37:27,520 --> 01:37:31,679
+¿sí? a crear archivos nuevos o carpetas
+
+1979
+01:37:31,679 --> 01:37:33,239
+nuevas
+
+1980
+01:37:33,239 --> 01:37:35,800
+desde Visual Studio, siempre dentro de
+
+1981
+01:37:35,800 --> 01:37:38,800
+esta carpeta que es la que acabamos de
+
+1982
+01:37:38,800 --> 01:37:41,800
+seleccionar.
+
+1983
+01:37:42,679 --> 01:37:43,880
+Bien.
+
+1984
+01:37:43,880 --> 01:37:45,800
+Em,
+
+1985
+01:37:45,800 --> 01:37:50,239
+estaba viendo ahí la pregunta de Laura,
+
+1986
+01:37:52,400 --> 01:37:55,159
+eh, existe una extensión en general con
+
+1987
+01:37:55,159 --> 01:37:58,679
+para ver extensiones.
+
+1988
+01:38:01,080 --> 01:38:04,599
+Eh, Laura,
+
+1989
+01:38:04,599 --> 01:38:08,880
+vos lo que querés es ver códigos
+
+1990
+01:38:08,880 --> 01:38:12,239
+que ya estén creados. Sería algo así.
+
+1991
+01:38:12,239 --> 01:38:17,840
+Tal vez podéis hacerlo en en GitHub.
+
+1992
+01:38:19,159 --> 01:38:22,119
+Eh, a lo mejor pueden entrar a algún
+
+1993
+01:38:22,119 --> 01:38:24,400
+proyecto de GitHub
+
+1994
+01:38:24,400 --> 01:38:29,159
+y ya después si quieren les paso eh como
+
+1995
+01:38:29,159 --> 01:38:31,119
+para que vean
+
+1996
+01:38:31,119 --> 01:38:32,800
+este.
+
+1997
+01:38:32,800 --> 01:38:34,920
+A ver, entiendo que vos querés, Laura,
+
+1998
+01:38:34,920 --> 01:38:39,440
+ver código que ya esté hecho,
+
+1999
+01:38:39,440 --> 01:38:42,040
+así que se me ocurre que puede ser a
+
+2000
+01:38:42,040 --> 01:38:45,280
+través de GitHub acceder a algún alguna
+
+2001
+01:38:45,280 --> 01:38:48,159
+página que ya esté
+
+2002
+01:38:48,159 --> 01:38:50,679
+que ya esté creada y que esté compartida
+
+2003
+01:38:50,679 --> 01:38:53,080
+en GitHub.
+
+2004
+01:38:53,080 --> 01:38:55,320
+Okay.
+
+2005
+01:38:55,320 --> 01:38:59,719
+Bueno, para poner en español
+
+2006
+01:38:59,719 --> 01:39:03,560
+eh en este menú que está a la izquierda,
+
+2007
+01:39:03,560 --> 01:39:07,440
+sí, hay una opción
+
+2008
+01:39:07,440 --> 01:39:11,199
+que es la penúltima,
+
+2009
+01:39:11,199 --> 01:39:16,159
+¿sí? que es para agregar extensiones.
+
+2010
+01:39:16,520 --> 01:39:20,360
+Entonces, hacemos clic en extensiones.
+
+2011
+01:39:20,360 --> 01:39:22,960
+Bueno, yo acá tengo una
+
+2012
+01:39:22,960 --> 01:39:27,840
+unas extensiones instaladas. Fíjense que
+
+2013
+01:39:27,840 --> 01:39:29,719
+eh
+
+2014
+01:39:29,719 --> 01:39:33,119
+está esta extensión Spanish language par
+
+2015
+01:39:33,119 --> 01:39:35,800
+pack Pack. Sí, se acuerdan que les decía
+
+2016
+01:39:35,800 --> 01:39:38,639
+no con el inglés. Bueno,
+
+2017
+01:39:38,639 --> 01:39:41,960
+el pack de el idioma español. ¿Si?
+
+2018
+01:39:41,960 --> 01:39:44,440
+Entonces, ustedes no lo ven, yo lo veo
+
+2019
+01:39:44,440 --> 01:39:46,159
+porque lo tengo instalado. Si les llega,
+
+2020
+01:39:46,159 --> 01:39:48,199
+a lo mejor les aparece acá en las,
+
+2021
+01:39:48,199 --> 01:39:50,800
+fíjense que dice instalado y
+
+2022
+01:39:50,800 --> 01:39:53,280
+recomendado. Tal vez les aparezca acá en
+
+2023
+01:39:53,280 --> 01:39:56,040
+la opción de recomendado. Si no les
+
+2024
+01:39:56,040 --> 01:39:57,639
+aparece
+
+2025
+01:39:57,639 --> 01:40:00,239
+acá donde dice buscar, ustedes pueden
+
+2026
+01:40:00,239 --> 01:40:03,480
+escribir, ¿sí? Spanish.
+
+2027
+01:40:03,480 --> 01:40:06,800
+Fíjense, la primera que aparece es esta
+
+2028
+01:40:06,800 --> 01:40:08,800
+extensión.
+
+2029
+01:40:08,800 --> 01:40:11,800
+Hacen clic en el nombre acá del lado
+
+2030
+01:40:11,800 --> 01:40:14,480
+izquierdo y fíjense, acá me aparece toda
+
+2031
+01:40:14,480 --> 01:40:16,679
+la descripción de esta extensión, que
+
+2032
+01:40:16,679 --> 01:40:19,920
+cómo se llama, quién es el creador de la
+
+2033
+01:40:19,920 --> 01:40:23,520
+extensión, cuántas descargas tiene,
+
+2034
+01:40:23,520 --> 01:40:27,960
+eh, y de qué se trata. Sí,
+
+2035
+01:40:27,960 --> 01:40:30,440
+bien. Ahí le ponen, yo ya la tengo
+
+2036
+01:40:30,440 --> 01:40:32,080
+instalada, pero ustedes hacen clic en la
+
+2037
+01:40:32,080 --> 01:40:35,520
+opción que dice instalar, la tocan ahí,
+
+2038
+01:40:35,520 --> 01:40:38,000
+esperan unos minutitos, un par de capaz
+
+2039
+01:40:38,000 --> 01:40:43,440
+que un minuto es rápido. Y este
+
+2040
+01:40:43,440 --> 01:40:44,760
+tal vez les diga que tienen que
+
+2041
+01:40:44,760 --> 01:40:49,080
+reiniciar el programa. Le ponen que sí,
+
+2042
+01:40:49,080 --> 01:40:51,639
+reinician y ya lo van a tener en
+
+2043
+01:40:51,639 --> 01:40:54,639
+español.
+
+2044
+01:40:56,320 --> 01:40:58,960
+Bien, esta pestañita, fíjense, todo esto
+
+2045
+01:40:58,960 --> 01:41:00,880
+se abrió en una pestaña nueva. La
+
+2046
+01:41:00,880 --> 01:41:05,560
+cerramos ahí con con la cruz.
+
+2047
+01:41:05,560 --> 01:41:08,719
+E bien.
+
+2048
+01:41:08,719 --> 01:41:10,960
+Bueno, ¿qué vamos a hacer acá? Vamos a
+
+2049
+01:41:10,960 --> 01:41:12,840
+crear un nuevo archivo. En esta carpeta
+
+2050
+01:41:12,840 --> 01:41:16,360
+que hemos creado, ¿sí? Eh, hay varias
+
+2051
+01:41:16,360 --> 01:41:19,159
+varios caminos. Sí. Fíjense, acá hay un
+
+2052
+01:41:19,159 --> 01:41:21,440
+iconito, el primero que aparece al lado
+
+2053
+01:41:21,440 --> 01:41:25,320
+de la carpeta, del nombre de la carpeta,
+
+2054
+01:41:25,320 --> 01:41:28,880
+eh, dice nuevo archivo y el que sigue
+
+2055
+01:41:28,880 --> 01:41:32,840
+dice nueva carpeta.
+
+2056
+01:41:33,320 --> 01:41:35,880
+Sí. Así que acá podemos crear con estos
+
+2057
+01:41:35,880 --> 01:41:37,639
+botoncitos, son como accesos directos,
+
+2058
+01:41:37,639 --> 01:41:39,599
+que podemos crear
+
+2059
+01:41:39,599 --> 01:41:43,880
+un archivo o una carpeta. Y si no, sí,
+
+2060
+01:41:43,880 --> 01:41:47,880
+en el menú archivo también.
+
+2061
+01:41:47,880 --> 01:41:51,840
+Tenemos la opción nuevo archivo. Sí.
+
+2062
+01:41:51,840 --> 01:41:56,360
+Entonces, nuevo archivo y me aparece acá
+
+2063
+01:41:56,360 --> 01:41:59,280
+una caja de texto para poder escribir el
+
+2064
+01:41:59,280 --> 01:42:00,920
+nombre de que le vamos a dar a este
+
+2065
+01:42:00,920 --> 01:42:04,400
+archivo. Sí,
+
+2066
+01:42:04,400 --> 01:42:09,119
+le vamos a poner este
+
+2067
+01:42:09,480 --> 01:42:11,480
+index.
+
+2068
+01:42:11,480 --> 01:42:17,639
+Sí, con x index pun html.
+
+2069
+01:42:23,239 --> 01:42:25,920
+y le damos enter.
+
+2070
+01:42:25,920 --> 01:42:29,440
+Y entonces eh
+
+2071
+01:42:29,440 --> 01:42:32,119
+vamos a escribir algunas etiquetas,
+
+2072
+01:42:32,119 --> 01:42:34,360
+¿sí?, de HTML
+
+2073
+01:42:34,360 --> 01:42:36,920
+y ya se nos termina la clase. Qué rápido
+
+2074
+01:42:36,920 --> 01:42:40,360
+se me pasó. Espero que a ustedes también
+
+2075
+01:42:40,360 --> 01:42:42,360
+y no estén rezando a cuándo se termina
+
+2076
+01:42:42,360 --> 01:42:44,360
+la clase.
+
+2077
+01:42:44,360 --> 01:42:47,360
+Este,
+
+2078
+01:42:48,080 --> 01:42:51,800
+a ver acá.
+
+2079
+01:42:51,800 --> 01:42:53,920
+E
+
+2080
+01:42:53,920 --> 01:42:56,199
+bueno, esto ya lo hicimos. Ya después
+
+2081
+01:42:56,199 --> 01:42:59,679
+hablaremos del live server.
+
+2082
+01:42:59,679 --> 01:43:03,719
+Entonces, e les pido que lean, ¿sí?, el
+
+2083
+01:43:03,719 --> 01:43:05,560
+material de esta clase, ¿sí? Que es este
+
+2084
+01:43:05,560 --> 01:43:07,760
+libro.
+
+2085
+01:43:07,760 --> 01:43:10,040
+eh porque ya se nos termina la clase.
+
+2086
+01:43:10,040 --> 01:43:12,560
+Esto ustedes lo pueden ir leyendo y y la
+
+2087
+01:43:12,560 --> 01:43:16,159
+clase que viene ya lo lo retomamos. Sí,
+
+2088
+01:43:16,159 --> 01:43:19,679
+pero eh así que sería la tarea. Sí, les
+
+2089
+01:43:19,679 --> 01:43:22,800
+dejo como tarea de esta clase que
+
+2090
+01:43:22,800 --> 01:43:24,960
+ustedes lean
+
+2091
+01:43:24,960 --> 01:43:28,440
+eh el material, ¿sí? El el archivo que
+
+2092
+01:43:28,440 --> 01:43:31,760
+dice material de clase,
+
+2093
+01:43:31,760 --> 01:43:33,199
+no la presentación, porque la
+
+2094
+01:43:33,199 --> 01:43:36,800
+presentación está resumido. Sí.
+
+2095
+01:43:36,800 --> 01:43:39,800
+Entonces, como tarea leance este
+
+2096
+01:43:39,800 --> 01:43:43,440
+material que lo vamos a ir desarrollando
+
+2097
+01:43:43,440 --> 01:43:45,199
+eh
+
+2098
+01:43:45,199 --> 01:43:47,159
+en adelante.
+
+2099
+01:43:47,159 --> 01:43:50,159
+E
+
+2100
+01:43:51,159 --> 01:43:54,480
+bueno, en HTML
+
+2101
+01:43:54,480 --> 01:43:56,040
+e
+
+2102
+01:43:56,040 --> 01:43:59,480
+es un lenguaje que se llama
+
+2103
+01:43:59,480 --> 01:44:02,560
+en inglés
+
+2104
+01:44:02,560 --> 01:44:05,480
+eh
+
+2105
+01:44:05,480 --> 01:44:07,159
+este es su nombre en inglés y es una
+
+2106
+01:44:07,159 --> 01:44:14,239
+sigla HTML, ¿sí? que es eh el lenguaje
+
+2107
+01:44:14,239 --> 01:44:17,480
+de marcas de marcado
+
+2108
+01:44:17,480 --> 01:44:20,719
+de hipertexto. Sí. Bueno, esto por ahora
+
+2109
+01:44:20,719 --> 01:44:22,880
+no nos dice mucho.
+
+2110
+01:44:22,880 --> 01:44:27,719
+Eh, lo que sí e
+
+2111
+01:44:27,719 --> 01:44:30,719
+a ver, vamos a dejar en claro que HTML
+
+2112
+01:44:30,719 --> 01:44:34,119
+es un lenguaje de etiquetas. Vamos a
+
+2113
+01:44:34,119 --> 01:44:36,520
+trabajar con etiquetas y con este
+
+2114
+01:44:36,520 --> 01:44:39,760
+lenguaje nosotros vamos a armar la
+
+2115
+01:44:39,760 --> 01:44:42,440
+estructura de la página.
+
+2116
+01:44:42,440 --> 01:44:44,920
+Sí, es como si
+
+2117
+01:44:44,920 --> 01:44:49,040
+quisiéramos construir una casa. Sí. Y
+
+2118
+01:44:49,040 --> 01:44:50,960
+bueno, siempre cuando empezamos a
+
+2119
+01:44:50,960 --> 01:44:52,840
+construir una casa, lo primero es poner
+
+2120
+01:44:52,840 --> 01:44:55,639
+los cimientos, ¿sí?, las columnas.
+
+2121
+01:44:55,639 --> 01:44:58,119
+Entonces, bueno, en una página web, el
+
+2122
+01:44:58,119 --> 01:45:01,320
+HTML es
+
+2123
+01:45:01,320 --> 01:45:03,679
+poner los cimientos. Sí. la estructura
+
+2124
+01:45:03,679 --> 01:45:06,440
+de nuestra página, van a ver al
+
+2125
+01:45:06,440 --> 01:45:09,880
+principio que lo que lo el el resultado
+
+2126
+01:45:09,880 --> 01:45:12,840
+de lo que vamos a ir creando con HTML es
+
+2127
+01:45:12,840 --> 01:45:17,520
+bastante feo. Sí, a la vista es feo.
+
+2128
+01:45:17,520 --> 01:45:19,880
+Después viene CSS donde lo vamos a hacer
+
+2129
+01:45:19,880 --> 01:45:22,040
+que lo que vayamos creando sea más
+
+2130
+01:45:22,040 --> 01:45:24,199
+lindo. Sí. Así que al principio
+
+2131
+01:45:24,199 --> 01:45:25,920
+paciencia,
+
+2132
+01:45:25,920 --> 01:45:29,239
+pero es fundamental lo que hagamos al
+
+2133
+01:45:29,239 --> 01:45:30,719
+principio, aunque se vea feo, porque
+
+2134
+01:45:30,719 --> 01:45:34,760
+vamos a estar poniendo las bases de
+
+2135
+01:45:34,760 --> 01:45:37,840
+nuestra página.
+
+2136
+01:45:37,840 --> 01:45:42,000
+Bien. Eh,
+
+2137
+01:45:44,719 --> 01:45:47,520
+entonces hemos creado este archivo, ¿sí?
+
+2138
+01:45:47,520 --> 01:45:50,280
+Y en este archivo eh, voy a hacer un
+
+2139
+01:45:50,280 --> 01:45:52,480
+poco de zoom.
+
+2140
+01:45:52,480 --> 01:45:54,960
+Cuando ustedes no lean, sí me avisan y
+
+2141
+01:45:54,960 --> 01:45:59,840
+yo este le doy zoom. Entonces,
+
+2142
+01:45:59,840 --> 01:46:04,480
+eh HTML tiene una estructura
+
+2143
+01:46:04,480 --> 01:46:08,560
+predeterminada para sus archivos
+
+2144
+01:46:08,560 --> 01:46:11,480
+que nosotros la podemos crear
+
+2145
+01:46:11,480 --> 01:46:14,239
+rápidamente. Sí. Usando el signo de
+
+2146
+01:46:14,239 --> 01:46:16,800
+admiración.
+
+2147
+01:46:16,800 --> 01:46:19,239
+Sí. El que cierra sería, si ustedes
+
+2148
+01:46:19,239 --> 01:46:22,480
+escriben el signo de admiración,
+
+2149
+01:46:22,480 --> 01:46:24,040
+aparece
+
+2150
+01:46:24,040 --> 01:46:26,880
+unas sugerencias acá abajo. Si hacen
+
+2151
+01:46:26,880 --> 01:46:28,840
+clic en el en la primer sugerencia que
+
+2152
+01:46:28,840 --> 01:46:32,080
+aparece, ¿sí?
+
+2153
+01:46:32,080 --> 01:46:36,560
+Les va a crear la estructura básica de
+
+2154
+01:46:36,560 --> 01:46:38,480
+un archivo
+
+2155
+01:46:38,480 --> 01:46:41,480
+HTML.
+
+2156
+01:46:42,000 --> 01:46:44,159
+Esto lo vamos a hacer siempre cada vez
+
+2157
+01:46:44,159 --> 01:46:46,719
+que arranquemos con
+
+2158
+01:46:46,719 --> 01:46:50,000
+a con un archivo nuevo de HTML, siempre
+
+2159
+01:46:50,000 --> 01:46:51,800
+vamos a poner esta estructura, ¿sí?, que
+
+2160
+01:46:51,800 --> 01:46:54,719
+ya la vamos a ir eh la vamos a ir
+
+2161
+01:46:54,719 --> 01:46:56,800
+explicando.
+
+2162
+01:46:56,800 --> 01:46:58,840
+El contenido de nuestra página va a
+
+2163
+01:46:58,840 --> 01:47:01,920
+estar dentro de estas dos etiquetas que
+
+2164
+01:47:01,920 --> 01:47:05,679
+se llaman body. ¿Sí?
+
+2165
+01:47:05,679 --> 01:47:07,360
+Entonces, les muestro una primera
+
+2166
+01:47:07,360 --> 01:47:10,840
+etiqueta y bueno, se nos fue la clase,
+
+2167
+01:47:10,840 --> 01:47:13,000
+pero por lo menos
+
+2168
+01:47:13,000 --> 01:47:15,800
+si ustedes escriben una P, por ejemplo,
+
+2169
+01:47:15,800 --> 01:47:17,360
+sí ven que aparecen un montón de
+
+2170
+01:47:17,360 --> 01:47:21,280
+sugerencias. La primera nos va a ayudar
+
+2171
+01:47:21,280 --> 01:47:23,880
+a colocar la etiqueta P para poner un
+
+2172
+01:47:23,880 --> 01:47:26,880
+párrafo.
+
+2173
+01:47:27,639 --> 01:47:30,840
+A esto se le llama, ¿sí? Por ejemplo, yo
+
+2174
+01:47:30,840 --> 01:47:34,760
+voy a poner acá este,
+
+2175
+01:47:34,760 --> 01:47:39,239
+esto es un párrafo.
+
+2176
+01:47:39,239 --> 01:47:41,360
+Esto es lo que se llama un elemento
+
+2177
+01:47:41,360 --> 01:47:44,480
+HTML. Vamos a estar trabajando
+
+2178
+01:47:44,480 --> 01:47:48,560
+siempre con elementos HTML. Un elemento
+
+2179
+01:47:48,560 --> 01:47:52,159
+está formado por una etiqueta que abre,
+
+2180
+01:47:52,159 --> 01:47:54,840
+una etiqueta de apertura y una etiqueta
+
+2181
+01:47:54,840 --> 01:47:56,480
+de cierre.
+
+2182
+01:47:56,480 --> 01:47:59,920
+Esa etiqueta siempre tiene el mismo
+
+2183
+01:47:59,920 --> 01:48:03,480
+nombre para la etiqueta de apertura y
+
+2184
+01:48:03,480 --> 01:48:05,800
+para la de cierre.
+
+2185
+01:48:05,800 --> 01:48:08,400
+Y entre medio de esas dos etiquetas va
+
+2186
+01:48:08,400 --> 01:48:11,520
+el contenido se llama. ¿Sí? Entonces, a
+
+2187
+01:48:11,520 --> 01:48:16,520
+esto le llamamos un elemento HTML,
+
+2188
+01:48:16,920 --> 01:48:19,880
+etiqueta de apertura, etiqueta de cierre
+
+2189
+01:48:19,880 --> 01:48:23,280
+y contenido.
+
+2190
+01:48:23,400 --> 01:48:28,119
+Esto, con esto ya tenemos una página web
+
+2191
+01:48:28,119 --> 01:48:31,679
+creada. Si la queremos ver,
+
+2192
+01:48:31,679 --> 01:48:33,960
+eh,
+
+2193
+01:48:33,960 --> 01:48:36,280
+no hemos instalado el Live Server, pero
+
+2194
+01:48:36,280 --> 01:48:39,119
+ustedes pueden hacer lo siguiente. Abren
+
+2195
+01:48:39,119 --> 01:48:41,320
+el explorador
+
+2196
+01:48:41,320 --> 01:48:43,119
+de archivos,
+
+2197
+01:48:43,119 --> 01:48:46,159
+se van al escritorio, en este caso donde
+
+2198
+01:48:46,159 --> 01:48:48,320
+yo creé la carpeta, busco la carpeta que
+
+2199
+01:48:48,320 --> 01:48:52,239
+acabo de crear, le hago doble clic y ahí
+
+2200
+01:48:52,239 --> 01:48:54,960
+está mi archivo index.
+
+2201
+01:48:54,960 --> 01:48:58,599
+Y si le dan doble clic a ese archivo,
+
+2202
+01:48:58,599 --> 01:49:00,679
+acá aparece
+
+2203
+01:49:00,679 --> 01:49:04,000
+este párrafo que acabamos de colocar.
+
+2204
+01:49:04,000 --> 01:49:07,000
+¿Sí?
+
+2205
+01:49:08,199 --> 01:49:10,040
+Entonces,
+
+2206
+01:49:10,040 --> 01:49:12,840
+eh
+
+2207
+01:49:12,840 --> 01:49:16,440
+nuestras páginas web sí van a tener un
+
+2208
+01:49:16,440 --> 01:49:18,400
+archivo
+
+2209
+01:49:18,400 --> 01:49:21,159
+que siempre eh en principio le vamos a
+
+2210
+01:49:21,159 --> 01:49:23,400
+llamar index. html. Ya vamos a explicar
+
+2211
+01:49:23,400 --> 01:49:25,960
+por qué. puede tener otro nombre, no es
+
+2212
+01:49:25,960 --> 01:49:28,679
+que esto sea obligatorio. Y nuestros
+
+2213
+01:49:28,679 --> 01:49:30,960
+archivos HTML van a tener siempre esta
+
+2214
+01:49:30,960 --> 01:49:32,719
+estructura.
+
+2215
+01:49:32,719 --> 01:49:35,320
+El contenido de nuestra página va a
+
+2216
+01:49:35,320 --> 01:49:38,960
+estar dentro de las etiquetas body. Sí,
+
+2217
+01:49:38,960 --> 01:49:42,159
+body es el cuerpo de la página.
+
+2218
+01:49:42,159 --> 01:49:46,320
+El head es eh la cabecera. Esta sería la
+
+2219
+01:49:46,320 --> 01:49:49,320
+cabecera del documento. Estos archivos
+
+2220
+01:49:49,320 --> 01:49:54,880
+HTML se llaman documentos HTML.
+
+2221
+01:49:54,880 --> 01:49:57,880
+Y nosotros vamos a estar trabajando, sí,
+
+2222
+01:49:57,880 --> 01:49:59,920
+con esta estructura y vamos a estar
+
+2223
+01:49:59,920 --> 01:50:03,880
+trabajando dentro de la etiqueta
+
+2224
+01:50:03,880 --> 01:50:06,080
+body. Sí.
+
+2225
+01:50:06,080 --> 01:50:10,280
+Bueno, y con esto termino. Si se animan,
+
+2226
+01:50:10,280 --> 01:50:11,760
+que yo sé que se van a animar
+
+2227
+01:50:11,760 --> 01:50:13,280
+seguramente.
+
+2228
+01:50:13,280 --> 01:50:16,639
+Se me perdió la página.
+
+2229
+01:50:16,639 --> 01:50:19,639
+Este,
+
+2230
+01:50:19,960 --> 01:50:23,480
+¿dónde se acá, perdón?
+
+2231
+01:50:23,480 --> 01:50:26,080
+E
+
+2232
+01:50:26,080 --> 01:50:28,000
+este material de la primer clase tiene
+
+2233
+01:50:28,000 --> 01:50:31,880
+un ejercicio al final
+
+2234
+01:50:33,360 --> 01:50:37,920
+acá. Ejercicio práctico uno, perdón.
+
+2235
+01:50:37,920 --> 01:50:39,679
+Bueno,
+
+2236
+01:50:39,679 --> 01:50:42,119
+entonces van a hacer ustedes este
+
+2237
+01:50:42,119 --> 01:50:46,400
+ejercicio práctico uno. Sí.
+
+2238
+01:50:46,400 --> 01:50:49,040
+Eh, van a ver que es muy sencillo, ¿no?
+
+2239
+01:50:49,040 --> 01:50:51,159
+No espero que no tengan mucha
+
+2240
+01:50:51,159 --> 01:50:52,520
+complicación.
+
+2241
+01:50:52,520 --> 01:50:57,639
+y tienen el ejercicio práctico dos. Sí,
+
+2242
+01:50:57,639 --> 01:51:01,840
+lo vamos a estar eh resolviendo
+
+2243
+01:51:01,840 --> 01:51:04,400
+en la clase del jueves. Sí, en la clase
+
+2244
+01:51:04,400 --> 01:51:08,239
+del jueves vamos a resolver el el estos
+
+2245
+01:51:08,239 --> 01:51:10,880
+ejercicios. Así que los que puedan
+
+2246
+01:51:10,880 --> 01:51:13,199
+asistir el jueves, los espero para
+
+2247
+01:51:13,199 --> 01:51:14,960
+resolver estas consultas. El que no
+
+2248
+01:51:14,960 --> 01:51:16,960
+pueda les va a quedar el video grabado
+
+2249
+01:51:16,960 --> 01:51:21,280
+de la clase para que puedan este
+
+2250
+01:51:21,280 --> 01:51:22,960
+sacarse las dudas de este primer
+
+2251
+01:51:22,960 --> 01:51:24,560
+ejercicio.
+
+2252
+01:51:24,560 --> 01:51:29,000
+Y hasta acá llegamos.
+
+2253
+01:51:30,119 --> 01:51:32,719
+No les quiero quitar más tiempo. Eh,
+
+2254
+01:51:32,719 --> 01:51:35,280
+Santi, no sé si tenés algún aviso, algo
+
+2255
+01:51:35,280 --> 01:51:38,199
+que
+
+2256
+01:51:38,199 --> 01:51:41,440
+No, creo que quedaron unas preguntas eh
+
+2257
+01:51:41,440 --> 01:51:44,159
+ahí en el cuadrito ese de preguntas y
+
+2258
+01:51:44,159 --> 01:51:45,639
+respuestas.
+
+2259
+01:51:45,639 --> 01:51:46,000
+>> Bien.
+
+2260
+01:51:46,000 --> 01:51:48,119
+>> Y
+
+2261
+01:51:48,119 --> 01:51:50,679
+unas últimas preguntas que hicieron ahí,
+
+2262
+01:51:50,679 --> 01:51:53,159
+Laura.
+
+2263
+01:51:53,159 --> 01:51:55,920
+¿Y quién más?
+
+2264
+01:51:55,920 --> 01:52:00,040
+Y listo. Sí, con eso podemos finalizar.
+
+2265
+01:52:00,040 --> 01:52:02,320
+Fíjate en el cuadrito ese de preguntas y
+
+2266
+01:52:02,320 --> 01:52:05,480
+respuestas. Okay. Eh, Jesús, el proyecto
+
+2267
+01:52:05,480 --> 01:52:07,679
+es individual o en grupo es individual.
+
+2268
+01:52:07,679 --> 01:52:09,760
+Bien, bien la pregunta. No, no lo aclaré
+
+2269
+01:52:09,760 --> 01:52:13,639
+eso. El proyecto es individual.
+
+2270
+01:52:13,639 --> 01:52:18,840
+Y Nicolás, eh, programación inicial.
+
+2271
+01:52:18,840 --> 01:52:20,560
+E
+
+2272
+01:52:20,560 --> 01:52:24,119
+lo que a ver, el enlace digamos Nicolás
+
+2273
+01:52:24,119 --> 01:52:27,280
+con el curso de inicial quizás lo vas a
+
+2274
+01:52:27,280 --> 01:52:30,920
+ver cuando veamos JavaScript, porque vos
+
+2275
+01:52:30,920 --> 01:52:34,079
+has visto Python en el curso inicial
+
+2276
+01:52:34,079 --> 01:52:38,719
+donde has visto este algoritmos,
+
+2277
+01:52:38,719 --> 01:52:40,040
+bueno, todo lo que vieron el curso
+
+2278
+01:52:40,040 --> 01:52:42,599
+inicial, eso mismo, esos mismos temas
+
+2279
+01:52:42,599 --> 01:52:44,239
+los vamos a ver, pero con JavaScript.
+
+2280
+01:52:44,239 --> 01:52:46,719
+Sí, cambia el lenguaje, pero es más o
+
+2281
+01:52:46,719 --> 01:52:51,599
+menos es muy similar la estructura.
+
+2282
+01:52:51,599 --> 01:52:54,159
+Genial.
+
+2283
+01:52:54,159 --> 01:52:55,719
+Bueno, nada más de mi parte. Gracias,
+
+2284
+01:52:55,719 --> 01:52:57,159
+gracias por la atención, por la
+
+2285
+01:52:57,159 --> 01:53:00,920
+participación, por el respeto.
+
+2286
+01:53:00,920 --> 01:53:01,719
+>> Chao, chao.
+
+2287
+01:53:01,719 --> 01:53:05,840
+>> Espero el jueves a los que puedan.
