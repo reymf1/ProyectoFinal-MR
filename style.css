@@ -29,6 +29,11 @@
   padding: 0.625rem 0px;
   cursor: pointer;
   width: 10.625rem;
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+}
+.botones button:hover, .botones a:hover {
+  transform: scale(1.04);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 .estrellas-1 {
   background: linear-gradient(rgb(223, 236, 232, 0.9), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(../Imágenes/estrellas2.jpeg) center / cover;
@@ -152,6 +157,7 @@
   background-color: rgb(222, 215, 238);
   box-shadow: 4px 4px 12px rgba(0,0,0,0.2);
   display: none;
+  z-index: 1;
 }
 .header__nav-item-menu-submenu li {
   padding: 0.625rem 0.625rem;
@@ -476,6 +482,7 @@ input[type="radio"] {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 5px;
 }
 .fotos__1 h3, .fotos__2 h3, .fotos__3 h3 {
   margin-top: 0.3125rem;
@@ -756,50 +763,87 @@ input[type="radio"] {
 #productos {
   scroll-margin-top: 3.39rem;/*la barra de navegación mide 54.27px. Este es el espacio que deja para que la sección "productos" se posicione a continuación del la brra de navegación, ya que al tener position: fixed no ocupa lugar y la sección "servicios" quedaría tapada (el título)*/
 }
-#productos {
+.producto {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding: 3.125rem 0;
+  gap: 1.5rem;
   background-color: rgb(229, 215, 239, 0.5);
 }
-.producto-1, .producto-2, .producto-3 {
-  margin: 3.125rem 0;
+.producto__card {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  width: 34.375rem;
-  height: 50rem;
+  width: 25rem;
+  height: 47rem;
   padding: 1.875rem 1.25rem;
   background-color: #ffffff;
   border: 1px solid rgb(102, 102, 102, 0.4);
   box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
   border-radius: 12px;
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
 }
-.producto-1__img img, .producto-2__img img, .producto-3__img img {
-  margin: auto;
+.producto__card:hover {
+  transform: scale(1.04);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
-.producto-1__parrafo, .producto-2__parrafo, .producto-3__parrafo {
+.producto__card-img img {
+  width: 120px;
+  border-radius: 5px;
+}
+.producto__card-parrafo {
   display: flex;
   flex-direction: column;
   gap: 0.625rem;
   font-family: "Montserrat", sans-serif;
-  font-weight: 500;
-  font-size: 0.875rem;
+  font-weight: 400;
+  font-size: 0.75rem;
   line-height: 1.25rem;
   color: #696868;
 }
-.producto-1__parrafo h3, .producto-2__parrafo h3, .producto-3__parrafo h3 {
+.producto__card-parrafo h3 {
   margin: auto;
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 .precio {
   font-weight: 600;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
 }
-.producto-1__parrafo span {
+.producto__card-parrafo span {
   font-weight: 600;
+}
+.botones1{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1rem;
+}
+.botones1 button, .botones1 a {
+  background-color: #cde4f4;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 0.7rem;
+  line-height: 1.2rem;
+  letter-spacing: 0.05rem;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  color: #a26eaf;
+  padding: 0.5rem 0px;
+  cursor: pointer;
+  width: 8.5rem;
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+}
+.botones1 button:hover, .botones1 a:hover {
+  transform: scale(1.04);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 
 /*----------FIN SECTION PRODUCTOS----------*/
@@ -905,7 +949,7 @@ input, textarea {
   font-weight: 600;
   font-size: 1rem;
   line-height: 1.57rem;
-  letter-spacing: 1px;
+  letter-spacing: 0.0625rem;
   color: #696868;
   padding: 0.625rem 0.5rem;
   border: none;
@@ -915,6 +959,11 @@ input, textarea {
   color: #a26eaf;
   padding: 0.625rem 2.5rem;
   cursor: pointer;
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+}
+.contact__form button:hover {
+  transform: scale(1.04);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 iframe {
   width: 60%;
@@ -1018,8 +1067,72 @@ video::cue {
   line-height: 1.57rem;
   color: #696868;
 }
- 
 
+/*----------FIN SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
+
+
+/*----------SECTION RESEÑAS (INDEX 3 - NUEVA PÁGINA)----------*/
+
+.resenias {
+  padding: 3.125rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  justify-content: center;
+  justify-items: center;
+  gap: 1.5rem;
+  background-color: rgb(229, 215, 239, 0.5);
+}
+
+.resenias__card {
+  width: 25rem;
+  height: 33rem;
+  padding: 1rem 2rem;
+  border: 1.5px solid #ccc;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+}
+.resenias__card:hover {
+  transform: scale(1.04);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+.resenias__card-logo {
+  border-radius: 50%;
+  padding: 1.125rem;
+  background-color: #e7dbf0;
+}
+.resenias__card-logo img {
+  width: 2.5rem;
+}
+.resenias__card-parrafo {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 0.75em;
+  line-height: 1.25rem;
+  color: #696868;
+}
+.resenias__card-pie {
+  display: flex;
+  justify-content: space-around;
+  width: 20rem;
+  padding: 0 2rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+  line-height: 1.57rem;
+  color: #696868;
+}
+.resenias__card-pie-estrellas {
+  color: #B197FC;
+  font-size: 0.7rem;
+}
+
+/*----------FIN SECTION RESEÑAS (INDEX 3 - NUEVA PÁGINA)----------*/
 
 /*----------FOOTER----------*/
 
@@ -1185,12 +1298,12 @@ video::cue {
 
 /*----------MEDIA QUERIES----------*/
 
-/*@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   /*.header__nav {
     justify-content: space-around;
     padding: 0 2rem;
   }*/
-/*.header__nav-list {
+.header__nav-list {
   margin: 0.5rem 0;
     flex-direction: column;
     gap:1.3rem ;
