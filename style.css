@@ -1324,7 +1324,7 @@ video::cue {
     padding: 0.95rem;
   }
   .header__simbolos-1 img {
-    scale: 0.85;
+    scale: 0.7;
   }
 
   /*----------FIN HEADER----------*/
@@ -1654,7 +1654,7 @@ video::cue {
     letter-spacing: 0.3rem;
   }
   .header__simbolos{
-  margin-top: 6.25rem;
+  margin-top: 5rem;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
