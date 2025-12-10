@@ -232,7 +232,7 @@
   color: #ffffff;
 }
 .header__estrellas {
-  background: linear-gradient(rgb(223, 236, 232, 0.9), rgb(223, 236, 232, 0.6), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(../Imágenes/estrellas2.jpeg) center / cover;
+  background: linear-gradient(rgb(223, 236, 232, 0.9), rgb(223, 236, 232, 0.6), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(./Imágenes/estrellas2.jpeg) center / cover;
   height: 100vh;
   display:flex;
   flex-direction: column;
