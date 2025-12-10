@@ -1210,6 +1210,7 @@ video::cue {
 @media screen and (max-width: 1024px){
   .carrito__container {
     width: 40vw;
+    z-index: 100;
   }
   .carrito__container h2 {
     font-size: 1.1rem;
@@ -1303,7 +1304,7 @@ video::cue {
     transform: translateX(0); /* visible al abrir */
   }
   .header__estrellas {
-    padding-top: 10rem;
+    padding-top: 4rem;
   }
   .header__titulo h1 {
   font-size: 3.4rem; 
@@ -1422,6 +1423,7 @@ video::cue {
 
   .carrito__container {
       width: 60vw;
+      z-index: 100;
   }
   .carrito__container h2 {
     font-size: 1.1rem;
@@ -1812,6 +1814,7 @@ video::cue {
 
  .carrito__container {
     width: 100vw;
+    z-index: 100;
   }
 
   .carrito__container h2 {
