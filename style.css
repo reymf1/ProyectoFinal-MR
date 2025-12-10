@@ -338,7 +338,7 @@
   text-align: center;
   padding-bottom: 1.56rem;
 }
-.formacion__descripcion .numero{
+.formacion__descripcion .numero {
   font-weight: 500;
 }
 .formacion__descripcion .fin{
@@ -347,7 +347,7 @@
 .formacion__descripcion hr {
   max-width: 90%;
   border-top: 2px solid #c5d7e4;
-  margin: 1.875rem 0 0 4.375rem;        
+  margin: 1.875rem 4.375rem;        
 }
 .formacion__descripcion-training{
   display: flex;
