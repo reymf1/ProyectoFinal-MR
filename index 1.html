@@ -24,26 +24,28 @@
 
 <body>
   <header id="inicio">
+
 <!----------BARRA DE NAVEGACIÓN---------->
+
     <nav class="header__nav">
       <div class="header__nav-logo">
-        <a href="index.html#inicio"><img src="./Imágenes/LogoYoga3.png" alt=""></a>
+        <a href="#inicio"><img src="./Imágenes/LogoYoga3.png" alt=""></a>
       </div>
       <ul class="header__nav-list">
-        <li ><a href="index.html#inicio">INICIO</a></li>
+        <li ><a href="index.html#inicio" class="header__nav-a">INICIO</a></li>
         <li class="header__nav-item-menu">
-          <a href="index.html#servicios">SERVICIOS<img src="./Imágenes/flechaabajo.png" alt=""></a>     
+          <a href="index.html#servicios" class="header__nav-a">SERVICIOS<img src="./Imágenes/flechaabajo.png" alt=""></a>    
           <ul class="header__nav-item-menu-submenu">
-            <li><a href="index.html#formacion">Formación y Aprendizaje</a></li>
-            <li><a href="index.html#yoga">Clases Prácticas de Yoga</a></li>
-            <li><a href="index.html#terapias">Terapias Holísticas</a></li>
-            <li><a href="index.html#espacios">Rituales y Espacios Sagrados</a></li>
+            <li><a href="index.html#formacion" class="header__nav-a">Formación y Aprendizaje</a></li>
+            <li><a href="index.html#yoga" class="header__nav-a">Clases Prácticas de Yoga</a></li>
+            <li><a href="index.html#terapias" class="header__nav-a">Terapias Holísticas</a></li>
+            <li><a href="index.html#espacios" class="header__nav-a">Rituales y Espacios Sagrados</a></li>
           </ul>
         </li>
-        <li><a href="index.html#productos">PRODUCTOS</a></li>
-        <li><a href="index 2.html#acercademi">ACERCA DE MÍ</a></li>
-        <li><a href="index 3.html#resenias">RESEÑAS</a></li>
-        <li><a href="#contacto">CONTACTO</a></li>
+        <li><a href="index.html#productos" class="header__nav-a">PRODUCTOS</a></li>
+        <li><a href="index 2.html#acercademi" class="header__nav-a">ACERCA DE MÍ</a></li>
+        <li><a href="index 3.html#resenias" class="header__nav-a">RESEÑAS</a></li>
+        <li><a href="index 1.html#contacto" class="header__nav-a">CONTACTO</a></li>
       </ul>
       <div class="header__nav-logo-redes">
         <a href="https://www.facebook.com/sanandomesanandote" target="_blank"><img src="./Imágenes/facebook.png" alt=""></a>
@@ -51,8 +53,45 @@
         <a href="https://www.tiktok.com/@sanadomesanandote" target="_blank"><img src="./Imágenes/tik-tok.png" alt=""></a>
         <a href="https://wa.me/+5491138013164" target="_blank"><img src="./Imágenes/whatsapp.png" alt=""></a>
       </div>
+      <div class="header__nav-carrito">
+        <img class="header__nav-carrito-icon" src="./Imágenes/carrito-de-compras-1.png" alt="">
+        <span class="header__nav-carrito-contador">0</span>
+      </div>
+    </nav>
+    <button class="header__nav-menu-btn">
+      <img class="icon-menu" src="./Imágenes/menu-1.png" alt="">
+      <img class="icon-close" src="./Imágenes/cerrar-simbolo-1.png" alt=""></a>
+    </button>
+    <nav class="header__nav-1">
+      <div class="header__nav-1-logo">
+        <a href="#inicio"><img src="./Imágenes/LogoYoga3.png" alt=""></a>
+      </div>
+      <div class="header__nav-carrito">
+        <img class="header__nav-carrito-icon" src="./Imágenes/carrito-de-compras-1.png" alt="">
+        <span class="header__nav-carrito-contador">0</span>
+      </div>
     </nav>
   </header>
+
+  <!----------FIN BARRA DE NAVEGACIÓN---------->
+
+
+  <!----------ASIDE CARRITO---------->
+
+  <aside>
+    <div class="carrito__container">
+      <img class="carrito__container-btn-icon-close" src="./Imágenes/cerrar-simbolo-1.png" alt="">
+      <h2>Carrito de Compras</h2>      
+      <ul class="carrito__container-ul">
+          <!-- Acá insertaremos los productos seleccionados -->
+      </ul>
+      <button type="button" class="carrito__container-btn-vaciar">
+          Vaciar Carrito
+      </button>
+    </div>
+  </aside>
+
+  <!----------FIN ASIDE CARRITO---------->
 
   <main>
 
@@ -80,21 +119,19 @@
             <label>Teléfono
               <input type="tel" name="phone" placeholder="113819387" required>
             </label>
+            <div class="referencia">
+              <label for="referente">¿Cómo me encontraste?</label>
+              <select id="referente" name="referente">
+                <option value="">-- Seleccioná una opción --</option>
+                <option value="web">Página web</option>
+                <option value="facebook">Facebook</option>
+                <option value="instagram">Instagram</option>
+                <option value="tik-tok">TikTok</option>
+                <option value="conocido">Me recomendó un amigo</option>
+                <option value="otros">Otros</option>
+              </select>
+            </div>
           </div><!--class="contact__form-1"-->
-
-          <div class="referencia">
-            <label for="referente">¿Cómo me encontraste?</label>
-            <select id="referente" name="referente">
-              <option value="">-- Seleccioná una opción --</option>
-              <option value="web">Página web</option>
-              <option value="facebook">Facebook</option>
-              <option value="instagram">Instagram</option>
-              <option value="tik-tok">TikTok</option>
-              <option value="conocido">Me recomendó un amigo</option>
-              <option value="otros">Otros</option>
-            </select>
-          </div><!--class="referencia"-->
-          
           <div class="contact__form-2">
             <label for="mje">Mensaje</label>
             <textarea id="mje" name="mensaje" rows="4" cols="50" placeholder="Dejá tu mensaje..."></textarea>
@@ -106,7 +143,7 @@
 
     </section>
 
-<!----------SECTION CONTACTO---------->
+<!----------FIN SECTION CONTACTO---------->
     
   </main>
 
@@ -170,9 +207,9 @@
         <img src="./Imágenes/MR-1.png" alt="">
       </div>
     </div><!--class="pie-1"-->
-
+    
   </footer>
-
+  <script src="./script.js"></script>
 </body>
 </html>
 

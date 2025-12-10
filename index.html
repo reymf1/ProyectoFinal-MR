@@ -27,33 +27,52 @@
   <header id="inicio">
 
 <!----------BARRA DE NAVEGACIÓN---------->
+    
     <nav class="header__nav">
-      <!--<input type="checkbox" id="btn" class="header__nav-checkbox">
-      <label for="btn" class="header__nav-logomenu"><img src="./Imágenes/menu-1.png" alt=""></label>-->
       <div class="header__nav-logo">
         <a href="#inicio"><img src="./Imágenes/LogoYoga3.png" alt=""></a>
       </div>
       <ul class="header__nav-list">
-        <li ><a href="#inicio">INICIO</a></li>
+        <li ><a href="#inicio" class="header__nav-a">INICIO</a></li>
         <li class="header__nav-item-menu">
-          <a href="#servicios">SERVICIOS<img src="./Imágenes/flechaabajo.png" alt=""></a>    
+          <a href="#servicios" class="header__nav-a">SERVICIOS<img src="./Imágenes/flechaabajo.png" alt=""></a>    
           <ul class="header__nav-item-menu-submenu">
-            <li><a href="#formacion">Formación y Aprendizaje</a></li>
-            <li><a href="#yoga">Clases Prácticas de Yoga</a></li>
-            <li><a href="#terapias">Terapias Holísticas</a></li>
-            <li><a href="#espacios">Rituales y Espacios Sagrados</a></li>
+            <li><a href="#formacion" class="header__nav-a">Formación y Aprendizaje</a></li>
+            <li><a href="#yoga" class="header__nav-a">Clases Prácticas de Yoga</a></li>
+            <li><a href="#terapias" class="header__nav-a">Terapias Holísticas</a></li>
+            <li><a href="#espacios" class="header__nav-a">Rituales y Espacios Sagrados</a></li>
           </ul>
         </li>
-        <li><a href="#productos">PRODUCTOS</a></li>
-        <li><a href="index 2.html#acercademi">ACERCA DE MÍ</a></li>
-        <li><a href="index 3.html#resenias">RESEÑAS</a></li>
-        <li><a href="index 1.html#contacto">CONTACTO</a></li>
+        <li><a href="#productos" class="header__nav-a">PRODUCTOS</a></li>
+        <li><a href="index 2.html#acercademi" class="header__nav-a">ACERCA DE MÍ</a></li>
+        <li><a href="index 3.html#resenias" class="header__nav-a">RESEÑAS</a></li>
+        <li><a href="index 1.html#contacto" class="header__nav-a">CONTACTO</a></li>
       </ul>
       <div class="header__nav-logo-redes">
         <a href="https://www.facebook.com/sanandomesanandote" target="_blank"><img src="./Imágenes/facebook.png" alt=""></a>
         <a href="https://www.instagram.com/sanandomesanandote/" target="_blank"><img src="./Imágenes/instagram.png" alt=""></a>
         <a href="https://www.tiktok.com/@sanadomesanandote" target="_blank"><img src="./Imágenes/tik-tok.png" alt=""></a>
         <a href="https://wa.me/+5491138013164" target="_blank"><img src="./Imágenes/whatsapp.png" alt=""></a>
+      </div>
+      <div class="header__nav-carrito">
+        <img class="header__nav-carrito-icon" src="./Imágenes/carrito-de-compras-1.png" alt="">
+        <span class="header__nav-carrito-contador">0</span>
+      </div>
+    </nav>
+    <button class="header__nav-menu-btn">
+      <img class="icon-menu" src="./Imágenes/menu-1.png" alt="">
+      <img class="icon-close" src="./Imágenes/cerrar-simbolo-1.png" alt="">
+    </button>
+    <nav class="header__nav-1">
+      <button class="header__nav-menu-btn">
+        <img class="icon-menu" src="./Imágenes/menu-1.png" alt="">
+      </button>
+      <div class="header__nav-1-logo">
+        <a href="#inicio"><img src="./Imágenes/LogoYoga3.png" alt=""></a>
+      </div>
+      <div class="header__nav-carrito">
+        <img class="header__nav-carrito-icon" src="./Imágenes/carrito-de-compras-1.png" alt="">
+        <span class="header__nav-carrito-contador">0</span>
       </div>
     </nav>
 <!----------FIN BARRA DE NAVEGACIÓN---------->
@@ -83,6 +102,24 @@
 
   </header>
 
+
+  <!----------ASIDE CARRITO---------->
+
+  <aside>
+    <div class="carrito__container">
+      <img class="carrito__container-btn-icon-close" src="./Imágenes/cerrar-simbolo-1.png" alt="">
+      <h2>Carrito de Compras</h2>      
+      <ul class="carrito__container-ul">
+          <!-- Acá insertaremos los productos seleccionados -->
+      </ul>
+      <button type="button" class="carrito__container-btn-vaciar">
+          Vaciar Carrito
+      </button>
+    </div>
+  </aside>
+
+  <!----------FIN ASIDE CARRITO---------->
+
   <main>
 
 <!---------- SECTION SERVICIOS---------->  
@@ -110,10 +147,8 @@
           <p><span>Exploración de las Enseñanzas de Ernest Holmes:</span>  un recorrido por la obra original del fundador de Ciencia de la Mente.</p>
           <p><span>Cinco regalos para una vida abundante:</span> un recorrido simple y poderoso para integrar cinco claves espirituales que despiertan la abundancia en todas las áreas de tu vida.</p>
           <p><span>Raíces:</span> un curso que te introduce en las raíces de Ciencia de la Mente, brindándote la base sólida para comprender y aplicar sus principios en tu vida cotidiana.</p>
-          <p class="valor"><span>Valor del curso: </span><span class="numero">$150.000</span></p>
           <div class="botones">
-          <a href="index 1.html#contacto">Consultar</a>
-            <button type="submit">Agregar al carrito</button>
+            <a href="index 1.html#contacto">Consultar</a>
           </div>
           <hr>
           <h3>Entrenamiento hacia la Licenciatura (Practitioner Training)</h3>
@@ -166,14 +201,6 @@
             </div>
             <h3>Clases de Yoga Dinámico</h3>
             <p>Prácticas conscientes que trabajan cuerpo, mente y energía. A través del movimiento fluido, la respiración y la presencia, liberamos tensiones y cultivamos bienestar integral. <span class="modalidad">Modalidad: presencial y virtual.</span></p>
-            <p class="valor"><span>1 vez x semana (4 clases): </span><span class="numero">$35.000</span></p>
-          <div class="botones">
-            <button type="submit">Agregar al carrito</button>
-          </div>
-          <p class="valor"><span>2 veces x semana ( 8 clases): </span><span class="numero">$45.000</span></p>
-          <div class="botones">
-            <button type="submit">Agregar al carrito</button>
-          </div>
           <div class="botones">
             <a href="index 1.html#contacto">Consultar</a>
           </div>
@@ -188,13 +215,9 @@
             </div>
             <h3>Clases de Yoga Nidra</h3>
             <p>Una meditación guiada profunda que te lleva a un estado de relajación total, ideal para calmar la mente, conectar con tu mundo interno y activar el poder creador de la conciencia.</p>
-            <p class="valor"><span>1 vez x semana (4 clases): </span><span class="numero">$35.000</span></p>
-          <div class="botones">
-            <button type="submit">Agregar al carrito</button>
-          </div>
-          <div class="botones">
-            <a href="index 1.html#contacto">Consultar</a>
-          </div>
+            <div class="botones">
+              <a href="index 1.html#contacto">Consultar</a>
+            </div>
           </div><!--class="fotos__2"-->
 
           <div class="fotos__3">
@@ -203,13 +226,9 @@
             </div>           
             <h3>Clases de Yoga para Niños</h3>
             <p>Talleres mensuales que fortalecen la autoestima, la confianza y la autorregulación emocional a través de yoga, juegos conscientes, meditación, cantos de mantras y armonización sonora.</p>
-            <p class="valor"><span>1 encuentro mensual: </span><span class="numero">$23.000</span></p>
-          <div class="botones">
-            <button type="submit">Agregar al carrito</button>
-          </div>
-          <div class="botones">
-            <a href="index 1.html#contacto">Consultar</a>
-          </div>
+            <div class="botones">
+              <a href="index 1.html#contacto">Consultar</a>
+            </div>
           </div><!--class="fotos__3"-->
         </div><!--class="fotos"-->
       </section><!--id="yoga"-->
@@ -228,29 +247,23 @@
           <div class="terserv__asesorias">
             <h3>Asesorías Espirituales (Sesiones Uno a Uno)</h3>
             <p>Encuentros personalizados donde te acompaño a ver con claridad, soltar bloqueos y reconectar con tu guía interior. Un espacio de contención y verdad.</p>
-            <p class="valor"><span>1 encuentro mensual: </span><span class="numero">$23.000</span></p>
-          <div class="botones">
-            <button type="submit">Agregar al carrito</button>
-            <a href="index 1.html#contacto">Consultar</a>
-          </div>
+            <div class="botones">
+              <a href="index 1.html#contacto">Consultar</a>
+            </div>
           </div>
           <div class="terserv__floral">
             <h3>Terapia Floral (Sistema Bach)</h3>
             <p>Acompañamiento emocional con esencias florales que armonizan tu mundo interno. Ideal para gestionar emociones, liberar patrones limitantes y recuperar el equilibrio natural.</p>
-            <p class="valor"><span>1 encuentro mensual: </span><span class="numero">$23.000</span></p>
-          <div class="botones">
-            <button type="submit">Agregar al carrito</button>
-            <a href="index 1.html#contacto">Consultar</a>
-          </div>
+            <div class="botones">
+              <a href="index 1.html#contacto">Consultar</a>
+            </div>
           </div>
           <div class="terserv__reiki">
             <h3>Sesiones de Armonización Reiki y Sonora</h3>
             <p>Un espacio de sanación energética combinando Reiki y cuencos tibetanos. Ideal para liberar tensiones, armonizar los centros energéticos y reconectar con tu paz interior.</p>
-            <p class="valor"><span>1 encuentro mensual: </span><span class="numero">$23.000</span></p>
-          <div class="botones">
-            <button type="submit">Agregar al carrito</button>
-            <a href="index 1.html#contacto">Consultar</a>
-          </div>
+            <div class="botones">
+              <a href="index 1.html#contacto">Consultar</a>
+            </div>
           </div>
         </div>
       </section><!--id="terapias""-->
@@ -297,58 +310,8 @@
       </header>
 
       <div class="producto">
-        <article class="producto__card">
-          <div class="producto__card-img">
-            <img src="./Imágenes/botellas-2.jpg" alt="">
-          </div>
-          <div class="producto__card-parrafo">
-            <h3>Botella de Vidrio con Piedra Energética</h3>
-            <p class="precio">$56.000</p>
-            <p>Hermosas botellas de vidrio con piedras energéticas en su interior, ideales para armonizar tu agua y energía. Tiene una capacidad de 500 ml. Incluye funda de neoprene y base antideslizante para una mayor protección, ideal para llevar a todos lados.</p>
-            <p>Podés elegir entre estas tres piedras:</p>
-            <p><span>Piedra Lunar:</span> conectada con la energía femenina. Potencia la intuición, calma las emociones y acompaña en procesos de cambio y renacimiento interior.</p>
-            <p><span>Labradorita:</span> piedra de transformación y protección. Eleva la conciencia, fortalece el aura y estimula la creatividad y la confianza en una misma.</p>
-            <p><span>Cuarzo Violeta (Amatista):</span> Purificadora y espiritual. Ayuda a calmar la mente, facilita la meditación y protege de energías negativas. Ideal para momentos de introspección.</p>
-            <p>¿Cuál te resuena más? Estoy para ayudarte a elegir la que mejor acompañe tu proceso.</p>
-          </div>
-          <div class="botones1">
-            <a href="index 1.html#contacto">Consultar</a>
-            <button type="submit">Agregar al carrito</button>
-          </div>
-        </article>
       
-        <article class="producto__card">
-          <div class="producto__card-img">
-            <img src="./Imágenes/rocio-aurico-1.jpg" alt="">
-          </div>
-          <div class="producto__card-parrafo">
-            <h3>Rocío Áurico</h3>
-            <p class="precio">$5.000</p>
-            <p>Actúa como escudo protector, impidiendo que energías de baja vibracion ingresen en tu campo áurico. Armoniza y despeja el ambiente de energías densas y negativas, generando una limpieza energética en tu espacio áurico.</p>
-            <p>Podés elegir el "Relax", hecho a base de lavanda, o "Amor", realizado a base de pétalos de rosas.</p>
-          </div>
-          <div class="botones1">
-            <a href="index 1.html#contacto">Consultar</a>
-            <button type="submit">Agregar al carrito</button>
-          </div>
-        </article>
-
-        <article class="producto__card">
-          <div class="producto__card-img">
-            <img src="./Imágenes/limpieza-energetica-1.jpg" alt="">
-          </div>
-          <div class="producto__card-parrafo">
-            <h3>Caja de Limpieza Energética</h3>
-            <p class="precio">$16.000</p>
-            <p>Contiene 4 carboncitos y 5 hierbas diferentes para limpiar nuestro hogar, lugar de trabajo o cualquier espacio donde sentimos que la energía es densa. También se utiliza en lugares dónde hay frecuentes pérdidas de agua o problemas con la electricidad ...somos energía, todo es energía...sutil o densa....a limpiar!!!</p>
-          </div>
-          <div class="botones1">
-            <a href="index 1.html#contacto">Consultar</a>
-            <button type="submit">Agregar al carrito</button>
-          </div>
-        </article>
       </div>
-      
 
     </section><!--id="productos"-->
 
@@ -420,6 +383,6 @@
     </div><!--class="pie-1"-->
 
   </footer>
-
+  <script src="./script.js"></script>
 </body>
 </html>

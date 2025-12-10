@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "./Imágenes/botellas-2.jpg",
+    "nombre": "Botella de Vidrio con Piedra Energética",
+    "precio": 56000,
+    "descripcion": "<p>Hermosas botellas de vidrio con piedras energéticas en su interior, ideales para armonizar tu agua y energía. Tiene una capacidad de 500 ml. Incluye funda de neoprene y base antideslizante para una mayor protección, ideal para llevar a todos lados.</p><p>Podés elegir entre estas tres piedras:</p><p><span>Piedra Lunar:</span> conectada con la energía femenina. Potencia la intuición, calma las emociones y acompaña en procesos de cambio y renacimiento interior.</p><p><span>Labradorita:</span> piedra de transformación y protección. Eleva la conciencia, fortalece el aura y estimula la creatividad y la confianza en una misma.</p><p><span>Cuarzo Violeta (Amatista):</span> Purificadora y espiritual. Ayuda a calmar la mente, facilita la meditación y protege de energías negativas. Ideal para momentos de introspección.</p><p>¿Cuál te resuena más? Estoy para ayudarte a elegir la que mejor acompañe tu proceso.</p>"
+  },
+  {
+    "id": 2,
+    "img": "./Imágenes/rocio-aurico-1.jpg",
+    "nombre": "Rocío Áurico",
+    "precio": 5000,
+    "descripcion": "<p>Actúa como escudo protector, impidiendo que energías de baja vibracion ingresen en tu campo áurico. Armoniza y despeja el ambiente de energías densas y negativas, generando una limpieza energética en tu espacio áurico.</p><p>Podés elegir el <b>Relax</b>, hecho a base de lavanda, o <b>Amor</b>, realizado a base de pétalos de rosas.</p>"
+  },
+  {
+    "id": 3,
+    "img": "./Imágenes/limpieza-energetica-1.jpg",
+    "nombre": "Caja de Limpieza Energética",
+    "precio": 16000,
+    "descripcion": "<p>Contiene 4 carboncitos y 5 hierbas diferentes para limpiar nuestro hogar, lugar de trabajo o cualquier espacio donde sentimos que la energía es densa. También se utiliza en lugares dónde hay frecuentes pérdidas de agua o problemas con la electricidad ...somos energía, todo es energía...sutil o densa....a limpiar!!!</p>"
+  },
+  {
+    "id": 4,
+    "img": "./Imágenes/velas.jpg",
+    "nombre": "Vela Energética",
+    "precio": 16000,
+    "descripcion": "<p>¿Sentís que tu casa queda cargada después de las visitas?</p><p>¿O que el estrés del día se te pega y no podés bajar un cambio?</p><p>Las velas de <b>soja natural con cristales y flores sintonizados con Reiki</b> ayudan a limpiar la energía, calmar la mente y devolverle armonía a tu espacio.</p><p>Encendés una… y en minutos cambia el ambiente y cambia tu estado.</p><p>Aroma + cristal + intención, trabajando juntos.</p>"
+  },
+  {
+    "id": 5,
+    "img": "./Imágenes/matDeYoga1.png",
+    "nombre": "Mat de Yoga",
+    "precio": 32000,
+    "descripcion": "<p>Con una medida de 183 x 61 cm y un grosor de 6 mm, este mat está diseñado para mejorar la absorción de impactos, proporcionando un soporte adecuado para las articulaciones y garantizando mayor comodidad en ejercicios que requieran un contacto prolongado con el suelo.</p><p>Ideal para las clases de Sanándome Sanándote!</p>"
+  },
+  {
+    "id": 6,
+    "img": "./Imágenes/bombones.jpg",
+    "nombre": "Bombones de Soja Aromáticos",
+    "precio": 2800,
+    "descripcion": "<p>Pequeños, prácticos y súper rendidores. Los ponés en el hornillo y en minutos tu espacio cambia: aroma suave, energía más liviana y una sensación de calma inmediata.</p><p>Hechos de <b>soja natural con flores y cristales sintonizados con reiki</b>, para acompañarte en tus rituales diarios.</p>"
+  }
+] 

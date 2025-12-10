@@ -84,12 +84,11 @@
   text-align: center;
   font-family: "Playfair Display", serif;
   font-weight: 400;
-  font-size: 25px;
+  font-size: 1.5625rem;
   color: #696868;
 }
 
 /*----------FIN ESTILOS GENERALES----------*/
-
 
 /*----------HEADER----------*/
 
@@ -104,11 +103,22 @@
   left: 0;
   width: 100vw;
   z-index: 20;
-  
 }
-/*.header__nav-logomenu {
+.header__nav-1{
   display: none;
-}*/
+}
+.icon-menu, .icon-close{
+  display: none;
+  top: 0.5rem;
+  left: 0.5rem;
+  position: fixed;
+  background: none;
+  border: none;
+  cursor: pointer;
+  filter: contrast(30%);
+  z-index: 30;
+}
+
 
 /*Efecto de achicar la barra de navegación con el movimiento del scroll*/
 .header__nav-logo img {
@@ -152,7 +162,6 @@
   min-width: 12.5rem;  /* mínimo ancho legible */
   width: auto;       /* se adapta al contenido */
   white-space: nowrap; /* evita salto de línea */
-  list-style: none;
   border-radius: 0.625rem;
   background-color: rgb(222, 215, 238);
   box-shadow: 4px 4px 12px rgba(0,0,0,0.2);
@@ -161,10 +170,7 @@
 }
 .header__nav-item-menu-submenu li {
   padding: 0.625rem 0.625rem;
-  font-family: "Montserrat", sans-serif;
-  font-size: 0.875rem;
-  font-weight: 600;
-  color: #a26eaf;
+  list-style: none;
 }
 .header__nav-item-menu-submenu a {
   font-family: "Montserrat", sans-serif;
@@ -191,7 +197,6 @@
   border-radius: 0 0 10px 10px;
 }
 .header__nav-item-menu-submenu li:hover a {
-  color: #d6e4f5;
   background-color: #ffffff;
   color: #68a8c4;
 }
@@ -201,6 +206,30 @@
 }
 .header__nav-logo-redes img {
   filter: contrast(30%);
+}
+.header__nav-carrito {
+  position: relative;
+}
+.header__nav-carrito img {
+  cursor: pointer;
+  filter: contrast(30%);
+}
+.header__nav-carrito-contador {
+  position: absolute;
+  top: -0.5rem;
+  right: -0.5rem;
+  border-radius: 50%;
+  padding: 0.6rem;
+  background-color:#696868;
+  width: 1rem;
+  height: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 300;
+  color: #ffffff;
 }
 .header__estrellas {
   background: linear-gradient(rgb(223, 236, 232, 0.9), rgb(223, 236, 232, 0.6), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(../Imágenes/estrellas2.jpeg) center / cover;
@@ -237,14 +266,13 @@
   gap: 6.25rem;
 }
 .header__simbolos-1 {
-  border: 1px solid transparent;
+  /*border: 1px solid transparent;*/
   border-radius: 50%;
   padding: 1.125rem;
   background-color: #e0caf1;
 }
 
 /*----------FIN HEADER----------*/
-
 
 /*----------SECTION SERVICIOS----------*/
 
@@ -334,106 +362,8 @@
   list-style-type: "✓";
   padding-left: 0.5rem;
 }
-.formacion__testimonios {
-  margin-top: 6.25rem;
-  position: relative;/*Para dar referencia a la position: absolute de las flechas*/
-  width: 80%;
-  max-width: 50rem;
-}
-.formacion__testimonios-carrousel{
-  overflow: hidden;
-}
-.formacion__testimonios-slider {
-  display: flex;
-  transition: transform 0.5s ease;
-}
-.formacion__testimonios-slider-1,
-.formacion__testimonios-slider-2,
-.formacion__testimonios-slider-3 {
-  flex: 0 0 100%;
-  height: 18.75rem;
-  border: 1px solid #ccc;
-  border-radius: 12px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: #ffffff;
-}
-.formacion__testimonios-slider-1-parrafo,
-.formacion__testimonios-slider-2-parrafo,
-.formacion__testimonios-slider-3-parrafo {
-  width: 46.875rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  color: #696868;
-}
-.formacion__testimonios-slider-1-pie,
-.formacion__testimonios-slider-2-pie,
-.formacion__testimonios-slider-3-pie {
-  margin-top: 1.25rem;
-  display: flex;
-  justify-content: space-between;
-  width: 500px;
-  font-family: "Montserrat", sans-serif;
-  font-weight: bold;
-  font-size: 1.25rem;
-  line-height: 1.57rem;
-  color: #696868;
-}
-
-input[type="radio"] {
-  display: none;
-}/* Ocultar radios */
-
-.formacion__testimonios-nav{
-  position: absolute;
-  top: 50%;
-  width: 100%;
-}/* Flechas base */
-
-.formacion__testimonios-nav-controls img {
-  filter: invert(60%);
-}
-
-.formacion__testimonios-nav-controls {
-  display: none; /* ocultas por defecto */
-}
-.formacion__testimonios-nav-controls .izq {
-  position: absolute;
-  left: -2.5rem;
-}
-.formacion__testimonios-nav-controls .der {
-  position: absolute;
-  right: -2.5rem;
-}
-
-/* Posiciones del carrusel según radio activo */
-#s1:checked ~ .formacion__testimonios-carrousel .formacion__testimonios-slider {
-  transform: translateX(0%);
-}
-#s2:checked ~ .formacion__testimonios-carrousel .formacion__testimonios-slider {
-  transform: translateX(-100%); 
-}
-#s3:checked ~ .formacion__testimonios-carrousel .formacion__testimonios-slider {
-  transform: translateX(-200%);
-}
-
-/* Mostrar el grupo correcto de flechas */
-#s1:checked ~ .formacion__testimonios-nav .formacion__testimonios-nav-controls--c1 { 
-  display: flex;
-}
-#s2:checked ~ .formacion__testimonios-nav .formacion__testimonios-nav-controls--c2 {
-  display: flex;
-}
-#s3:checked ~ .formacion__testimonios-nav .formacion__testimonios-nav-controls--c3 {
-  display: flex;
-}
 
 /*----------FIN SUB-SECTION FORMACION-----------*/
-
 
 /*----------SUB-SECTION YOGA-----------*/
 
@@ -521,7 +451,6 @@ input[type="radio"] {
 
 /*----------FIN SUB-SECTION YOGA-----------*/
 
-
 /*----------SUB-SECTION TERAPIAS-----------*/
 
 #terapias {
@@ -585,7 +514,6 @@ input[type="radio"] {
 
 /*----------FIN SUB-SECTION TERAPIAS-----------*/
 
-
 /*----------SUB-SECTION ESPACIOS-----------*/
 
 #espacios {
@@ -616,6 +544,7 @@ input[type="radio"] {
 .circsagr {
   margin-top: 6.25rem;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 3.75rem;
 }
@@ -654,109 +583,7 @@ input[type="radio"] {
 
 /*----------FIN SUB-SECTION ESPACIOS-----------*/
 
-
-/*----------CONTENEDOR TESTIMONIOS-----------*/
-
-.cont-testimonios{
-  padding: 6.25rem 0;
-  background-color: rgb(229, 215, 239, 0.5);
-}
-.testimonios {
-  margin: auto;
-  position: relative;/*Para dar referencia a la position: absolute de las flechas*/
-  width: 80%;
-  max-width: 50rem;
-  background-color: #ffffff;
-}
-.testimonios__carrousel{
-  overflow: hidden;
-}
-.testimonios__slider {
-  display: flex;
-  transition: transform 0.5s ease;
-}
-.testimonios__slider-1,
-.testimonios__slider-2,
-.testimonios__slider-3 {
-  flex: 0 0 100%;
-  height: 18.75rem;
-  border: 1px solid #ccc;
-  border-radius: 12px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: #ffffff;
-}
-.testimonios__slider-1-parrafo,
-.testimonios__slider-2-parrafo,
-.testimonios__slider-3-parrafo {
-  width: 46.875rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  color: #696868;
-}
-.testimonios__slider-1-pie,
-.testimonios__slider-2-pie,
-.testimonios__slider-3-pie {
-  margin-top: 1.25rem;
-  display: flex;
-  justify-content: space-between;
-  width: 31.25rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: bold;
-  font-size: 1.25rem;
-  line-height: 1.57rem;
-  color: #696868;
-}
-.testimonios__nav {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-}/* Flechas base */
-.testimonios__nav-controls img {
-  filter: invert(60%);
-}
-.testimonios__nav-controls {
-  display: none; /* ocultas por defecto */
-}
-.testimonios__nav-controls .prev {
-  position: absolute;
-  left: -2.5rem;
-}
-.testimonios__nav-controls .next {
-  position: absolute;
-  right: -2.5rem;
-}
-
-/* Posiciones del carrusel según radio activo */
-#t1:checked ~ .testimonios__carrousel .testimonios__slider {
-  transform: translateX(0%);
-}
-#t2:checked ~ .testimonios__carrousel .testimonios__slider {
-  transform: translateX(-100%); 
-}
-#t3:checked ~ .testimonios__carrousel .testimonios__slider {
-  transform: translateX(-200%);
-}
-
-/* Mostrar el grupo correcto de flechas */
-#t1:checked ~ .testimonios__nav .testimonios__nav-controls--c1 { 
-  display: flex;
-}
-#t2:checked ~ .testimonios__nav .testimonios__nav-controls--c2 {
-  display: flex;
-}
-#t3:checked ~ .testimonios__nav .testimonios__nav-controls--c3 {
-  display: flex;
-}
-
-/*----------FIN CONTENEDOR TESTIMONIOS-----------*/
-
 /*----------FIN SECTION SERVICIOS----------*/
-
 
 /*----------SECTION PRODUCTOS----------*/
 
@@ -766,7 +593,7 @@ input[type="radio"] {
 .producto {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
   padding: 3.125rem 0;
   gap: 1.5rem;
   background-color: rgb(229, 215, 239, 0.5);
@@ -776,8 +603,9 @@ input[type="radio"] {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  gap: 1rem;
   width: 25rem;
-  height: 47rem;
+  height: auto /*47rem*/;
   padding: 1.875rem 1.25rem;
   background-color: #ffffff;
   border: 1px solid rgb(102, 102, 102, 0.4);
@@ -804,41 +632,40 @@ input[type="radio"] {
   color: #696868;
 }
 .producto__card-parrafo h3 {
-  margin: auto;
   font-weight: bold;
   font-size: 1rem;
 }
 .precio {
+  margin: auto;
   font-weight: 600;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
+  color: #a26eaf;
 }
 .producto__card-parrafo span {
   font-weight: 600;
 }
-.botones1{
+.botones1 {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 1rem;
 }
-.botones1 button, .botones1 a {
+.botones1 button {
   background-color: #cde4f4;
   font-family: "Montserrat", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 0.7rem;
   line-height: 1.2rem;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0rem;
   text-align: center;
-  text-decoration: none;
-  border: none;
   border: 1px solid rgb(102, 102, 102, 0.4);
   box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
   border-radius: 12px;
   color: #a26eaf;
   padding: 0.5rem 0px;
   cursor: pointer;
-  width: 8.5rem;
+  width: 8rem;
   transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
 }
 .botones1 button:hover, .botones1 a:hover {
@@ -848,6 +675,83 @@ input[type="radio"] {
 
 /*----------FIN SECTION PRODUCTOS----------*/
 
+/*----------ASIDE CARRITO----------*/
+
+.carrito__container {
+  position: fixed;
+  background: linear-gradient(to bottom, rgba(185, 190, 189), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgba(185, 190, 189));
+  display: flex;
+  flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+  top: 0;
+  right: 0;
+  transform: translateX(100%); /* oculto a la derecha */
+  transition: transform 0.3s ease-in-out;
+  width:22vw;
+  height: 100vh;
+  z-index: 20;
+  border: 1px solid #cac4c4;
+  box-shadow: -3px 0px 3px rgba(0,0,0,0.2);
+  /*width: auto;/* se adapta al contenido */
+}
+.carrito__container h2 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #696868;
+  letter-spacing: 0.1rem;
+}
+.carrito__container-btn-icon-close.active {
+  top: 1rem;
+  right: 0.5rem;
+  width: 1.5rem;
+  position: fixed;
+  background: none;
+  border: none;
+  cursor: pointer;
+  filter: contrast(30%);
+  z-index: 30;
+}
+.carrito__container.active {
+  transform: translateX(0); /* visible al abrir */
+}
+.carrito__container-ul-item {
+  list-style: none;
+  padding: 0.625rem 0.625rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 500;
+  background-color: #ffffff;
+  color: #68a8c4;
+  border: 1px solid #cac4c4;
+  border-radius: 5px;
+  margin: 0 0.5rem 0 0.5rem;
+}
+.carrito__container-btn-vaciar {
+  background-color: #cde4f4;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 0.7rem;
+  line-height: 1.2rem;
+  letter-spacing: 0rem;
+  text-align: center;
+  border: 1px solid rgb(102, 102, 102, 0.4);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  color: #a26eaf;
+  padding: 0.5rem 0px;
+  cursor: pointer;
+  width: 8rem;
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+}
+.carrito__container-btn-vaciar:hover {
+  transform: scale(1.04);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+
+/*----------FIN ASIDE CARRITO----------*/
 
 /*----------SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
 
@@ -856,7 +760,7 @@ input[type="radio"] {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 2.5rem 0 2.5rem 0;
+  padding: 2.5rem 1rem 2.5rem 1rem;
   background-color: rgb(229, 215, 239, 0.5);
 }
 .contact h2 {
@@ -872,7 +776,10 @@ input[type="radio"] {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 70%;
+  /*max-width: 70%;*/
+  width: 100%;
+  max-width: 60rem;   /* límite real en px */
+  /*padding: 0 1rem;   /* mantiene margen interno */
 }
 .contact__form-1 {
   display: flex;
@@ -880,6 +787,11 @@ input[type="radio"] {
   flex-wrap: wrap;
   gap: 1.875rem;
 }
+.contact__form-1 label {
+  width: 30%;
+  min-width: 14rem;
+}
+
 .contact__form-2 {
   margin-top: 1.875rem;
   width: 100%;
@@ -900,20 +812,18 @@ input, textarea {
   line-height: 1.57rem;
   color: #696868;
   padding: 0.625rem 0.5rem;
-  border: none;
   border: 1px solid rgb(102, 102, 102, 0.4);
   box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
   border-radius: 12px;
-  color: #696868;
   resize: none;/*textarea*/
- }
+}
 ::placeholder{
   color: rgb(105, 104, 104, 0.7);
 }
 .referencia {
   display: flex;
   flex-direction: column;
-  margin-top: 2.5rem;
+  /*margin-top: 2.5rem;*/
 }
 .referencia select {
   font-family: "Montserrat", sans-serif;
@@ -966,15 +876,15 @@ input, textarea {
   box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 iframe {
-  width: 60%;
-  height: 28.125rem;
+  width: 100%;
+  max-width: 50rem;
+  height: 28rem;
   border: 1px solid rgb(102, 102, 102, 0.4);
   box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
   border-radius: 12px;
 }
 
 /*----------FIN SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
-
 
 /*----------SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
 
@@ -1026,7 +936,6 @@ video::cue {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 0.625;
   max-width: 37.5rem;
   height: 28.125rem;
   border: 0px solid rgb(102, 102, 102, 0.4);
@@ -1069,7 +978,6 @@ video::cue {
 }
 
 /*----------FIN SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
-
 
 /*----------SECTION RESEÑAS (INDEX 3 - NUEVA PÁGINA)----------*/
 
@@ -1232,6 +1140,7 @@ video::cue {
 }
 .pie__info-wp, .pie__info-correo, .pie__info-direccion {
   display: flex;
+  align-items: center;
   gap: 1.25rem;
 }
 .pie__info-correo img {
@@ -1281,7 +1190,7 @@ video::cue {
   margin-left: 2.5rem;
   font-family: "Montserrat", sans-serif;
   font-size: 0.94rem;
-  font-weight: 400px;
+  font-weight: 400;
 }
 .pie-1-1{
   display: flex;
@@ -1298,144 +1207,759 @@ video::cue {
 
 /*----------MEDIA QUERIES----------*/
 
-@media (max-width: 768px) {
-  /*.header__nav {
+@media screen and (max-width: 1024px){
+  .carrito__container {
+    width: 40vw;
+  }
+  .carrito__container h2 {
+    font-size: 1.1rem;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+
+  /*----------ESTILOS GENERALES----------*/
+
+  .botones button, .botones a {
+    font-size: 0.74rem;
+    line-height: 1.275rem;
+    letter-spacing: 0.05rem;
+    width: 9rem;
+  }
+  .estrellas-1__contacto h1 {
+    font-size: 2.65rem;
+    letter-spacing: 0.32rem;
+  }
+  .estrellas-1__contacto h2 {
+    font-size: 1.59rem;
+    letter-spacing: 0.15rem;
+  }
+  .titulo h2 {
+    font-size: 2.65rem;
+    letter-spacing: 0.318rem;
+  }
+  .titulo P {
+    font-size: 1.328rem;
+  }
+
+  /*----------FIN ESTILOS GENERALES----------*/
+
+  /*----------HEADER----------*/
+
+  .header__nav-1 {
+  background: linear-gradient(to right, rgba(185, 190, 189, 0.8), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgba(185, 190, 189, 0.8));
+  display: flex;
+	justify-content: space-around;
+	align-items: center;
+  flex-wrap: wrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 10;
+  }
+  .header__nav-1-logo img {
+    animation: achicar 1 both;
+    animation-timeline: scroll();
+    animation-range: 0 0.6rem;
+  }
+  @keyframes achicar {
+    from { width: 5.31rem; }
+    to   { width: 3.75rem; }  /* tamaño reducido */
+  }
+  .header__nav {
+    background: linear-gradient(to bottom, rgba(185, 190, 189), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgba(185, 190, 189));
+    flex-direction: column;
     justify-content: space-around;
-    padding: 0 2rem;
-  }*/
-.header__nav-list {
-  margin: 0.5rem 0;
-    flex-direction: column;
-    gap:1.3rem ;
     align-items: center;
-}
-.header__nav-list a {
-  
-  font-size: 0.75rem;
- 
-}
-img {
- transform: scale(0.85);
-}
-.header__nav-logomenu {
-  display: block;
-}
-.header__nav-checkbox:checked ~ .header__nav-list{
-  transform: translateX(0);
-}
-.header__nav-list a {
-  
-  display: block;
-}
-
-
-
-
-/*@media screen and (max-width: 768px) {
-  .header__nav-list {
-    flex-direction: column;
-    position: absolute;
     top: 0;
     left: 0;
-    width: 70%;           /* ancho del menú */
-   /* height: 100vh;         /* ocupa toda la altura */
-    /*background: #444;
     transform: translateX(-100%); /* oculto a la izquierda */
-    /*transition: transform 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out;
+    width:100vw;
+    height: 100vh;
+    z-index: 20;
+  }
+  .header__nav-menu-btn .icon-menu {
+    display: block;
+  }
+  .header__nav-menu-btn.active .icon-menu {
+    display: none;
+  }
+  .header__nav-menu-btn.active .icon-close {
+    display: block;
+  }
+  .header__nav-logo.active img {
+    animation: none;
+    transform: scale(0.85);
+  }
+  .header__nav-list {
+    flex-direction: column;
     z-index: 10;
   }
 
-  .header__nav-checkbox:checked ~ .header__nav-list {
+  .header__nav.active {
     transform: translateX(0); /* visible al abrir */
-  /*}*/
-
-  /*.header__nav-logo img {
-    transform: scale(0.85);
   }
-
-  .header__nav-logomenu {
-    display: block; /* icono hamburguesa visible */
- /* }
-
-  
-}
-
-
-
-
-
-
-
-/*.header__nav-list {
+  .header__estrellas {
+    padding-top: 10rem;
+  }
+  .header__titulo h1 {
+  font-size: 3.4rem; 
+  letter-spacing: 0.318rem;
+  }
+  .header__titulo h2 {
+    font-size: 1.7rem;
+    letter-spacing: 0.318rem;
+  }
+  .header__simbolos{
+    margin-top: 6.25rem;
     display: flex;
-		list-style: none;
-    gap: 2.5rem;
-}
-.header__nav-list a {
-  text-decoration: none;
-  font-family: "Montserrat", sans-serif;
-  font-size: 0.875rem;
-  font-weight: 600;
-  color: #696868;
-}
-.header__nav-item-menu {
-  position: relative;/*Para posicionar el submenu con position absolute*/
-/*}
-.header__nav-item-menu img {
-  margin-left: 0.625rem;
-  transition: transform 0.2s ease-in-out;
-}
-.header__nav-item-menu:hover img {
-  transform: rotate(180deg);
-}
-.header__nav-item-menu-submenu {
-  position: absolute;
-  top: 110%;
-  left: 0;
-  min-width: 12.5rem;  /* mínimo ancho legible */
-  /*width: auto;       /* se adapta al contenido */
-  /*white-space: nowrap; /* evita salto de línea */
-  /*list-style: none;
-  border-radius: 0.625rem;
-  background-color: rgb(222, 215, 238);
-  box-shadow: 4px 4px 12px rgba(0,0,0,0.2);
-  display: none;
-}
-.header__nav-item-menu-submenu li {
-  padding: 0.625rem 0.625rem;
-  font-family: "Montserrat", sans-serif;
-  font-size: 0.875rem;
-  font-weight: 600;
-  color: #a26eaf;
-}
-.header__nav-item-menu-submenu a {
-  font-family: "Montserrat", sans-serif;
-  font-size: 0.875rem;
-  font-weight: 500;
-  color: #a26eaf;
-  margin: 1.25rem 1.875rem 1.25rem 0.625rem;
-}
-.header__nav-item-menu-submenu li:not(:last-child){
-  border-bottom: 1px solid #cac4c4;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6.25rem;
   }
-  .header__nav-item-menu:hover > .header__nav-item-menu-submenu {
-  display: block;
-}
-  .header__nav-item-menu-submenu li:hover {
-  background-color: #ffffff;
-}
-.header__nav-item-menu-submenu li:hover:first-child {
-  background-color: #ffffff;
-  border-radius: 10px 10px 0 0;
-}
-.header__nav-item-menu-submenu li:hover:last-child {
-  background-color: #ffffff;
-  border-radius: 0 0 10px 10px;
-}
-.header__nav-item-menu-submenu li:hover a {
-  color: #d6e4f5;
-  background-color: #ffffff;
-  color: #68a8c4;
-}
+  .header__simbolos-1 {
+    padding: 0.95rem;
+  }
+  .header__simbolos-1 img {
+    scale: 0.85;
+  }
+
+  /*----------FIN HEADER----------*/
+
+  /*----------SUB-SECTION FORMACION-----------*/
+
+  .formacion__logo {
+    padding: 0.95rem;
+  }
+  .formacion__logo img {
+    scale: 0.85;
+  }
+  .formacion h2 {
+    font-size: 2.125rem;
+  }
+  .formacion__descripcion h3 {
+    font-size: 1.48rem;
+  }
+  .formacion__descripcion p, .formacion__descripcion ul {
+    font-size: 0.85rem;
+    line-height: 1.326rem;
+  }
+
+  /*----------FIN SUB-SECTION FORMACION-----------*/
+
+  /*----------SUB-SECTION YOGA-----------*/
+
+  .yoga__logo {
+    padding: 0.95rem;
+  }
+  .yoga__logo img {
+    scale: 0.85;
+  }
+  .yoga h2 {
+    font-size: 2.125rem;;
+  }
+  .fotos__1 h3, .fotos__2 h3, .fotos__3 h3 {
+    font-size: 1.48rem;
+  }
+  .fotos__1 p, .fotos__2 p, .fotos__3 p {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+  }
+
+  /*----------FIN SUB-SECTION YOGA-----------*/
+
+  /*----------SUB-SECTION TERAPIAS-----------*/
+
+  .terapias__logo {
+    padding: 0.95rem;
+  }
+  .terapias__logo img {
+    scale: 0.85;
+  }
+  .terapias h2 {
+    font-size: 2.125rem;
+  }
+  .terserv__asesorias h3, .terserv__floral h3, .terserv__reiki h3 {
+    font-size: 1.48rem;
+  }
+  .terserv__asesorias p, .terserv__floral p, .terserv__reiki p {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+  }
+
+  /*----------FIN SUB-SECTION TERAPIAS-----------*/
+
+  /*----------SUB-SECTION ESPACIOS-----------*/
+
+  .espacios__logo {
+    padding: 0.95rem;
+  }
+  .espacios__logo img {
+    scale: 0.85;
+  }
+  .espacios h2 {
+    font-size: 2.125rem;
+  }
+  .circsagr__descr h3 {
+    font-size: 1.4rem;
+  }
+  .circsagr__descr p {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+  }
+  .circsagr__foto {
+    width: 21.875rem;
+    height: 28.125rem;
+    margin-bottom: 3.125rem;
+  }
+
+  /*----------FIN SUB-SECTION ESPACIOS-----------*/
+
+  /*----------SECTION CARRITO-----------*/
+
+  .carrito__container {
+      width: 60vw;
+  }
+  .carrito__container h2 {
+    font-size: 1.1rem;
+  }
+  .carrito__container-ul-item {
+    font-size: 0.8rem;
+    width: 85%;
+  }
+  .carrito__container-btn-vaciar {
+    width: 9rem;
+    font-size: 0.75rem;
+  }
+  .carrito__container-btn-icon-close {
+    width: 1.6rem;
+  }
+
+  /*----------FIN SECTION CARRITO-----------*/
+
+  /*----------SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
+
+  .contact h2 {
+    font-size: 2.125rem;
+  }
+  label {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+  }
+  input, textarea {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+    padding: 0.53rem 0.425rem;
+  }
+  .referencia select {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+    padding: 0.53rem 0.425rem;
+  }
+  .referencia select option{
+    font-size: 0.74rem;
+    line-height: 1.33rem;
+    padding: 0.53rem 0.425rem;
+  }
+  .contact__form button {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+    letter-spacing: 0.053rem;
+    padding: 0.53rem 0.425rem;
+  }
+  .contact__form {
+    max-width: 100%;
+  }
+  .contact__form-1 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .contact__form-1 label {
+    width: 100%;
+  }
+  iframe {
+    width: 100%;
+    height: 18rem;
+  }
+
+  /*----------FIN SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
+
+  /*----------SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
+
+  .acercademi__1-foto, .acercademi__1-video {
+    scale: 0.8;
+  }
+  .acercademi__1-descr, .acercademi__1-descr-1 {
+    max-width: 30rem;
+    height: 22.5rem;
+    border-radius: 9.6px;
+  }
+  .acercademi__1-descr h3 {
+    font-size: 1.752rem;
+  }
+  .acercademi__1-descr-1 h3 {
+    font-size: 1.752rem;
+  }
+  .acercademi__1-descr-1 h4 {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+  }
+  .acercademi__1-descr p, .acercademi__1-descr-1 p {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+  }
+
+  /*----------FIN SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
+
+  /*----------FOOTER----------*/
+
+  .pie__list a {
+    font-size: 0.74rem;
+  }
+  .pie__list-item-submenu li {
+    font-size: 0.74rem;
+  }
+  .pie__list-item-submenu a {
+    font-size: 0.74rem;
+  }
+  .pie__info{
+    font-size: 0.74rem;
+  }
+  .pie__info-wp img, .pie__info-direccion img {
+    scale: 0.85;
+  }
+  .pie__info-correo img {
+    height: 1.594rem;
+  }
+  .pie__info h4 {
+    font-size: 0.85rem;
+  }
+  .pie__info-correo img {
+    height: 1.875rem;
+  }
+  .pie__info-correo-1 a{
+    font-size: 0.74rem;
+  }
+  .pie__redes h4{
+    font-size: 0.85rem;
+  }
+  .pie__redes-icon img {
+    scale: 0.85;
+  }
+  .pie__redes img {
+    scale: 0.85;
+  }
+  .pie-1 p {
+    font-size: 0.8rem;
+  }
+  .pie-1-1 img {
+    scale: 0.85;
+  }
+  .pie__logo img {
+    scale: 0.85;
+  }
+
+  /*----------FIN FOOTER----------*/
 }
 
+
+@media screen and (max-width: 600px) {
+
+  /*----------ESTILOS GENERALES----------*/
+
+  .botones button, .botones a {
+    font-size: 0.7rem;
+    line-height: 1.2rem;
+    letter-spacing: 0.05rem;
+    width: 8.5rem;
+  }
+  .estrellas-1__contacto h1 {
+    font-size: 2.5rem;
+    letter-spacing: 0.3rem;
+  }
+  .estrellas-1__contacto h2 {
+    font-size: 1.5rem;
+    letter-spacing: 0.144rem;
+  }
+  .titulo h2 {
+    font-size: 2.5rem;
+    letter-spacing: 0.3rem;
+  }
+  .titulo P {
+    font-size: 1.25rem;
+  }
+
+  /*----------FIN ESTILOS GENERALES----------*/
+
+  /*----------HEADER----------*/
+
+  .header__nav-1 {
+  background: linear-gradient(to right, rgba(185, 190, 189, 0.8), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgba(185, 190, 189, 0.8));
+  display: flex;
+	justify-content: space-around;
+	align-items: center;
+  flex-wrap: wrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 10;
+  }
+  .header__nav-1-logo img {
+    scale: 0.8;
+  }
+  .header__nav {
+    background: linear-gradient(to bottom, rgba(185, 190, 189), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgb(215, 200, 224), rgba(185, 190, 189));
+    flex-direction: column;
+    justify-content: space-around;
+	  align-items: center;
+    top: 0;
+    left: 0;
+    transform: translateX(-100%); /* oculto a la izquierda */
+    transition: transform 0.3s ease-in-out;
+    width:100vw;
+    height: 100vh;
+    z-index: 20;
+  }
+  .header__nav-menu-btn .icon-menu {
+    display: block;
+  }
+  .header__nav-menu-btn.active .icon-menu {
+    display: none;
+  }
+  .header__nav-menu-btn.active .icon-close {
+    display: block;
+  }
+  .header__nav-logo.active img {
+    animation: none;
+    transform: scale(0.8);
+  }
+  .header__nav-list {
+    flex-direction: column;
+    z-index: 10;
+  }
+
+  .header__nav.active {
+    transform: translateX(0); /* visible al abrir */
+  }
+  .header__titulo h1 {
+  font-size: 3.2rem;
+  letter-spacing: 0.3rem;
+  }
+  .header__titulo h2 {
+    font-size: 1.6rem;
+    letter-spacing: 0.3rem;
+  }
+  .header__simbolos-1 {
+    padding: 0.9rem;
+  }
+  .header__simbolos-1 img {
+    scale: 0.8;
+  }
+
+  /*----------FIN HEADER----------*/
+
+  /*----------SUB-SECTION FORMACION-----------*/
+
+  .formacion__logo {
+    padding: 0.9rem;
+  }
+  .formacion__logo img {
+    scale: 0.8;
+  }
+  .formacion h2 {
+    font-size: 2rem;
+  }
+  .formacion__descripcion h3 {
+    font-size: 1.4rem;
+  }
+  .formacion__descripcion p, .formacion__descripcion ul {
+    font-size: 0.8rem;
+    line-height: 1.248rem;
+  }
+
+  /*----------FIN SUB-SECTION FORMACION-----------*/
+
+  /*----------SUB-SECTION YOGA-----------*/
+
+  .yoga__logo {
+    padding: 0.9rem;
+  }
+  .yoga__logo img {
+    scale: 0.8;
+  }
+  .yoga h2 {
+    font-size: 2rem;;
+  }
+  .fotos__1, .fotos__2, .fotos__3 {
+    max-width: 22.5rem;
+    margin-bottom: 3.125rem;
+  }
+  .fotos__1-imagen, .fotos__2-imagen, .fotos__3-imagen {
+    max-width: 22.5rem;
+    height: 17.5rem;
+  }
+  .fotos__1 h3, .fotos__2 h3, .fotos__3 h3 {
+    font-size: 1.4rem;
+  }
+  .fotos__1 p, .fotos__2 p, .fotos__3 p {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+  }
+
+  /*----------FIN SUB-SECTION YOGA-----------*/
+
+  /*----------SUB-SECTION TERAPIAS-----------*/
+
+  .terapias__logo {
+    padding: 0.9rem;
+  }
+  .terapias__logo img {
+    scale: 0.8;
+  }
+  .terapias h2 {
+    font-size: 2rem;
+  }
+  .terserv__asesorias h3, .terserv__floral h3, .terserv__reiki h3 {
+    font-size: 1.4rem;
+  }
+  .terserv__asesorias p, .terserv__floral p, .terserv__reiki p {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+  }
+
+  /*----------FIN SUB-SECTION TERAPIAS-----------*/
+
+  /*----------SUB-SECTION ESPACIOS-----------*/
+
+  .espacios__logo {
+    padding: 0.9rem;
+  }
+  .espacios__logo img {
+    scale: 0.8;
+  }
+  .espacios h2 {
+    font-size: 2rem;
+  }
+  .circsagr__descr {
+    max-width: 22.5rem;
+  }
+  .circsagr__descr h3 {
+    font-size: 1.4rem;
+  }
+  .circsagr__descr p {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+  }
+  .circsagr__foto {
+    width: 17.5rem;
+    height: 22.5rem;
+  }
+
+  /*----------FIN SUB-SECTION ESPACIOS-----------*/
+
+  /*----------SECTION PRODUCTOS----------*/
+
+  .producto__card {
+    width: 20rem;
+  }
+  .producto__card-img img {
+    width: 96px;
+  }
+  .producto__card-parrafo {
+    font-size: 0.6rem;
+    line-height: 1rem;
+  }
+  .producto__card-parrafo h3 {
+    font-size: 0.8rem;
+  }
+  .precio {
+    font-size: 0.64rem;
+  }
+  .producto__card-parrafo span {
+    font-weight: 600;
+  }
+  .botones1 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 1rem;
+  }
+  .botones1 button {
+    font-size: 0.56rem;
+    line-height: 0.96rem;
+    padding: 0.4rem 0px;
+    width: 6.4rem;
+  }
+
+  /*----------FIN SECTION PRODUCTOS----------*/
+
+  /*----------SECTION CARRITO----------*/
+
+ .carrito__container {
+    width: 100vw;
+  }
+
+  .carrito__container h2 {
+    font-size: 1rem;
+    margin-top: 2rem;
+  }
+
+  .carrito__container-ul-item {
+    font-size: 0.8rem;
+    width: 90%;
+  }
+
+  .carrito__container-btn-vaciar {
+    width: 10rem;
+    font-size: 0.8rem;
+  }
+
+  .carrito__container-btn-icon-close {
+    width: 1.8rem;
+  }
+
+  /*----------FIN SECTION CARRITO----------*/
+
+  /*----------SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
+
+  .contact h2 {
+    font-size: 2rem;
+  }
+  label {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+  }
+  input, textarea {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+    padding: 0.5rem 0.4rem;
+  }
+  .referencia select {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+    padding: 0.5rem 0.4rem;
+  }
+  .referencia select option{
+    font-size: 0.7rem;
+    line-height: 1.256rem;
+    padding: 0.5rem 0.4rem;
+  }
+  .contact__form button {
+    font-size: 0.8rem;
+    line-height: 1.256rem;
+    letter-spacing: 0.05rem;
+    padding: 0.5rem 0.4rem;
+  }
+  iframe {
+    width: 100%;
+    height: 18rem;
+  }
+
+  /*----------FIN SECTION CONTACTO (INDEX 1 - NUEVA PÁGINA)----------*/
+
+  /*----------SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
+
+  .acercademi__1-descr h3 {
+    font-size: 1.86rem;
+  }
+  .acercademi__1-descr-1 h3 {
+    font-size: 1.86rem;
+  }
+  .acercademi__1-descr-1 h4 {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+  }
+  .acercademi__1-descr p, .acercademi__1-descr-1 p {
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+  }
+
+  /*----------FIN SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
+
+  /*----------SECTION RESEÑAS (INDEX 3 - NUEVA PÁGINA)----------*/
+
+  .resenias__card {
+    width: 21.5rem;
+    height: 28.05rem;
+    padding: 0.85rem 1.7rem;
+    border: 1.5px solid #ccc;
+    border-radius: 10.2px;
+  }
+  .resenias__card-logo {
+    padding: 0.956rem;
+  }
+  .resenias__card-logo img {
+    width: 2.125rem;
+  }
+  .resenias__card-parrafo {
+    font-size: 0.64rem;
+    line-height: 1.0625rem;
+  }
+  .resenias__card-pie {
+    width: 17rem;
+    padding: 0 1.7rem;
+    font-size: 0.85rem;
+    line-height: 1.33rem;
+  }
+  .resenias__card-pie-estrellas {
+    font-size: 0.595rem;
+  }
+
+  /*----------FIN SECTION RESEÑAS (INDEX 3 - NUEVA PÁGINA)----------*/
+
+  /*----------FOOTER----------*/
+
+  .pie__list a {
+    font-size: 0.7rem;
+  }
+  .pie__list-item-submenu li {
+    font-size: 0.7rem;
+  }
+  .pie__list-item-submenu a {
+    font-size: 0.7rem;
+  }
+  .pie__info{
+    font-size: 0.7rem;
+  }
+  .pie__info h4 {
+    font-size: 0.8rem;
+  }
+  .pie__info-wp img, .pie__info-direccion img {
+    scale: 0.8;
+  }
+  .pie__info-correo img {
+    height: 1.5rem;
+    }
+  .pie__info-correo-1 a{
+    font-size: 0.7rem;
+  }
+  .pie__redes h4{
+    font-size: 0.8rem;
+  }
+  .pie__redes-icon img {
+    scale: 0.8;
+  }
+  .pie-1{
+    gap: 2rem;
+  }
+  .pie-1 p {
+    margin-left: 0.5rem;
+    font-size: 0.752rem;
+  }
+  .pie-1-1 img {
+    scale: 0.8;
+  }
+  .pie__logo img {
+    scale: 0.8;
+  }
+  .pie-1-1 img {
+    margin-right: 0;
+  }
+
+  /*----------FIN FOOTER----------*/
+}
