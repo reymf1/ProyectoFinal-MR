@@ -1318,7 +1318,7 @@ video::cue {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 6.25rem;
+    gap: 5rem;
   }
   .header__simbolos-1 {
     padding: 0.95rem;
@@ -1653,6 +1653,13 @@ video::cue {
     font-size: 1.6rem;
     letter-spacing: 0.3rem;
   }
+  .header__simbolos{
+  margin-top: 6.25rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5rem;
+}
   .header__simbolos-1 {
     padding: 0.9rem;
   }
