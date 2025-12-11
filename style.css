@@ -36,7 +36,7 @@
   box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 .estrellas-1 {
-  background: linear-gradient(rgb(223, 236, 232, 0.9), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(../Imágenes/estrellas2.jpeg) center / cover;
+  background: linear-gradient(rgb(223, 236, 232, 0.9), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgba(229, 215, 239, 0.5), rgb(223, 236, 232, 0.7)), url(./Imágenes/estrellas2.jpeg) center / cover;
   height: 18.75rem;
   display:flex;
   flex-direction: column;
