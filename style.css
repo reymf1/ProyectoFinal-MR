@@ -405,7 +405,6 @@
   margin-bottom: 3.125rem;
 }
 .fotos__1-imagen, .fotos__2-imagen, .fotos__3-imagen {
-  max-width: 28.125rem;
   height: 21.875rem;
 }
 .fotos__1 img, .fotos__2 video, .fotos__3 img {
@@ -490,6 +489,9 @@
   max-width: 28.125rem;
   margin-bottom: 3.125rem;
 }
+.terserv__asesorias .botones, .terserv__floral .botones, .terserv__reiki .botones {
+  margin-top: 0.94rem;
+}
 .terserv__asesorias h3, .terserv__floral h3, .terserv__reiki h3 {
   text-align: left;
   font-family: "Playfair Display", serif;
@@ -498,18 +500,13 @@
   color: #861aa1;
 }
 .terserv__asesorias p, .terserv__floral p, .terserv__reiki p {
-  margin-top: 0.3125rem;
+  margin-top: 0.4rem;
   text-align: left;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.57rem;
   color: #696868;
-}
-.terserv__asesorias .valor, .terserv__floral .valor, .terserv__reiki .valor {
-  font-weight: 600;
-  text-align: center;
-  margin: 0.94rem 0 1.875rem 0;
 }
 
 /*----------FIN SUB-SECTION TERAPIAS-----------*/
@@ -693,7 +690,6 @@
   z-index: 20;
   border: 1px solid #cac4c4;
   box-shadow: -3px 0px 3px rgba(0,0,0,0.2);
-  /*width: auto;/* se adapta al contenido */
 }
 .carrito__container h2 {
   text-align: center;
@@ -706,8 +702,8 @@
 .carrito__container-btn-icon-close.active {
   top: 1rem;
   right: 0.5rem;
-  width: 1.5rem;
   position: fixed;
+  width:1.5rem ;
   background: none;
   border: none;
   cursor: pointer;
@@ -1357,10 +1353,12 @@ video::cue {
     padding: 0.95rem;
   }
   .yoga__logo img {
-    scale: 0.85;
+    max-width: 25rem;
   }
   .yoga h2 {
     font-size: 2.125rem;;
+  }.fotos__1, .fotos__2, .fotos__3 {
+    max-width: 20rem;
   }
   .fotos__1 h3, .fotos__2 h3, .fotos__3 h3 {
     font-size: 1.48rem;
@@ -1383,6 +1381,9 @@ video::cue {
   .terapias h2 {
     font-size: 2.125rem;
   }
+  .terserv__asesorias, .terserv__floral, .terserv__reiki {
+  max-width: 20rem;
+}
   .terserv__asesorias h3, .terserv__floral h3, .terserv__reiki h3 {
     font-size: 1.48rem;
   }
@@ -1401,6 +1402,9 @@ video::cue {
   .espacios__logo img {
     scale: 0.85;
   }
+  .circsagr__descr {
+  max-width: 20rem;
+}
   .espacios h2 {
     font-size: 2.125rem;
   }
@@ -1412,7 +1416,7 @@ video::cue {
     line-height: 1.33rem;
   }
   .circsagr__foto {
-    width: 21.875rem;
+    max-width: 20rem;
     height: 28.125rem;
     margin-bottom: 3.125rem;
   }
@@ -1422,22 +1426,18 @@ video::cue {
   /*----------SECTION CARRITO-----------*/
 
   .carrito__container {
-      width: 60vw;
-      z-index: 100;
-  }
-  .carrito__container h2 {
-    font-size: 1.1rem;
+    width: 60vw;
+    z-index: 40;
   }
   .carrito__container-ul-item {
     font-size: 0.8rem;
-    width: 85%;
   }
   .carrito__container-btn-vaciar {
     width: 9rem;
     font-size: 0.75rem;
   }
-  .carrito__container-btn-icon-close {
-    width: 1.6rem;
+  .carrito__container-btn-icon-close.active {
+    width: 1.875rem;
   }
 
   /*----------FIN SECTION CARRITO-----------*/
@@ -1495,9 +1495,7 @@ video::cue {
     scale: 0.8;
   }
   .acercademi__1-descr, .acercademi__1-descr-1 {
-    max-width: 30rem;
-    height: 22.5rem;
-    border-radius: 9.6px;
+    max-width: 25rem;
   }
   .acercademi__1-descr h3 {
     font-size: 1.752rem;
@@ -1707,12 +1705,7 @@ video::cue {
     font-size: 2rem;;
   }
   .fotos__1, .fotos__2, .fotos__3 {
-    max-width: 22.5rem;
-    margin-bottom: 3.125rem;
-  }
-  .fotos__1-imagen, .fotos__2-imagen, .fotos__3-imagen {
-    max-width: 22.5rem;
-    height: 17.5rem;
+    max-width: 18rem;
   }
   .fotos__1 h3, .fotos__2 h3, .fotos__3 h3 {
     font-size: 1.4rem;
@@ -1735,6 +1728,9 @@ video::cue {
   .terapias h2 {
     font-size: 2rem;
   }
+  .terserv__asesorias, .terserv__floral, .terserv__reiki {
+  max-width: 18rem;
+}
   .terserv__asesorias h3, .terserv__floral h3, .terserv__reiki h3 {
     font-size: 1.4rem;
   }
@@ -1756,9 +1752,7 @@ video::cue {
   .espacios h2 {
     font-size: 2rem;
   }
-  .circsagr__descr {
-    max-width: 22.5rem;
-  }
+  c
   .circsagr__descr h3 {
     font-size: 1.4rem;
   }
@@ -1767,7 +1761,7 @@ video::cue {
     line-height: 1.256rem;
   }
   .circsagr__foto {
-    width: 17.5rem;
+    max-width: 18rem;
     height: 22.5rem;
   }
 
@@ -1814,26 +1808,17 @@ video::cue {
 
  .carrito__container {
     width: 100vw;
-    z-index: 100;
+    z-index: 40;
   }
-
-  .carrito__container h2 {
-    font-size: 1rem;
-    margin-top: 2rem;
-  }
-
   .carrito__container-ul-item {
     font-size: 0.8rem;
-    width: 90%;
   }
-
   .carrito__container-btn-vaciar {
     width: 10rem;
     font-size: 0.8rem;
   }
-
-  .carrito__container-btn-icon-close {
-    width: 1.8rem;
+  .carrito__container-btn-icon-close.active {
+    width: 1.875rem;
   }
 
   /*----------FIN SECTION CARRITO----------*/
@@ -1877,6 +1862,9 @@ video::cue {
 
   /*----------SECTION ACERCADEMI (INDEX 2 - NUEVA PÁGINA)----------*/
 
+  .acercademi__1-descr, .acercademi__1-descr-1 {
+    max-width: 22rem;
+  }
   .acercademi__1-descr h3 {
     font-size: 1.86rem;
   }
